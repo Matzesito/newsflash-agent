@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-06
+
+- **Ukraine-Friedensinitiative**: US-Unterhändler Steve Witkoff und Jared Kushner reisten nach Moskau und trafen sich am Samstag rund drei Stunden mit Wladimir Putin im Kreml, anschließend Abendessen. Ziel ist ein von Trump vorgeschlagener Friedensplan; als Vertrauensgeste hat die Ukraine angeboten, Angriffe auf Moskau bis Montag auszusetzen, sofern Russland Kyjiw verschont. Die Delegation reist anschließend weiter nach Kyjiw – wie belastbar der Vorstoß ist, bleibt zwischen den beteiligten Seiten unterschiedlich eingeschätzt.
+
+- **Cyberangriff auf Berliner Landesverwaltung**: Die Hackergruppe „Rhysida" hat nach abgelehnter Lösegeldforderung (30 Bitcoin, rund 2 Mio. Euro) fast sechs Terabyte Daten – knapp 1,44 Millionen Dateien – aus der Berliner Verwaltung im Darknet veröffentlicht. Darunter befindet sich auch Material zu CBRN-Bedrohungsszenarien (chemisch, biologisch, radiologisch, nuklear), was Sicherheitsbehörden alarmiert.
+
+- **Mietendemonstration in Berlin**: Rund zwei Wochen vor der Wahl zum Abgeordnetenhaus zogen laut Veranstaltern rund 11.000 Menschen (angemeldet: 20.000) vom Roten Rathaus durch die Innenstadt, organisiert vom „Bündnis gegen Verdrängung und Mietenwahnsinn". Hintergrund ist auch das im März verabschiedete Vergesellschaftungs-Rahmengesetz, dessen konkrete Umsetzung frühestens 2028 greifen würde.
+
+- **Nahost/Iran**: Israels Premier Netanyahu bezeichnete den Sturz der iranischen Führung als „wichtigste noch verbleibende Aufgabe" und sieht diese als „nah" realisierbar. Zur Gaza-Situation bleibt die Lage angespannt: Ein internationaler „Roadmap"-Vorschlag zur Befriedung wird von Israel abgelehnt, solange die Entwaffnung der Hamas nicht erfolgt ist – die Einschätzungen zwischen internationalen Vermittlern und der israelischen Regierung gehen hier deutlich auseinander.
+
+- **Deutsche Konjunktur**: Das ifo-Institut hebt in seiner Herbstprognose die Wachstumserwartung für 2026 auf 1,4 Prozent an, deutlich mehr als im Juni erwartet; für 2027 werden 1,2 Prozent, für 2028 0,8 Prozent prognostiziert. Gleichzeitig zog die Inflation im August auf 2,9 Prozent an (Kerninflation 2,4 %, Energie +10,5 %), während die Arbeitslosenquote saisonbedingt leicht auf 6,5 Prozent stieg.
+
+- **Internationale Finanzmärkte**: Nach einem robusten US-Arbeitsmarktbericht wuchsen die Erwartungen an eine weitere Fed-Zinserhöhung, was Aktienmärkte belastete (S&P 500 auf 7.719, Dow auf 53.414 Punkte gefallen); die 10-jährige US-Staatsanleihe-Rendite stieg auf 4,79 Prozent, Gold gab leicht nach.
+
+Am dynamischsten bleibt die Ukraine-Diplomatie – ob aus dem Moskau/Kyjiw-Vorstoß von Witkoff und Kushner tatsächlich eine belastbare Waffenruhe oder gar ein Verhandlungsdurchbruch wird, dürfte sich im Tagesverlauf weiter zeigen.
+
 ## 2026-09-05
 
 - **Landtagswahl Sachsen-Anhalt**: Am morgigen 6. September wählt Sachsen-Anhalt einen neuen Landtag; Umfragen sehen die AfD mit rund 28 Prozent stärkste Kraft vor der CDU (rund 21 Prozent), die SPD liegt deutlich dahinter. Am Wahlwochenende sind in Magdeburg rund ein Dutzend Kundgebungen angemeldet, die größte von Gewerkschaften und zivilgesellschaftlichen Gruppen mit erwarteten 8.000 Teilnehmenden auf dem Domplatz.
