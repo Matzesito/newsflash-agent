@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-07
+
+- **Sachsen-Anhalt-Wahl**: Die AfD hat die Landtagswahl mit rund 43,8 Prozent klar gewonnen (2021: 20,8 Prozent) und damit ihr Ergebnis mehr als verdoppelt, verfehlte aber die absolute Mehrheit. Die CDU von Ministerpräsident Sven Schulze stürzte auf etwa 17,3 Prozent ab, SPD, Grüne, Linke und BSW zogen mit einstelligen Ergebnissen ins Magdeburger Parlament ein, die FDP scheiterte an der Fünf-Prozent-Hürde. Schulze spricht von einem „niederschmetternden" Ergebnis, in der CDU werden bereits Rücktrittsforderungen laut.
+
+- **US-Iran-Konflikt**: Der seit rund sechs Monaten schwelende militärische Konflikt zwischen den USA und Iran hat sich zuletzt zugespitzt: Die USA griffen mehrere iranische Öltanker an, Iran feuerte im Gegenzug ballistische Raketen auf US-Kriegsschiffe in der Straße von Hormus. Der Schlagabtausch drückt auf die Ölpreise und belastet die Weltwirtschaft, in den USA wird der Konflikt zunehmend auch innenpolitisch vor den Kongresswahlen im November zum Thema.
+
+- **Nahost/Gaza**: US-Sondergesandter Jared Kushner kritisierte, die bevorstehende Knesset-Wahl (27. Oktober) mache die Regierung Netanjahu in der Gaza-Politik „etwas irrational". Der von den USA vorangetriebene Plan zur Entwaffnung der Hamas und einem israelischen Rückzug aus Gaza (Board-of-Peace-Initiative) stockt weiter an israelischem Widerstand. Israels Sicherheitsminister sprach zudem von einer angestrebten „freiwilligen" Umsiedlung von rund 1,86 Millionen Menschen aus Gaza – eine Formulierung, die international als hochproblematisch gilt.
+
+- **Ukraine-Krieg**: Entlang der Front wurden zuletzt an einem Tag rund 245 Gefechte gezählt, Schwerpunkt weiterhin die Region um Pokrowsk; Russland griff in der Nacht mit über 100 Drohnen an. Präsident Selenskyj äußerte sich nach Gesprächen mit US- und europäischen Vertretern skeptisch zu kurzfristigen Friedensaussichten und sprach von einem möglichen nötigen „Winterpaket", sollte der Krieg andauern.
+
+- **Frankreich**: Premierminister Sébastien Lecornu hat zwei Misstrauensanträge im Parlament überstanden, da weder das Linksbündnis noch die Rechtsnationalisten allein eine Mehrheit fanden. Die politische Grundkrise bleibt damit ungelöst: Seit der vorgezogenen Neuwahl 2024 ist die Nationalversammlung in Blöcke gespalten, die sich gegenseitig blockieren – Beobachter sehen Frankreich weiter im politischen Patt bis zur Präsidentschaftswahl 2027.
+
+- **Deutsche Konjunktur**: Wirtschaftsinstitute haben ihre Wachstumsprognosen für Deutschland angehoben – RWI erwartet 2026 nun 1,3 Prozent (zuvor 0,8), das Ifo-Institut 1,4 Prozent. Getragen wird die leichte Erholung vor allem von Exporten und steigenden Staatsausgaben; der DAX hält sich stabil über der Marke von 26.000 Punkten, allerdings sorgen wieder steigende Zinserwartungen in den USA für Unsicherheit.
+
+Besonders in Bewegung: der US-Iran-Konflikt sowie die Personalfrage an der CDU-Spitze in Sachsen-Anhalt könnten sich im Tagesverlauf noch deutlich weiterentwickeln.
+
 ## 2026-09-06
 
 - **Ukraine-Friedensinitiative**: US-Unterhändler Steve Witkoff und Jared Kushner reisten nach Moskau und trafen sich am Samstag rund drei Stunden mit Wladimir Putin im Kreml, anschließend Abendessen. Ziel ist ein von Trump vorgeschlagener Friedensplan; als Vertrauensgeste hat die Ukraine angeboten, Angriffe auf Moskau bis Montag auszusetzen, sofern Russland Kyjiw verschont. Die Delegation reist anschließend weiter nach Kyjiw – wie belastbar der Vorstoß ist, bleibt zwischen den beteiligten Seiten unterschiedlich eingeschätzt.
