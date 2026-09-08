@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-08
+
+- **Sachsen-Anhalt-Wahl**: Die AfD hat die Landtagswahl vom 6. September mit 43,8 Prozent gewonnen – ihr bestes Ergebnis bundesweit und der höchste Wert einer Einzelpartei in Sachsen-Anhalt seit der Wiedervereinigung, bei Rekordwahlbeteiligung von 77,8 Prozent. Die CDU stürzte deutlich ab; Kanzler Merz zeigte sich „geschockt", hält aber am Reformkurs fest, während SPD-Chef Klingbeil das Ergebnis als Signal an Berlin wertet, den Kurs der Koalition zu überdenken.
+
+- **Bundeshaushalt 2027**: Der Bundestag ist am 8. September in die viertägige erste Lesung zum Haushalt 2027 gestartet. Geplant sind Ausgaben von 555,4 Mrd. Euro (+5,9 Prozent gegenüber Vorjahr) bei einer Nettokreditaufnahme von 118,7 Mrd. Euro, davon 85,4 Mrd. über die Ausnahmeregel für Verteidigung/Sicherheit. Die Verabschiedung ist für Ende November vorgesehen.
+
+- **Ukraine-Krieg – Diplomatie**: Die US-Sondergesandten Witkoff und Kushner führten nach einem über dreistündigen Gespräch mit Putin in Moskau am Wochenende weitere „substanzielle" Gespräche mit der ukrainischen Führung in Kiew und drängen auf trilaterale Verhandlungen. Konkrete Durchbrüche wurden nicht verkündet, Putin und Selenskyj vereinbarten aber eine Pause bei Angriffen auf die jeweiligen Hauptstädte während der Gespräche.
+
+- **Nahost/Gaza**: Trotz formeller Waffenruhe seit Oktober 2025 bleibt die Lage angespannt; Israels Armee tötete zuletzt mutmaßliche Hamas- und Islamischer-Dschihad-Mitglieder. Israel besteht auf dauerhafter militärischer Präsenz in Gaza, die Hamas fordert vollständigen Truppenabzug und ein Ende der Blockade – die Positionen bleiben ungelöst.
+
+- **Deutsche Konjunktur**: Das ifo-Institut hat seine Wachstumsprognose für 2026 auf 1,4 Prozent angehoben, gestützt durch Exporte und höhere Staatsausgaben; für 2027 werden 1,2 Prozent erwartet. Die Erholung erreicht laut Institut allerdings noch nicht alle Branchen gleichermaßen.
+
+- **Flugzeugunglück Miami**: Nach dem tödlichen Unfall einer Amazon-Air-Frachtmaschine (Boeing 767) am Sonntag in Miami mit fünf Toten untersucht die NTSB, ob die Maschine zu spät aufsetzte; Bremsverhalten, Geschwindigkeit und Windbedingungen stehen im Fokus der Ermittlungen.
+
+Besonders in Bewegung: Die Reaktionen auf die Sachsen-Anhalt-Wahl und mögliche Konsequenzen für die schwarz-rote Koalition dürften sich im Tagesverlauf noch weiterentwickeln.
+
 ## 2026-09-07
 
 - **Sachsen-Anhalt-Wahl**: Die AfD hat die Landtagswahl mit rund 43,8 Prozent klar gewonnen (2021: 20,8 Prozent) und damit ihr Ergebnis mehr als verdoppelt, verfehlte aber die absolute Mehrheit. Die CDU von Ministerpräsident Sven Schulze stürzte auf etwa 17,3 Prozent ab, SPD, Grüne, Linke und BSW zogen mit einstelligen Ergebnissen ins Magdeburger Parlament ein, die FDP scheiterte an der Fünf-Prozent-Hürde. Schulze spricht von einem „niederschmetternden" Ergebnis, in der CDU werden bereits Rücktrittsforderungen laut.
