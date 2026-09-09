@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-09
+
+- **AfD-Erdrutschsieg in Sachsen-Anhalt und Nachbeben im Bundestag**: Die AfD wurde bei der Landtagswahl vom 6. September mit 43,8 % stärkste Kraft (Rekordwert seit 1990), CDU stürzte auf 17,2 % ab, Wahlbeteiligung bei 77,8 %. In der Generaldebatte am Mittwoch eröffnete Oppositionsführerin Alice Weidel als stärkste Kraft die Aussprache, Kanzler Merz räumte Fehler ein, schloss einen Rücktritt aber aus ("Aufgeben ist für mich keine Option").
+
+- **PISA-Studie: historisch schlechtes Ergebnis für Deutschland**: In Lesekompetenz erreichten 15-Jährige im Schnitt nur noch 465 Punkte (2000: 483), auch in Mathematik und Naturwissenschaften Rekordtiefs. Der seit rund zehn Jahren anhaltende Abwärtstrend gilt als bestätigt, soziale Unterschiede in Deutschland sind laut PISA-Team größer als in fast jedem anderen Land.
+
+- **Ukraine-Krieg: NATO warnt vor eskalierender Gewalt**: NATO-Generalsekretär Mark Rutte erklärte, die Zahl ziviler Todesopfer in der Ukraine sei so hoch wie zuletzt im Mai 2022, und mahnte schnellere westliche Militärhilfe an. Trotz eines Besuchs der US-Sondergesandten Witkoff und Kushner in Kiew und Moskau griff Russland erneut Kiew und Vororte mit Drohnen an, mehrere Tote wurden gemeldet; Präsident Selenskyj sprach zuvor in Oslo mit Norwegens Regierungschef über Luftabwehr für den Winter.
+
+- **Gaza: Gewalt hält trotz Friedensbemühungen an**: Auch nach der Vorstellung eines Gaza-Friedensplans kommt es weiter zu israelischen Luftangriffen und Beschuss, unter anderem auf das Flüchtlingslager Al-Shati und Wohngebiete in Khan Younis, mit weiteren zivilen Todesopfern. Parallel wird über westliche Sanktionsdrohungen gegen israelische Siedlungen im Westjordanland diskutiert, denen die USA laut Außenminister Rubio nicht folgen wollen.
+
+- **Deutsche Wirtschaft: vorsichtige Erholung, aber neue Belastungen**: Die Wirtschaft wuchs im zweiten Quartal in Folge, getragen von Exporten (+3,9 % im ersten Halbjahr) und besserer Stimmung im Mittelstand; die Bundesbank hebt ihre Jahresprognose auf 1,4 % Wachstum an. Gleichzeitig zog die Inflation auf 2,9 % an (Energiepreise +10 %), die Arbeitslosigkeit stieg leicht auf 6,5 %, und die Autoindustrie baute binnen eines Jahres 5,8 % der Stellen ab.
+
+Einordnung zur Sachsen-Anhalt-Wahl: Während öffentlich-rechtliche und liberale Medien die Ergebnisse vor allem als Vertrauenskrise für die Bundesregierung und Zäsur für die "Brandmauer"-Debatte deuten, betonen konservativ-liberale Stimmen stärker die AfD-Mobilisierung im Osten als regionales Phänomen mit strukturellen Ursachen (Wirtschaft, Migration, Ostdeutschland-Frustration).
+
+Besonders in Bewegung: Die Reaktionen aus Bundestag/Koalition auf die Wahlschlappe sowie die Lage rund um Kiew könnten sich im Tagesverlauf noch deutlich weiterentwickeln.
+
 ## 2026-09-08
 
 - **Sachsen-Anhalt-Wahl**: Die AfD hat die Landtagswahl vom 6. September mit 43,8 Prozent gewonnen – ihr bestes Ergebnis bundesweit und der höchste Wert einer Einzelpartei in Sachsen-Anhalt seit der Wiedervereinigung, bei Rekordwahlbeteiligung von 77,8 Prozent. Die CDU stürzte deutlich ab; Kanzler Merz zeigte sich „geschockt", hält aber am Reformkurs fest, während SPD-Chef Klingbeil das Ergebnis als Signal an Berlin wertet, den Kurs der Koalition zu überdenken.
