@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-10
+
+- **Iran-Krieg eskaliert weiter**: Der seit Ende Februar andauernde Krieg zwischen den USA/Israel und Iran verschärft sich zunehmend im Persischen Golf. Die USA haben mehrere mit den iranischen Revolutionsgarden verbundene Öltanker zerstört, Iran feuerte im Gegenzug ballistische Raketen auf US-Kriegsschiffe und griff US-Stützpunkte in Bahrain, Jordanien und Irak an — die schwersten Gefechte seit über einem Monat. Beobachter sprechen von einem "Tankerkrieg" um die Kontrolle der Straße von Hormus; die Ölpreise nähern sich der 100-Dollar-Marke.
+
+- **Bundestag: Generaldebatte Merz gegen Weidel**: Im Rahmen der Haushalts-Generaldebatte kam es zum ersten direkten Schlagabtausch zwischen Kanzler Merz und AfD-Chefin Weidel nach dem AfD-Wahlsieg in Sachsen-Anhalt. Streitpunkte waren Migrationspolitik, Reformkurs der Regierung und ein mögliches AfD-Verbotsverfahren.
+
+- **EZB-Zinsentscheid**: Die EZB entscheidet heute über die Leitzinsen. Angesichts einer auf 3,3 Prozent gestiegenen Eurozonen-Inflation — mitgetrieben durch den Iran-Krieg — erwarten Ökonomen mehrheitlich eine weitere Zinserhöhung um 25 Basispunkte, den Einlagensatz auf dann 2,50 Prozent.
+
+- **Kommunale Finanzkrise in Deutschland**: Der Deutsche Städtetag fordert vom Bund eine jährliche Soforthilfe von 30 Milliarden Euro, da sich das kommunale Defizit von rund 6 Milliarden Euro (2023) auf über 30 Milliarden Euro (2025/2026) mehr als verfünffacht hat. Die CDA (CDU-Arbeitnehmerflügel) fordert parallel spürbarere steuerliche Entlastungen für Bürger und Betriebe, als bislang von der Koalition geplant.
+
+- **Migrationskrise Ceuta**: Spanische Sicherheitsbehörden hatten bereits vor einem massiven Zustrom von Migranten aus Marokko in die spanische Exklave Ceuta gewarnt. Die Opposition wirft der Regierung vor, trotz Vorwarnungen nicht gehandelt und Marokko als mutmaßlichen Anstifter zu Unrecht entlastet zu haben — die Vorfälle reihen sich in eine Serie schwerer Zwischenfälle seit Sommer 2026 ein.
+
+- **Schiffsunglück vor den Philippinen**: Nach einem Brand auf der Passagierfähre "MV June Aster" vor der Provinz Palawan werden noch 87 Menschen vermisst, fünf Tote wurden geborgen, 42 Personen gerettet. An Bord waren nach Behördenangaben rund 134 Menschen; die Brandursache ist noch unklar, Ermittlungen laufen.
+
+Sowohl der Iran-Krieg als auch die EZB-Entscheidung (Ergebnis erst am Nachmittag) und die Rettungsarbeiten vor Palawan sind Themen, die sich im Tagesverlauf noch deutlich weiterentwickeln können.
+
 ## 2026-09-09
 
 - **AfD-Erdrutschsieg in Sachsen-Anhalt und Nachbeben im Bundestag**: Die AfD wurde bei der Landtagswahl vom 6. September mit 43,8 % stärkste Kraft (Rekordwert seit 1990), CDU stürzte auf 17,2 % ab, Wahlbeteiligung bei 77,8 %. In der Generaldebatte am Mittwoch eröffnete Oppositionsführerin Alice Weidel als stärkste Kraft die Aussprache, Kanzler Merz räumte Fehler ein, schloss einen Rücktritt aber aus ("Aufgeben ist für mich keine Option").
