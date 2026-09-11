@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-11
+
+- **9/11-Gedenken (25 Jahre)**: Die USA gedenken heute des 25. Jahrestags der Terroranschläge vom 11. September 2001. Präsident Trump nimmt zum zweiten Mal in Folge an einer Zeremonie am Pentagon teil, Vizepräsident Vance ist bei der Gedenkfeier in New York, weitere Regierungsvertreter in Shanksville, Pennsylvania. Trump hatte den Tag per Proklamation offiziell als "Patriot Day 2026" ausgerufen.
+
+- **EZB-Zinsentscheidung**: Der EZB-Rat hat die Leitzinsen gestern (10.9.) um weitere 25 Basispunkte angehoben, den Einlagesatz auf 2,50 Prozent – die zweite Erhöhung 2026 nach Juni. Grund ist laut EZB-Präsidentin Lagarde anhaltender Inflationsdruck, unter anderem durch den Nahost-Konflikt; die neue Stabsprognose sieht die Inflation 2026 bei rund 3,0 Prozent, erst 2028 wieder nahe Zielwert. Lagarde ließ offen, ob weitere Schritte folgen.
+
+- **AfD-Verbotsdebatte in Deutschland**: Ein neues Rechtsgutachten hat die Debatte über ein mögliches AfD-Verbotsverfahren neu entfacht. Kanzler Merz bleibt gegenüber einem Verbotsantrag skeptisch und setzt auf politische Auseinandersetzung, während Teile der SPD (u.a. Pistorius, Özdemir) ein Verfahren gegen die als gesichert rechtsextrem eingestuften ostdeutschen Landesverbände fordern. Für den 30. September ist eine Sachverständigenanhörung in Thüringen angesetzt; eine Mehrheit für ein Verfahren zeichnet sich weder im Bundestag noch im Bundesrat ab. Einordnung: Die Bewertung, ob ein Verbotsverfahren sinnvoll oder demokratiepolitisch riskant ist, geht zwischen Parteien und Berichterstattung merklich auseinander.
+
+- **Regierungsbildung Sachsen-Anhalt**: Nach der Landtagswahl, bei der die AfD mit 39 von 83 Sitzen stärkste Kraft wurde, aber die absolute Mehrheit verfehlte, hat das BSW als bislang einzige Partei eine Einladung der AfD zu Sondierungsgesprächen angenommen. CDU, SPD, Grüne und Linke lehnten Gespräche mit der AfD ab; BSW-Spitzenkandidat Schulze kritisierte dies als "schlechten Stil". Die Regierungsbildung im Land bleibt damit ungeklärt.
+
+- **VAE-Investitionen in Deutschland**: Die Vereinigten Arabischen Emirate wollen laut einer beim Staatsbesuch von Scheich Mohamed bin Zayed Al Nahyan getroffenen Vereinbarung rund 40 Milliarden Euro in Deutschland investieren, mehr als eine Verdopplung der bisherigen Investitionssumme von etwa 34 Milliarden Euro. Ein Teil fließt in neue Rechenzentren; zusätzlich wurden 29 Unternehmensvereinbarungen mit einem Gesamtvolumen von etwa 9,4 Milliarden Euro unterzeichnet.
+
+- **Ukraine-Krieg**: Nach einem mutmaßlichen russischen Drohnenangriff auf die südostukrainische Stadt Pawlohrad wurden mehrere Menschen getötet und über 30 verletzt; auch in Kiew richteten russische Luftangriffe Schäden an einem Wohnhochhaus an. Der Krieg geht damit trotz laufender diplomatischer Bemühungen unvermindert weiter, eine belastbare Waffenruhe ist weiterhin nicht in Sicht.
+
+Besonders in Bewegung: Die Regierungsbildung in Sachsen-Anhalt sowie die AfD-Verbotsdebatte könnten sich im Tagesverlauf durch neue Wortmeldungen aus den Parteien noch weiterentwickeln.
+
 ## 2026-09-10
 
 - **Iran-Krieg eskaliert weiter**: Der seit Ende Februar andauernde Krieg zwischen den USA/Israel und Iran verschärft sich zunehmend im Persischen Golf. Die USA haben mehrere mit den iranischen Revolutionsgarden verbundene Öltanker zerstört, Iran feuerte im Gegenzug ballistische Raketen auf US-Kriegsschiffe und griff US-Stützpunkte in Bahrain, Jordanien und Irak an — die schwersten Gefechte seit über einem Monat. Beobachter sprechen von einem "Tankerkrieg" um die Kontrolle der Straße von Hormus; die Ölpreise nähern sich der 100-Dollar-Marke.
