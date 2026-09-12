@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-12
+
+- **Iran-Krieg / Straße von Hormuz**: Der seit Ende Februar laufende Krieg zwischen USA/Israel und Iran eskaliert weiter: Beide Seiten meldeten die bislang größte Welle gegenseitiger Angriffe auf Handelsschiffe in der Straße von Hormuz, mehrere Tanker wurden getroffen. Ein im Juni vereinbarter Waffenstillstand gilt als gescheitert, aktuell laufen keine Verhandlungen; der Ölpreis kletterte deshalb erstmals seit Juni wieder über 100 US-Dollar je Barrel.
+
+- **Ukraine-Krieg**: Russland griff erneut ukrainische Städte mit Drohnen an, unter anderem in Saporischschja mit mindestens einem Todesopfer. Im Gegenzug griff die Ukraine mehrere russische Ölinfrastruktur-Ziele an; Putin warnte erneut, eine Entsendung europäischer Bodentruppen käme einem direkten Kriegseintritt Europas gleich – eine Lesart, die europäische Regierungen zurückweisen.
+
+- **Deutschland: Nachwirkungen der Sachsen-Anhalt-Wahl**: Nach dem Rekordergebnis der AfD bei der Landtagswahl (43,8 %, historisches CDU-Tief bei 17,2 %) hält die Debatte über ein mögliches Verbotsverfahren an; einzelne Unionspolitiker (u.a. Roland Koch) sehen dafür gute Erfolgsaussichten, andere in der Koalition mahnen zur Zurückhaltung. Vor der Berlin-Wahl am 20. September wächst der Druck auf die etablierten Parteien.
+
+- **Koalitionsstreit um Steuerreform**: In der schwarz-roten Koalition regt sich offener Widerstand gegen das im Sommer vereinbarte Reformpaket (u.a. höherer Grundfreibetrag, höhere Minijob-Pauschale); rund 20 Unionsabgeordnete drohen laut Berichten mit Abweichen bei der Bundestagsabstimmung. SPD-Finanzpolitiker fordern parallel eine Gegenfinanzierung über höheren Spitzensteuersatz sowie Erbschafts-/Vermögensteuerreformen.
+
+- **EZB erhöht Leitzins**: Die Europäische Zentralbank hob den Einlagesatz um 25 Basispunkte auf 2,50 % an, begründet mit der im August auf 3,3 % gestiegenen Inflation, deutlich über dem 2-Prozent-Ziel. Es ist die zweite Zinserhöhung 2026; die nächste EZB-Sitzung folgt am 29. Oktober.
+
+- **Zugunglück in Frankreich**: Bei Cléon in der Normandie ist ein Regionalzug mit rund 180 Passagieren entgleist, nachdem er mit einem bislang unbekannten Gegenstand kollidierte. Mindestens 44 Menschen wurden verletzt, eine Frau schwer.
+
+Besonders in Bewegung: Die Lage rund um die Straße von Hormuz und den Iran-Krieg kann sich im Tagesverlauf rasch ändern, da derzeit keine Vermittlungsgespräche laufen.
+
 ## 2026-09-11
 
 - **9/11-Gedenken (25 Jahre)**: Die USA gedenken heute des 25. Jahrestags der Terroranschläge vom 11. September 2001. Präsident Trump nimmt zum zweiten Mal in Folge an einer Zeremonie am Pentagon teil, Vizepräsident Vance ist bei der Gedenkfeier in New York, weitere Regierungsvertreter in Shanksville, Pennsylvania. Trump hatte den Tag per Proklamation offiziell als "Patriot Day 2026" ausgerufen.
