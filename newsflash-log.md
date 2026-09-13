@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-13
+
+- **Sachsen-Anhalt/Bundestag-Nachwirkungen**: Nach dem historischen AfD-Wahlsieg in Sachsen-Anhalt (43,8 %, nur knapp an der absoluten Mandatsmehrheit vorbei; CDU auf Rekordtief von 17,2 %) diskutiert der Bundestag in dieser Sitzungswoche in der Generaldebatte zum Haushalt 2027 den Reformkurs der Koalition. Kanzler Merz räumte dabei Kommunikationsfehler bei den geplanten Reformen ein, verteidigte den Kurs aber gegen die Opposition.
+
+- **Kabinettsumbau Merz**: Nach dem Rücktritt von Jens Spahn als Fraktionschef hat Merz eine Kabinettsumbildung vorgenommen: Thorsten Frei übernimmt den Fraktionsvorsitz, Gesundheitsministerin Nina Warken wechselt als Kanzleramtschefin, CDU-Generalsekretär Carsten Linnemann wird neuer Gesundheitsminister. Die formale Umsetzung läuft in dieser Bundestags-Sitzungswoche.
+
+- **Parlamentswahl in Schweden**: Am heutigen Sonntag wählt Schweden ein neues Parlament; die Wahllokale schlossen um 20 Uhr, erste amtliche Zwischenergebnisse werden gegen 21 Uhr erwartet. Vorab-Umfragen sahen die Sozialdemokratin Magdalena Andersson vorn, während der amtierende Ministerpräsident Ulf Kristersson (Moderate) um die Fortsetzung seiner Minderheitsregierung kämpft.
+
+- **Ukraine-Krieg**: Trotz andauernder Kampfhandlungen – darunter ein ukrainischer Drohnenangriff auf russische Kriegsschiffe im Hafen Noworossijsk – gibt es Signale für eine Wiederaufnahme von Verhandlungen unter US-Vermittlung; Kiew spricht von Gesprächen "im Oktober", der Kreml von einem möglichen Dialog "in absehbarer Zeit".
+
+- **Demonstrationen in Berlin**: Am Wochenende gab es zwei gegensätzliche Großveranstaltungen in Berlin – eine Demonstration für gesellschaftlichen Zusammenhalt mit rund 30.000 erwarteten Teilnehmenden sowie eine Friedenskundgebung am Brandenburger Tor mit Sahra Wagenknecht und weiteren Prominenten. Die Ereignisse stehen exemplarisch für die derzeit gegenläufigen gesellschaftlichen Deutungen von Sicherheits- und Ukraine-Politik.
+
+- **Wirtschaftslage Deutschland**: Die deutsche Konjunktur bleibt schwach, Wachstumsprognosen für 2026 wurden zuletzt von Instituten nach unten korrigiert (teils auf rund 0,5 %). Gleichzeitig zieht die Inflation durch höhere Energiepreise wieder an und nähert sich der 3-Prozent-Marke.
+
+Besonders in Bewegung: Die schwedische Wahl ist noch nicht final ausgezählt – belastbare Ergebnisse und mögliche Koalitionsszenarien dürften sich im Tagesverlauf/über Nacht noch deutlich klären.
+
 ## 2026-09-12
 
 - **Iran-Krieg / Straße von Hormuz**: Der seit Ende Februar laufende Krieg zwischen USA/Israel und Iran eskaliert weiter: Beide Seiten meldeten die bislang größte Welle gegenseitiger Angriffe auf Handelsschiffe in der Straße von Hormuz, mehrere Tanker wurden getroffen. Ein im Juni vereinbarter Waffenstillstand gilt als gescheitert, aktuell laufen keine Verhandlungen; der Ölpreis kletterte deshalb erstmals seit Juni wieder über 100 US-Dollar je Barrel.
