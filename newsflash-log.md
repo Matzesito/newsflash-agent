@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-14
+
+- **EU-Arktisgipfel**: Bundeskanzler Merz und weitere Staats- und Regierungschefs mehrerer EU-Länder beraten in Rovaniemi (Finnland) über eine gemeinsame Arktis-Strategie – Themen sind neue Schifffahrtsrouten durch schmelzendes Eis, Rohstoffvorkommen sowie sicherheitspolitische Sorgen wegen russischer und chinesischer Aktivität in der Region. Erwartet werden auch EU-Ratspräsident Costa und Außenbeauftragte Kallas.
+
+- **Wadephul in Budapest**: Außenminister Wadephul reist als erster deutscher Chefdiplomat seit 2019 nach Ungarn, um nach dem Regierungswechsel (Orbán wurde im April bei der Wahl abgelöst) Beziehungen und EU-Kooperation neu aufzustellen. Im Fokus stehen Rechtsstaatlichkeit, EU-Kurs sowie eine deutlich weniger konfrontative ungarische Haltung zu Russland-Sanktionen und Ukraine-Hilfen.
+
+- **Fährunglück in Indonesien**: Bei rauer See ist vor Java die Fähre „Virgo Transport 8" mit 243 Menschen an Bord verunglückt. Mindestens sechs Tote sind bestätigt, über 100 wurden gerettet, mehr als 120 Menschen werden noch vermisst; Hunderte Einsatzkräfte suchen mit Flugzeugen, Schiffen und Tauchern weiter.
+
+- **Krieg in der Ukraine**: Russland griff erneut mit Drohnen Ziele im Westen der Ukraine an, unter anderem eine Tankstelle nahe der polnischen Grenze und einen Zug auf der Strecke Kiew–Warschau. Kiew bereitet sich wegen gezielter Angriffe auf Tankstellen auf mögliche Treibstoffengpässe vor; Präsident Selenskyj erklärte sich zu einem möglichen Treffen mit Putin beim G20-Gipfel im Dezember bereit.
+
+- **Gaza**: Trotz der von den USA vermittelten Waffenruhe kommt es weiter zu israelischen Angriffen – am Wochenende wurden bei einem Drohnenschlag in Gaza-Stadt zwei Palästinenser getötet, zudem Artillerie- und Schiffsbeschuss in mehreren Stadtteilen gemeldet. Trump bezeichnete die Lage hingegen als weitgehend beruhigt; die Einordnung der Lage geht damit zwischen offizieller US-Darstellung und Berichten vor Ort deutlich auseinander.
+
+- **Konjunktur Deutschland**: Der Sentix-Geschäftsklimaindex ist auf minus 2,8 Punkte gestiegen (Vormonat: minus 11,9) – der beste Wert seit Juli 2025, getragen von besserer Lage- und vor allem Erwartungseinschätzung. Ökonomen sehen vorsichtige Anzeichen für ein Ende der deutschen Wirtschaftsschwäche, die Bundesbank bleibt aber wegen des Erstarkens EU-kritischer Kräfte in Europa besorgt.
+
+Bei Gaza ist die Lage besonders in Bewegung: Die Diskrepanz zwischen der offiziellen Darstellung einer Waffenruhe und fortlaufend gemeldeten Angriffen könnte sich im Tagesverlauf weiter zuspitzen oder relativieren.
+
 ## 2026-09-13
 
 - **Sachsen-Anhalt/Bundestag-Nachwirkungen**: Nach dem historischen AfD-Wahlsieg in Sachsen-Anhalt (43,8 %, nur knapp an der absoluten Mandatsmehrheit vorbei; CDU auf Rekordtief von 17,2 %) diskutiert der Bundestag in dieser Sitzungswoche in der Generaldebatte zum Haushalt 2027 den Reformkurs der Koalition. Kanzler Merz räumte dabei Kommunikationsfehler bei den geplanten Reformen ein, verteidigte den Kurs aber gegen die Opposition.
