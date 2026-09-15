@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-15
+
+- **Kommunalwahl Niedersachsen**: Die CDU bleibt mit 27,2 Prozent stärkste kommunale Kraft, verliert aber 4,5 Punkte gegenüber 2021. Die SPD folgt mit 24,6 Prozent, die AfD verdreifacht ihr Ergebnis auf 15,9 Prozent und wird in Salzgitter erstmals stärkste Ratsfraktion, die Grünen kommen auf 14,1 Prozent. Einordnung unterschiedlich: Während manche Häuser den AfD-Zugewinn als zentrale Botschaft des Wahlabends werten, betonen andere primär die anhaltende Erosion der Volksparteien insgesamt.
+
+- **Drohnenangriff auf Zug Kiew–Warschau**: Eine russische Drohne traf am Wochenende die Lokomotive des internationalen Passagierzugs nahe der polnischen Grenze in der Ukraine; die 206 Fahrgäste, darunter Boris Johnson und ein Berater von Kanzler Merz, blieben unverletzt, der Zug erreichte Warschau mit sechs Stunden Verspätung. Parallel meldete Litauen einen Drohnenvorfall über Vilnius, der Flughafen wurde kurzzeitig gesperrt.
+
+- **Bundeswehr-Brigade Litauen**: Verteidigungsminister Pistorius ordnet erstmals Pflichtversetzungen für die dauerhaft in Litauen stationierte Panzerbrigade 45 an, da rund 20 Prozent der Stellen – vor allem in Logistik und IT – nicht durch Freiwillige besetzt werden konnten. Bis Ende September sollen bis zu 1.000 Soldaten verlegt werden, die Brigade soll bis Ende 2027 voll einsatzbereit sein.
+
+- **BKA-Lagebild organisierte Kriminalität**: Bundesinnenminister Dobrindt, BKA-Präsident Münch und Drogenbeauftragter Streeck stellten in Berlin die aktuellen Bundeslagebilder zu organisierter Kriminalität und Rauschgiftkriminalität vor. Zentrale Befunde: ein polizeilich registrierter Schaden von rund 1,3 Milliarden Euro, zunehmende Gewaltbereitschaft im öffentlichen Raum sowie eine verstärkte Anwerbung Minderjähriger über Gaming- und Messenger-Plattformen durch kriminelle Gruppierungen.
+
+- **US-Notenbank vor Zinsentscheid**: Die Fed tagt am 15./16. September; anders als noch vor Monaten erwartet, preisen Marktteilnehmer laut CME FedWatch nun mit hoher Wahrscheinlichkeit eine Zinsanhebung ein – nach aktueller Datenlage zu Inflation und Arbeitsmarkt wäre dies die erste Straffung seit 2023. Die Entscheidung selbst wird erst morgen Abend verkündet.
+
+- **Nahost**: Der seit Oktober 2025 geltende Gaza-Waffenstillstand bleibt fragil, mit wiederholten Zwischenfällen und israelischen Luftschlägen wegen mutmaßlicher Verstöße. Ministerpräsident Netanyahu hat zudem Anfang September einen Regimewechsel im Iran als vorrangiges Ziel bezeichnet, was die Spannungen in der Region über Gaza hinaus verschärft.
+
+Besonders in Bewegung: die Fed-Entscheidung morgen sowie die Lage rund um Litauen/Baltikum (Drohnenvorfälle, NATO-Reaktion) könnten sich im Tagesverlauf noch entwickeln.
+
 ## 2026-09-14
 
 - **EU-Arktisgipfel**: Bundeskanzler Merz und weitere Staats- und Regierungschefs mehrerer EU-Länder beraten in Rovaniemi (Finnland) über eine gemeinsame Arktis-Strategie – Themen sind neue Schifffahrtsrouten durch schmelzendes Eis, Rohstoffvorkommen sowie sicherheitspolitische Sorgen wegen russischer und chinesischer Aktivität in der Region. Erwartet werden auch EU-Ratspräsident Costa und Außenbeauftragte Kallas.
