@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-16
+
+- **US-Zinsentscheid der Fed**: Um 20:00 Uhr (MESZ) entscheidet die US-Notenbank über ihren Leitzins, aktuell bei 3,50–3,75 %. Trotz einer Inflationsrate von 3,4 % im August preisen Marktteilnehmer laut CME FedWatch eine Wahrscheinlichkeit von rund 87 % für eine Zinserhöhung ein; US-Präsident Trump fordert dagegen öffentlich Zinssenkungen und drohte mit Handelsschritten gegen Länder mit US-Handelsdefizit. Um 20:30 Uhr tritt Fed-Chef Kevin Warsh vor die Presse.
+
+- **Ukraine-Krieg**: Bei einem russischen Angriff auf Slowjansk wurden ein Mann und eine Frau getötet, eine weitere Person verletzt und mehrere Wohnhäuser beschädigt. Ukrainische Streitkräfte testeten zudem erfolgreich eine neue Eigenentwicklung zur Drohnenabwehr; parallel meldete Dänemark einen Zwischenfall in der Ostsee, bei dem eine russische Fregatte Leuchtsignale gegen einen dänischen Hubschrauber abgab.
+
+- **Nachwirkungen des Iran-Kriegs**: Nach dem Absichtserklärungs-Abkommen zwischen den USA und Iran vom Juni bleibt die Lage in der Region angespannt – Houthi-Vorstöße Richtung Straße von Hormus und Bab al-Mandab treiben den Ölpreis über 109 US-Dollar pro Barrel, was sich in stark steigenden Kraftstoffpreisen etwa in Syrien niederschlägt. Der iranische Präsident Pezeshkian distanzierte sich von Angriffen auf Saudi-Arabien.
+
+- **EU-Vorstoß zu Social-Media-Altersgrenzen**: Kommissionspräsidentin von der Leyen treibt einen Gesetzentwurf zur Beschränkung des Zugangs Minderjähriger zu sozialen Medien voran. Von der EU beauftragte Experten empfehlen ein Zugangsminimum von 13 Jahren nur unter Aufsicht, für „riskante" Plattformen wird teils ein eigener Account erst ab 15 diskutiert; Kritiker (u.a. netzpolitik.org) warnen vor weitreichenden Alterskontrollen über Social Media hinaus.
+
+- **Deutschland – Koalition unter Druck vor Landtagswahlen**: Vor den Wahlen in Berlin und Mecklenburg-Vorpommern am 20. September hält Bundeskanzler Merz trotz des CDU-Debakels bei der Sachsen-Anhalt-Wahl und schlechter Umfragewerte an der Koalition mit der SPD und am Reformkurs (Rente, Krankenversicherung, Einkommensteuer) fest. Es gibt Spekulationen über Merz' Position innerhalb der CDU, CSU-Chef Söder sicherte ihm jedoch Rückendeckung zu – hier gehen Einschätzungen zur Stabilität der Koalition zwischen den Häusern erkennbar auseinander.
+
+- **Korruptionsprozess in Frankreich**: In Paris beginnt der bis 28. September laufende Prozess gegen den früheren Renault-Nissan-Chef Carlos Ghosn und die französische Ex-Ministerin Rachida Dati wegen Korruptionsverdachts. Dati soll laut Anklage zwischen 2010 und 2012 als Anwältin und EU-Abgeordnete rund 900.000 Euro von einer Renault-Nissan-Tochter ohne erkennbare Gegenleistung erhalten haben; beiden droht bei Verurteilung bis zu zehn Jahre Haft.
+
+Der Fed-Zinsentscheid am Abend und die Reaktionen darauf dürften den Nachrichtentag noch verändern.
+
 ## 2026-09-15
 
 - **Kommunalwahl Niedersachsen**: Die CDU bleibt mit 27,2 Prozent stärkste kommunale Kraft, verliert aber 4,5 Punkte gegenüber 2021. Die SPD folgt mit 24,6 Prozent, die AfD verdreifacht ihr Ergebnis auf 15,9 Prozent und wird in Salzgitter erstmals stärkste Ratsfraktion, die Grünen kommen auf 14,1 Prozent. Einordnung unterschiedlich: Während manche Häuser den AfD-Zugewinn als zentrale Botschaft des Wahlabends werten, betonen andere primär die anhaltende Erosion der Volksparteien insgesamt.
