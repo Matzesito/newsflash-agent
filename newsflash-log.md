@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-18
+
+- **Zinserhöhungen im Gleichschritt**: Innerhalb weniger Tage haben drei große Notenbanken die Zinsen angehoben: Die US-Notenbank Fed erhöhte den Leitzins am 16.9. einstimmig um 25 Basispunkte auf 3,75–4,00 %, die EZB zog bereits am 10.9. mit +0,25 Punkten auf 2,50 % (Einlagensatz) nach, begründet mit einer Inflation von 3,3 % im August. Auch die Bank of Japan hob heute ihren Leitzins um 25 Basispunkte auf 1,25 % an – den höchsten Stand seit 1995, bei einer knappen 7:2-Entscheidung wegen Sorge vor einem Inflationsüberschießen.
+
+- **Diplomatischer Bruch mit Russland**: Die Bundesregierung lässt heute das russische Generalkonsulat in Bonn sowie das „Russische Haus" in Berlin schließen – als Reaktion auf den mutmaßlichen Drohnen-/Sprengstofffund am Flughafen Leipzig/Halle Anfang August, für den Berlin Moskau verantwortlich macht. Russland bestreitet die Vorwürfe, Präsident Putin nennt die Maßnahme einen „schweren Fehler" und die Beweise fabriziert. Berlin bleibt damit einzige verbliebene russische diplomatische Vertretung in Deutschland.
+
+- **Ukraine-Krieg**: Ein russischer Drohnenangriff zerstörte ein Kiewer Lager der von Präsident Selenskyj mitgegründeten Produktionsfirma Kvartal 95 mit Requisiten aus zwei Jahrzehnten. Umgekehrt meldet die Ukraine einen eigenen Angriff auf den russisch besetzten Militärflugplatz Saky auf der Krim, bei dem ein Su-24-Bomber getroffen worden sein soll – Angaben bislang nur einseitig, unabhängig nicht bestätigt.
+
+- **Berlin-Wahl am Sonntag**: Zwei Tage vor der Abgeordnetenhauswahl liegt laut aktuellen Umfragen kein klarer Favorit vorn; SPD, Grüne, CDU und Linke liegen dicht beieinander. Die AfD könnte einigen Umfragen zufolge stärkste Kraft werden, hat aber mangels Koalitionspartnern keine Machtoption. CDU-Regierender Bürgermeister Kai Wegner war vor zwei Monaten wegen des Umgangs mit einem Brandanschlag auf das Berliner Stromnetz als Spitzenkandidat zurückgetreten.
+
+- **Gaza-Waffenstillstand unter Spannung**: Der seit 10. Oktober 2025 geltende Waffenstillstand auf Basis von Trumps 20-Punkte-Plan hält formal, doch über die Umsetzung gibt es erheblichen Dissens. Der internationale Peace-Council-Vertreter Mladenow sieht die Gaza-Roadmap als einzigen Ausweg aus der Gewaltspirale, Israels Regierungschef Netanyahu lehnt sie ab und besteht auf einem Verbleib israelischer Truppen bis zur vollständigen Entwaffnung der Hamas – hier gehen die Lesarten der beteiligten Akteure erkennbar auseinander.
+
+- **Bundesregierung hält an Reformkurs fest**: Kanzler Merz bekräftigt trotz Diskussionen in der Koalition und Unmuts nach jüngsten Landtagswahl-Rückschlägen (u. a. AfD-Rekordergebnis in Sachsen-Anhalt) den Willen, das im Sommer beschlossene Reformpaket mit der SPD umzusetzen. Spekulationen über einen möglichen Kanzlerwechsel (genannt werden u. a. NRW-Ministerpräsident Wüst und Bayerns Ministerpräsident Söder) kursieren, sind aber nicht durch offizielle Ankündigungen gedeckt.
+
+In Bewegung: Die Berlin-Wahl am 20.9. und ihre Nachwirkungen auf die Bundes-Koalition dürften sich im Tagesverlauf und in den kommenden Tagen noch deutlich weiterentwickeln.
+
 ## 2026-09-16
 
 - **US-Zinsentscheid der Fed**: Um 20:00 Uhr (MESZ) entscheidet die US-Notenbank über ihren Leitzins, aktuell bei 3,50–3,75 %. Trotz einer Inflationsrate von 3,4 % im August preisen Marktteilnehmer laut CME FedWatch eine Wahrscheinlichkeit von rund 87 % für eine Zinserhöhung ein; US-Präsident Trump fordert dagegen öffentlich Zinssenkungen und drohte mit Handelsschritten gegen Länder mit US-Handelsdefizit. Um 20:30 Uhr tritt Fed-Chef Kevin Warsh vor die Presse.
