@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-19
+
+- **Russland-Sanktionen**: US-Präsident Trump hat ein von beiden Parteien im Kongress getragenes Sanktionsgesetz gegen Russland unterzeichnet. Es erlaubt ihm, die fünf größten Abnehmer russischer Energieträger sowie die fünf Länder, die Russland am stärksten beim Umgehen von Energiesanktionen helfen, mit Strafmaßnahmen zu belegen. Ziel ist zusätzlicher wirtschaftlicher Druck auf Moskau im Ukraine-Krieg; Reaktionen aus Moskau und Einschätzungen zur tatsächlichen Wirksamkeit gehen in den Medien auseinander.
+
+- **Jemen/Rotes Meer – Huthi-Offensive**: Die vom Iran unterstützte Huthi-Miliz hat große Teile der jemenitischen Westküste sowie Inseln im Roten Meer eingenommen und kontrolliert damit faktisch die strategisch wichtige Meerenge Bab al-Mandab. Die Eskalation hat den Ölpreis über 100 US-Dollar je Barrel getrieben, saudische Exporte bedroht und laut Berichten auch deutsche Tankstellenpreise kurzfristig um bis zu 20 Cent je Liter steigen lassen; über 80.000–125.000 Menschen sind laut Hilfsorganisationen seit Anfang September auf der Flucht.
+
+- **Landtagswahl Mecklenburg-Vorpommern**: Am 20. September (morgen) wird ein neuer Landtag gewählt; heute endet offiziell der Wahlkampf. Umfragen und Berichterstattung unterscheiden sich in der Gewichtung von AfD-Zugewinnen versus möglichen Mehrheiten für eine Fortsetzung der bisherigen Koalition – Ergebnis und Interpretation dürften morgen kontrovers diskutiert werden.
+
+- **Ifo-Konjunkturprognose Deutschland**: Das Ifo-Institut hat seine Wachstumsprognose für 2026 deutlich auf 1,4 Prozent angehoben (zuvor niedriger), gestützt durch Auslandsimpulse sowie höhere Infrastruktur-, Klima- und Verteidigungsausgaben. Gleichzeitig warnt das Institut vor anhaltend hoher Inflation (2,8–3,0 Prozent) und einem wachsenden Staatsdefizit, das bis 2028 auf 4,6 Prozent des BIP steigen könnte.
+
+- **Gaza – fragile Waffenruhe**: Der seit Herbst 2025 geltende, von den USA vermittelte Waffenstillstand zwischen Israel und der Hamas gilt weiterhin als instabil. Berichte sprechen von mehreren hundert Toten bei israelischen Angriffen seit Abschluss des Abkommens trotz formal beendeter Kampfhandlungen und abgeschlossenem Geiselaustausch; die humanitäre Lage im Gazastreifen bleibt laut UN-Angaben angespannt. Die Einordnung der Frage, wie belastbar der Deal tatsächlich ist, fällt je nach Quelle unterschiedlich aus.
+
+- **Koalition in Berlin**: Bundeskanzler Merz hat kürzlich im Bundestag trotz Kritik der Opposition am Reformkurs und eigener eingeräumter Kommunikationsfehler erklärt, an der Koalition mit der SPD festhalten zu wollen. Die Debatte um den Haushalt 2027 sowie um das Tempo angekündigter Reformen läuft weiter.
+
+In Bewegung: Die Landtagswahl in Mecklenburg-Vorpommern morgen sowie die Lage am Roten Meer (Ölpreis-Auswirkungen) können sich im Tagesverlauf noch deutlich verändern.
+
 ## 2026-09-18
 
 - **Zinserhöhungen im Gleichschritt**: Innerhalb weniger Tage haben drei große Notenbanken die Zinsen angehoben: Die US-Notenbank Fed erhöhte den Leitzins am 16.9. einstimmig um 25 Basispunkte auf 3,75–4,00 %, die EZB zog bereits am 10.9. mit +0,25 Punkten auf 2,50 % (Einlagensatz) nach, begründet mit einer Inflation von 3,3 % im August. Auch die Bank of Japan hob heute ihren Leitzins um 25 Basispunkte auf 1,25 % an – den höchsten Stand seit 1995, bei einer knappen 7:2-Entscheidung wegen Sorge vor einem Inflationsüberschießen.
