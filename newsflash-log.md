@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-20
+
+- **Ukraine-Krieg**: Die Ukraine griff mit Raketen und Drohnen mehrere russische Ölanlagen an, darunter drei Lukoil-Bohrinseln im Kaspischen Meer sowie Raffinerien; umgekehrt tötete ein russischer Angriff im Kiewer Umland mindestens drei Zivilisten, darunter eine Mutter mit zwei Kindern. Die EU zahlte eine weitere Kredit-Tranche von 3,3 Mrd. Euro an Kiew aus, zweckgebunden für Raketen und Drohnen. Präsident Selenskyj warnte zugleich vor einer möglichen russischen Mobilisierung von rund 300.000 Soldaten nach den russischen Regionalwahlen im September, mit Blick auf weitere Offensiven im Donbass 2027.
+
+- **Spritpreise/Tankrabatt (Deutschland)**: Bund und Länder haben sich auf ein Entlastungspaket bei Benzin- und Dieselpreisen geeinigt: Ab 1. Oktober soll die Energiesteuer bis Jahresende gesenkt werden, zusammen mit dem Mehrwertsteuereffekt rechnet die Regierung mit rund 17 Cent Ersparnis pro Liter. Zusätzlich ist ab spätestens 1. Januar 2027 ein befristeter Preisdeckel für Kraftstoffe geplant; Hintergrund ist ein rund 30-prozentiger Anstieg der Ölpreise infolge der Lage am Golf/Hormuz.
+
+- **Umfragehoch AfD / historisches Tief der Union (Deutschland)**: Aktuelle Sonntagsfragen (YouGov, RTL/n-tv-Trendbarometer, pollytix) sehen die AfD bundesweit bei 28–29 Prozent und damit stabil als stärkste Kraft, während die Union auf einem laut YouGov historischen Tiefstand liegt. Auffällig: Laut Umfrage lehnt inzwischen nur noch rund die Hälfte der Befragten eine Zusammenarbeit mit der AfD grundsätzlich ab – ein Befund, der von Kommentatoren unterschiedlich eingeordnet wird (manche als Normalisierungssignal, andere als methodisch mit Vorsicht zu lesen).
+
+- **Moody's stuft Polen herab, hebt Griechenland an**: Die Ratingagentur senkte Polens Bonität von A2 auf A3 wegen anhaltend hoher Haushaltsdefizite (rund 7 % des BIP) und einer bis 2027 auf knapp 69 % des BIP steigenden Schuldenquote; politische Blockaden vor der Parlamentswahl 2027 erschweren laut Moody's eine Konsolidierung. Gleichzeitig hob die Agentur den Ausblick für Griechenland auf „positiv" an und verwies auf greifende Strukturreformen.
+
+- **Porsche/VW: weiterer massiver Stellenabbau**: Laut Handelsblatt-Bericht drohen bei Porsche zusätzlich rund 4.000 bis 4.100 weitere Stellenstreichungen, nachdem im Sommer bereits 5.000 Jobs auf Basis früherer Kürzungen vereinbart wurden. Insgesamt soll damit bis 2035 rund ein Fünftel der Belegschaft der Sportwagenmarke abgebaut werden; VW hatte zuvor seine Gewinnprognose für 2026 wegen einer milliardenschweren Abschreibung auf die Porsche-Beteiligung deutlich gesenkt.
+
+- **USA: Trump kündigt Staatsbesuch von Xi Jinping an**: Nach einem verkürzten Aufenthalt in Camp David kehrte Präsident Trump ins Weiße Haus zurück; für den 24. September ist ein Staatsbesuch von Chinas Präsident Xi Jinping in den USA angekündigt, der als möglicher Wendepunkt in den angespannten Handels- und China-Beziehungen gilt. Details zur Agenda des Treffens sind noch offen.
+
+In Bewegung: Der angekündigte Trump-Xi-Gipfel Ende September könnte die Nachrichtenlage zu Handelskonflikt und China-Politik in den kommenden Tagen noch spürbar verändern.
+
 ## 2026-09-19
 
 - **Russland-Sanktionen**: US-Präsident Trump hat ein von beiden Parteien im Kongress getragenes Sanktionsgesetz gegen Russland unterzeichnet. Es erlaubt ihm, die fünf größten Abnehmer russischer Energieträger sowie die fünf Länder, die Russland am stärksten beim Umgehen von Energiesanktionen helfen, mit Strafmaßnahmen zu belegen. Ziel ist zusätzlicher wirtschaftlicher Druck auf Moskau im Ukraine-Krieg; Reaktionen aus Moskau und Einschätzungen zur tatsächlichen Wirksamkeit gehen in den Medien auseinander.
