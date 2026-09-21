@@ -3,6 +3,20 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-21
+
+- **CDU-Wahldebakel in Mecklenburg-Vorpommern**: Bei der Landtagswahl vom 20. September stürzte die CDU auf 4,9 % ab und fliegt erstmals überhaupt aus einem Landtag; die AfD wurde mit rund 38 % stärkste Kraft vor der SPD (Schwesig, ~35,5 %). Kanzler Friedrich Merz nannte das Ergebnis „ein Desaster", schloss einen Rücktritt aber aus und führte die Niederlage auf die Polarisierung zwischen SPD und AfD zurück; das CDU-Präsidium stellte sich am Morgen hinter ihn, vereinzelt wird dennoch über Merz' Kurs diskutiert.
+
+- **Scheinwahl in Russland**: Die dreitägige Duma-Wahl endete am 20. September mit einem klaren Sieg von Putins Partei Geeintes Russland – je nach Quelle/Prognose zwischen rund 50 % und 58 % der Stimmen, dahinter KP und LDPR. Es war die erste Parlamentswahl seit Kriegsbeginn 2022; die einzige offen kriegskritische Partei (Jabloko) war von der Wahl ausgeschlossen, Beobachter werten die Abstimmung als Bestätigung von Putins Kriegskurs statt als freie Wahl.
+
+- **UN-Generaldebatte in New York**: Zum Auftakt der High-Level-Woche (81. UN-Vollversammlung) fordert Außenminister Wadephul konkrete Fortschritte bei der Lösung der Kriege in der Ukraine und im Nahen Osten statt einer bloßen „Bestandsaufnahme der Krisen". Merz reist – wie im Vorjahr – nicht persönlich nach New York; Deutschland ist auf Ministerebene vertreten.
+
+- **Gaza/Nahost weiterhin instabil**: Trotz der bestehenden Waffenruhe-Vereinbarung melden Hilfsorganisationen weiterhin fast täglich israelische Angriffe, Häuserabrisse und Tote in Gaza; Israel wirft im Gegenzug Hamas-nahen Kämpfern anhaltende Bedrohungen vor. Die Einschätzung, ob die Waffenruhe faktisch noch trägt, geht zwischen israelischen und palästinensischen/humanitären Quellen erkennbar auseinander.
+
+- **Deutsche Konjunktur leicht aufgehellt**: Das Institut der deutschen Wirtschaft (IW) hat seine Wachstumsprognose für 2026 von 0,4 auf 1,2 % angehoben, gestützt durch ein starkes erstes Halbjahr und schuldenfinanzierte Infrastrukturinvestitionen. Für die zweite Jahreshälfte erwarten die Ökonomen jedoch eine Abschwächung, da Exportsondereffekte auslaufen und hohe Energiepreise den Konsum belasten; strukturelle Probleme der Industrie (Energiekosten, China-Konkurrenz, Elektrifizierung) bleiben ungelöst.
+
+In Bewegung: Die CDU-interne Debatte über Merz' Führung dürfte im Tagesverlauf noch an Fahrt aufnehmen, je nachdem, wie sich CDU-Gremien und Landesverbände nach der ersten Präsidiumssitzung öffentlich positionieren.
+
 ## 2026-09-20
 
 - **Ukraine-Krieg**: Die Ukraine griff mit Raketen und Drohnen mehrere russische Ölanlagen an, darunter drei Lukoil-Bohrinseln im Kaspischen Meer sowie Raffinerien; umgekehrt tötete ein russischer Angriff im Kiewer Umland mindestens drei Zivilisten, darunter eine Mutter mit zwei Kindern. Die EU zahlte eine weitere Kredit-Tranche von 3,3 Mrd. Euro an Kiew aus, zweckgebunden für Raketen und Drohnen. Präsident Selenskyj warnte zugleich vor einer möglichen russischen Mobilisierung von rund 300.000 Soldaten nach den russischen Regionalwahlen im September, mit Blick auf weitere Offensiven im Donbass 2027.
