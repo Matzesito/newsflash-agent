@@ -3,6 +3,20 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-22
+
+- **Landtagswahlen Mecklenburg-Vorpommern & Berlin**: Bei den Wahlen vom 20. September verfehlte die CDU in MV erstmals in der Geschichte der Bundesrepublik den Einzug in ein Landesparlament (4,9 %), stärkste Kraft wurde die AfD mit 38,2 % vor der SPD (35,5 %). In Berlin wurde die Linke mit 25,7 % erstmals stärkste Kraft (vor CDU 18,8 %, AfD 16,3 %, Grüne 14,3 %, SPD historisches Tief bei 12,1 %); über eine mögliche Regierungsbildung wird noch verhandelt.
+
+- **Regierungskrise um Kanzler Merz**: Nach dem Wahldebakel mehren sich in der Union offene Spekulationen über eine Ablösung des Kanzlers; laut INSA-Umfrage halten nur 14 % ihn noch für den richtigen Kanzler, 78 % nicht – auch eine Mehrheit der Unionswähler. Merz selbst kündigte an, an seinem Kurs festzuhalten; Medien sind uneins, ob ein Kanzlerwechsel die eigentlichen Probleme der Union lösen würde.
+
+- **Ukraine-Krieg / Trump-Zelensky-Treffen**: Am Rande der UN-Generalversammlung in New York trifft Präsident Selenskyj US-Präsident Trump; laut Außenminister Rubio soll damit weiter an einem Ende des Kriegs gearbeitet werden, ein unmittelbarer Waffenstillstand gilt aber nicht als wahrscheinlich. Zuvor griff Russland mit rund 200 Gefechtshandlungen, Drohnen und Luftangriffen vor allem die Regionen Pokrowsk und Kostjantyniwka an, es gab zivile Todesopfer.
+
+- **USA–Dänemark: Grönland-Sicherheitsabkommen**: Am Rande der UN-Generalversammlung unterzeichnen die USA und Dänemark ein Abkommen, das Washington dauerhafte Sicherheitsbefugnisse über Grönland einräumt, inklusive permanenter Zugangs- und Überflugrechte, auch im Fall einer grönländischen Unabhängigkeit. Während Trump von einem historischen Erfolg spricht, ordnen europäische Kommentatoren den Deal deutlich zurückhaltender ein.
+
+- **Geldpolitik: EZB und Fed erhöhen Leitzinsen**: Die EZB hob im September die Leitzinsen um 0,25 Punkte an (Einlagensatz 2,50 %) angesichts einer für 2026 erwarteten Inflation von rund 3 % bei gleichzeitig auf 0,8 % gesenkter Wachstumsprognose für den Euroraum. Auch die US-Notenbank erhöhte den Leitzins um 25 Basispunkte auf 3,75–4,00 %, mit Signalen für mindestens eine weitere Anhebung bis Jahresende.
+
+In Bewegung: Sowohl die Personalie Merz als auch der Ausgang des Trump-Selenskyj-Treffens bei der UN-Generalversammlung können sich im Tagesverlauf noch deutlich weiterentwickeln.
+
 ## 2026-09-21
 
 - **CDU-Wahldebakel in Mecklenburg-Vorpommern**: Bei der Landtagswahl vom 20. September stürzte die CDU auf 4,9 % ab und fliegt erstmals überhaupt aus einem Landtag; die AfD wurde mit rund 38 % stärkste Kraft vor der SPD (Schwesig, ~35,5 %). Kanzler Friedrich Merz nannte das Ergebnis „ein Desaster", schloss einen Rücktritt aber aus und führte die Niederlage auf die Polarisierung zwischen SPD und AfD zurück; das CDU-Präsidium stellte sich am Morgen hinter ihn, vereinzelt wird dennoch über Merz' Kurs diskutiert.
