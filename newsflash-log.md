@@ -3,6 +3,20 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-23
+
+- **Merz bleibt Kanzler, aber angeschlagen**: Nach dem Wahldebakel der CDU bei den Landtagswahlen in Mecklenburg-Vorpommern (AfD stärkste Kraft mit 38,2 %, CDU verpasst erstmals in der Landesgeschichte den Einzug in einen Landtag) und Berlin (Linke stärkste Kraft mit 25,7 %) hatte Kanzler Friedrich Merz am Wochenende eine „indirekte Vertrauensfrage" im CDU-Präsidium gestellt. Eine formale Abstimmung fand nicht statt, laut übereinstimmenden Berichten (tagesschau, ZDF, Euronews) sicherte sich Merz aber vorerst den Rückhalt der Parteispitze und bleibt Kanzler – parteiintern bleibt der Druck jedoch hoch.
+
+- **UN-Generaldebatte in New York**: Bei der 81. UN-Generalversammlung sprach Wolodymyr Selenskyj vor der Vollversammlung und im Sicherheitsrat über Wege zu einem tragfähigen Frieden nach neuen russischen Angriffen. Am Rande war ein Treffen der Außenminister Sergej Lawrow (Russland) und Marco Rubio (USA) geplant – frühere Gespräche dieser Art (zuletzt im Juli in Manila) blieben bislang ergebnisarm, Beobachter erwarten daher auch diesmal keinen Durchbruch.
+
+- **Xi Jinping zu Staatsbesuch in Washington**: Chinas Staats- und Parteichef Xi Jinping ist mit Ehefrau Peng Liyuan zu einem dreitägigen Staatsbesuch (23.–25. September) in die USA gereist – der erste Besuch im Weißen Haus seit elf Jahren. Trump empfängt ihn persönlich, am 24. September folgen Gipfeltreffen und ein Staatsbankett; im Zentrum stehen Handelsfragen, Seltene Erden und KI-Kooperation. Analysten (u. a. CFR) rechnen höchstens mit einer Verlängerung der „Busan-Waffenruhe" im Handelsstreit sowie punktuellen Agrar-/Energiekäufen, nicht mit einem großen Durchbruch.
+
+- **Gaza-Waffenruhe bleibt fragil**: Fast ein Jahr nach Inkrafttreten der Waffenruhe (11. Oktober 2025) melden UN-Stellen und Hilfsorganisationen anhaltende Verstöße – darunter Luftangriffe, Beschuss und Abrissarbeiten in israelisch kontrollierten Gebieten. Der UN-Menschenrechtskommissar kritisiert das Vorgehen des israelischen Militärs; Berichte zu Opferzahlen seit der Waffenruhe gehen zwischen Quellen (u. a. NZZ vs. pro-palästinensische Portale) in der Einordnung teils deutlich auseinander, weshalb Zahlen mit Vorsicht zu behandeln sind.
+
+- **Konjunktur: Einkaufsmanagerindizes für September veröffentlicht**: Die vorläufigen (Flash-)PMI-Daten für Deutschland, Frankreich, die Eurozone und Großbritannien kamen heraus. Für die Eurozone insgesamt zeigt sich der neunte Monat in Folge Wachstum oberhalb der Expansionsschwelle, getragen von Industrie und Dienstleistungssektor; allerdings sank das Geschäftsklimavertrauen auf ein Vier-Monats-Tief, mit spürbarer Eintrübung in Deutschland und Frankreich.
+
+In Bewegung: Der Ausgang der innerparteilichen Machtfrage bei der Union ist noch nicht endgültig geklärt – hier sind im Tagesverlauf weitere Entwicklungen möglich.
+
 ## 2026-09-22
 
 - **Landtagswahlen Mecklenburg-Vorpommern & Berlin**: Bei den Wahlen vom 20. September verfehlte die CDU in MV erstmals in der Geschichte der Bundesrepublik den Einzug in ein Landesparlament (4,9 %), stärkste Kraft wurde die AfD mit 38,2 % vor der SPD (35,5 %). In Berlin wurde die Linke mit 25,7 % erstmals stärkste Kraft (vor CDU 18,8 %, AfD 16,3 %, Grüne 14,3 %, SPD historisches Tief bei 12,1 %); über eine mögliche Regierungsbildung wird noch verhandelt.
