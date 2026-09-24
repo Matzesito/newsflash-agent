@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-24
+
+- **Xi-Besuch in Washington**: Chinas Staatschef Xi Jinping ist zu einem dreitägigen Staatsbesuch in den USA eingetroffen, Trump empfing ihn persönlich auf dem Rollfeld der Joint Base Andrews. Neben Handel und Zöllen (US-Finanzminister Bessent kündigte eine Verlängerung der Zollpause auf chinesische Waren bis 10. Januar an) stehen KI-Sicherheit sowie die Kriege in der Ukraine und im Nahen Osten auf der Agenda.
+
+- **UN-Generaldebatte/Nahost**: Bei der UN-Generalversammlung in New York steht der Nahost-Konflikt im Zentrum. Israels Regierungschef Netanyahu und Palästinenserpräsident Abbas (per Video, da ihm ein US-Visum verweigert wurde) sprechen vor der Vollversammlung; parallel laufen Beratungen u.a. zu einer künftigen Gaza-Verwaltung und einer Zweistaatenlösung.
+
+- **Ukraine-Krieg**: Russland hat Kiew in der Nacht erneut mit ballistischen Raketen angegriffen; nach Angaben von Bürgermeister Klitschko starben zwei Menschen, sechs wurden verletzt. Präsident Selenskyj erklärte, Ziele seien erneut Wohnhäuser, eine Geburtsklinik sowie Energie- und Logistikinfrastruktur gewesen.
+
+- **Herbstgutachten der Wirtschaftsinstitute**: Die führenden deutschen Wirtschaftsforschungsinstitute haben ihre Wachstumsprognose für 2026 auf rund 1,2 bis 1,4 Prozent angehoben (ifo, IWH: 1,4 %; DIW, IW: rund 1,2 %). Als Treiber gelten kräftige Exporte und ein schuldenfinanzierter Infrastrukturtopf; Institute wie das DIW warnen aber, die Dynamik sei angesichts struktureller Schwächen nicht von Dauer.
+
+- **Rentenreform-Streit in Berlin**: In der Koalition wird über eine Anhebung der Beitragsjahre für die abschlagsfreie Rente ("Rente mit 63") von 45 auf 46 bzw. 47 Jahre beraten. CSU-Landesgruppenchef Hoffmann fordert, die abschlagsfreie Rente künftig nur noch für Härtefälle statt als Regelfall zu gewähren – ein möglicher Streitpunkt zwischen Union und SPD.
+
+- **Sachsen-Anhalt – BSW/AfD**: Nach der Landtagswahl zeichnet sich in Sachsen-Anhalt eine Postenabsprache zwischen AfD und BSW ab (AfD-Landtagspräsident, BSW-Vize). BSW-Chefin Mohamed Ali hatte eine Abstimmung zunächst bestätigend kommentiert, dementierte später in der Sendung „maischberger" einen „Deal" explizit – die Darstellungen von BSW und Beobachtern gehen hier auseinander.
+
+In Bewegung: Die genaue Ausgestaltung der BSW-AfD-Postenfrage in Sachsen-Anhalt ist noch nicht final geklärt und könnte sich im Tagesverlauf weiter zuspitzen oder dementiert werden.
+
 ## 2026-09-23
 
 - **Merz bleibt Kanzler, aber angeschlagen**: Nach dem Wahldebakel der CDU bei den Landtagswahlen in Mecklenburg-Vorpommern (AfD stärkste Kraft mit 38,2 %, CDU verpasst erstmals in der Landesgeschichte den Einzug in einen Landtag) und Berlin (Linke stärkste Kraft mit 25,7 %) hatte Kanzler Friedrich Merz am Wochenende eine „indirekte Vertrauensfrage" im CDU-Präsidium gestellt. Eine formale Abstimmung fand nicht statt, laut übereinstimmenden Berichten (tagesschau, ZDF, Euronews) sicherte sich Merz aber vorerst den Rückhalt der Parteispitze und bleibt Kanzler – parteiintern bleibt der Druck jedoch hoch.
