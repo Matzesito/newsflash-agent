@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-25
+
+- **Merz/Koalitionskrise**: Nach den Wahlniederlagen der CDU in Mecklenburg-Vorpommern und Berlin sowie zuvor in Sachsen-Anhalt steht Kanzler Friedrich Merz parteiintern unter erheblichem Druck; laut Umfragen wünschen sich rund 55 % der Deutschen seinen Rücktritt. Merz hat im CDU-Präsidium/Bundesvorstand eine informelle „Vertrauensfrage" zu seinem Reformkurs gestellt, hält aber bislang an Amt und Koalition mit der SPD fest. Konservative und liberale Medien unterscheiden sich in der Einordnung: Während einige eine strukturelle Krise der Union diagnostizieren, betonen andere Merz' Beharrungsvermögen und fehlende Alternativen.
+
+- **Tankrabatt beschlossen**: Bundestag und Bundesrat haben in dieser Woche die befristete Senkung der Energiesteuer auf Kraftstoffe (rund 17 Cent je Liter) auf den Weg gebracht, die zum 1. Oktober 2026 in Kraft treten und zunächst bis Jahresende gelten soll. Ab 2027 ist zusätzlich ein staatlicher Spritpreisdeckel vorgesehen, finanziert unter anderem über eine geplante Übergewinnsteuer auf Mineralölkonzerne.
+
+- **Konjunktur**: Die führenden Wirtschaftsforschungsinstitute und die Bundesregierung haben ihre Wachstumsprognose für Deutschland deutlich angehoben – von zuvor rund 0,6 % im Frühjahr auf jetzt etwa 1,3 % für 2026. Als Treiber gelten stärkere Exporte und höhere Staatsausgaben, strukturelle Probleme und schwache Investitionen bremsen laut den Instituten aber weiterhin einen nachhaltigen Aufschwung.
+
+- **Organspende-Debatte**: Der Bundestag hat über die Einführung einer Widerspruchslösung bei der Organspende beraten – nach dieser gälte ohne ausdrücklichen Widerspruch zu Lebzeiten automatisch eine Spendebereitschaft. Es handelt sich um den dritten Anlauf für dieses Modell; eine Entscheidung fiel noch nicht, die Vorlagen gehen zur weiteren Beratung in den Gesundheitsausschuss.
+
+- **Trump-Xi-Gipfel**: US-Präsident Trump und Chinas Staats- und Parteichef Xi Jinping haben bei einem Treffen in Washington eine Verlängerung des Handelswaffenstillstands bis Anfang 2027 vereinbart, mit gegenseitigem Verzicht auf neue Zölle und Handelsbeschränkungen. Während die US-Regierung dies als Durchbruch darstellt, werten internationale Wirtschaftsmedien es eher als Zeitgewinn beider Seiten angesichts ungelöster Streitpunkte wie Seltene Erden, Technologie-Exportkontrollen und Taiwan.
+
+- **Ukraine-Krieg und Nahost**: Russland setzt Angriffe auf ukrainische Infrastruktur fort, während die Ukraine ihrerseits verstärkt Häfen und Energieanlagen in Russland mit Drohnen angreift; Präsident Selenskyj warnte internationale Fluggesellschaften vor russischem Luftraum. Im Gazastreifen hält der seit Oktober 2025 bestehende Waffenstillstand formal an, gilt Beobachtern zufolge aber als fragil – beide Seiten werfen sich gegenseitig Verstöße vor, während sich die humanitäre Lage nur langsam verbessert.
+
+In Bewegung: Die Personalie Merz/CDU ist derzeit besonders in Bewegung und könnte sich im Tagesverlauf noch entscheidend weiterentwickeln.
+
 ## 2026-09-24
 
 - **Xi-Besuch in Washington**: Chinas Staatschef Xi Jinping ist zu einem dreitägigen Staatsbesuch in den USA eingetroffen, Trump empfing ihn persönlich auf dem Rollfeld der Joint Base Andrews. Neben Handel und Zöllen (US-Finanzminister Bessent kündigte eine Verlängerung der Zollpause auf chinesische Waren bis 10. Januar an) stehen KI-Sicherheit sowie die Kriege in der Ukraine und im Nahen Osten auf der Agenda.
