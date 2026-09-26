@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-26
+
+- **Iran/USA – Ceasefire abgelehnt**: Laut Wall Street Journal (Bloomberg/CBS berichten übereinstimmend) hat Präsident Trump ein iranisches Angebot für einen siebentägigen Waffenstillstand abgelehnt und rechnet intern mit einer Wiederaufnahme der Bombardierungen nach den US-Zwischenwahlen im November. Irans Außenminister Araghchi bietet im Gegenzug an, die Straße von Hormus innerhalb von sieben Tagen wieder für die Schifffahrt zu öffnen, sofern Sanktionslockerungen und ein Ende der US-Seeblockade folgen. Einordnung geht auseinander: US-Berichte betonen Trumps Skepsis und Eskalationsbereitschaft, iranische Quellen (Iran International) stellen Teherans Diplomatie-Initiative stärker in den Vordergrund.
+
+- **Deutschland – Tankrabatt beschlossen**: Die schwarz-rote Koalition hat eine befristete Steuersenkung auf Kraftstoffe auf den Weg gebracht, die nach Zustimmung im Bundesrat (Plenarsitzung 25.9.) zum 1. Oktober in Kraft treten soll. Ziel ist die Entlastung der Bürger angesichts hoher Spritpreise; Kritiker verweisen auf Kosten für den Haushalt und fragwürdige Lenkungswirkung.
+
+- **Bundesrat – BAföG-Reform und Geheimdienstgesetz**: Die Länderkammer hat sich zu zwei Vorhaben der Bundesregierung positioniert: einer BAföG-Reform mit höheren Förderleistungen sowie einem Gesetz zur Neuordnung der Nachrichtendienste. Bei letzterem kritisiert der Bundesrat, der Bund gehe fälschlich davon aus, den Ländern entstünden dadurch keine Mehrkosten.
+
+- **Deutschland – Nachwirkungen der Landtagswahl Sachsen-Anhalt**: Nach dem historischen AfD-Erfolg vom 6. September (43,8 % – stärkste Kraft, CDU auf Rekordtief bei 17,2 %, Rekord-Wahlbeteiligung 77,8 %) steht Kanzler Merz weiter unter Druck; auch aus EU-Partnerländern werden Zweifel an Deutschlands außenpolitischer Führungsrolle laut. Gleichzeitig finden bundesweit erneut Demonstrationen gegen die AfD und Rechtsextremismus statt.
+
+- **Wirtschaft – ifo-Geschäftsklima steigt weiter**: Der ifo-Index kletterte im September auf 89,9 Punkte (von 88,8) – der höchste Stand seit über drei Jahren und der fünfte Anstieg in Folge. Sowohl Industrie (v.a. Elektrobranche) als auch Dienstleister melden verbesserte Lage- und Erwartungswerte; das ifo-Institut rechnet für 2026 mit 1,4 % BIP-Wachstum, gestützt durch expansive Fiskalpolitik.
+
+- **International – Grönland-Abkommen**: Die USA, Dänemark und Grönland haben ein Sicherheitsabkommen unterzeichnet, das den USA zwei neue Militärbasen (Narsarsuaq, Mestersvig) sowie den Ausbau der Pituffik Space Base erlaubt; die dänische Souveränität über Grönland bleibt formal bestätigt. Reaktionen in Kopenhagen sind gemischt – Befürworter sehen engere Arktis-Kooperation, Kritiker halten die Vereinbarung für unzureichend gegenüber grönländischen Souveränitätsanliegen.
+
+In Bewegung: Die Iran/USA-Lage ist derzeit besonders in Bewegung – Trumps Haltung zu einem Waffenstillstand könnte sich im Tagesverlauf durch weitere Erklärungen aus Washington oder Teheran noch ändern.
+
 ## 2026-09-25
 
 - **Merz/Koalitionskrise**: Nach den Wahlniederlagen der CDU in Mecklenburg-Vorpommern und Berlin sowie zuvor in Sachsen-Anhalt steht Kanzler Friedrich Merz parteiintern unter erheblichem Druck; laut Umfragen wünschen sich rund 55 % der Deutschen seinen Rücktritt. Merz hat im CDU-Präsidium/Bundesvorstand eine informelle „Vertrauensfrage" zu seinem Reformkurs gestellt, hält aber bislang an Amt und Koalition mit der SPD fest. Konservative und liberale Medien unterscheiden sich in der Einordnung: Während einige eine strukturelle Krise der Union diagnostizieren, betonen andere Merz' Beharrungsvermögen und fehlende Alternativen.
