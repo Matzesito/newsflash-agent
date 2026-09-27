@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-27
+
+- **Ukraine-Krieg**: Russland setzt seine Luftangriffe auf ukrainische Städte fort; bei einem schweren Raketenangriff auf Kiew in dieser Woche starben mehrere Menschen, Wohnhäuser und eine Geburtsklinik wurden beschädigt. Die EU hat zusätzlich 52 Mio. Euro humanitäre Hilfe für die Ukraine zugesagt, während Berichte über eine geplante russische Truppenmobilisierung nach den dortigen Parlamentswahlen die Lage weiter verschärfen könnten.
+
+- **Nahost/Gaza – Netanyahu vs. New Yorks Bürgermeister**: Der im Oktober 2025 vereinbarte Gaza-Waffenstillstand hält formal, doch beide Seiten werfen sich weiterhin Verstöße vor (Beschuss, Abrisse, laut palästinensischen Angaben zahlreiche Tote seit Oktober). International sorgte zudem Israels Ministerpräsident Netanyahu mit einer scharfen UN-Rede gegen New Yorks neuen Bürgermeister Mamdani für Aufsehen, der ihm seinerseits „Kriegsverbrechen" vorwirft – ein Beispiel für die tief gespaltene internationale Wahrnehmung des Konflikts.
+
+- **Berlin-Wahl und Koalitionsfrage**: Bei der Abgeordnetenhauswahl am 20. September wurde die Linke mit 25,7 Prozent erstmals stärkste Kraft in Berlin, vor der CDU (18,8 Prozent) und der AfD (16,3 Prozent). Da keine Zweierkoalition mehr reicht, laufen nun Sondierungen, wahrscheinlich zwischen Linke, Grünen und SPD.
+
+- **Bundesregierung/Koalitionskurs**: Kanzler Merz hält trotz schwacher Umfragewerte und einer Wahlniederlage der CDU in Sachsen-Anhalt an der Koalition mit der SPD und am angekündigten Reformkurs fest. Bei der Haushaltsdebatte räumte er Kommunikationsfehler bei der Vermittlung der Reformen ein, verteidigte den Kurs aber gegen die Opposition.
+
+- **Deutsche Wirtschaft**: Führende Wirtschaftsforschungsinstitute haben ihre Herbstprognose für das BIP-Wachstum 2026 auf gut 1,2–1,3 Prozent angehoben (zuvor 0,6 Prozent) – getragen von Exporten und höheren Staatsausgaben für Infrastruktur und Verteidigung. Zugleich bremsen niedriger Rheinpegel und eine anhaltende Baukrise (Bauwertschöpfung rund 22 Prozent unter 2019er-Niveau) die Erholung im dritten Quartal.
+
+- **USA – Haushaltsstreit entschärft**: Vor der Frist zum 30. September hat der US-Kongress eine kurzfristige Übergangsfinanzierung bis Anfang Dezember verabschiedet (Repräsentantenhaus 370:48, Senat zuvor mit großer Mehrheit) und damit einen erneuten Shutdown zunächst abgewendet.
+
+In Bewegung: Die Koalitionsbildung in Berlin (Linke/Grüne/SPD) steht erst am Anfang der Sondierungen, hier kann sich der Ausgang noch deutlich verschieben.
+
 ## 2026-09-26
 
 - **Iran/USA – Ceasefire abgelehnt**: Laut Wall Street Journal (Bloomberg/CBS berichten übereinstimmend) hat Präsident Trump ein iranisches Angebot für einen siebentägigen Waffenstillstand abgelehnt und rechnet intern mit einer Wiederaufnahme der Bombardierungen nach den US-Zwischenwahlen im November. Irans Außenminister Araghchi bietet im Gegenzug an, die Straße von Hormus innerhalb von sieben Tagen wieder für die Schifffahrt zu öffnen, sofern Sanktionslockerungen und ein Ende der US-Seeblockade folgen. Einordnung geht auseinander: US-Berichte betonen Trumps Skepsis und Eskalationsbereitschaft, iranische Quellen (Iran International) stellen Teherans Diplomatie-Initiative stärker in den Vordergrund.
