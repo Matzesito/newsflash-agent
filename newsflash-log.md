@@ -3,6 +3,17 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-28
+
+- **CDU-Krise um Merz**: Nach den Wahldebakeln der Union in Sachsen-Anhalt (6.9., CDU 17,2%, AfD 43,8%) und Mecklenburg-Vorpommern (20.9., CDU unter 5%-Hürde) hält die Debatte um Kanzler Friedrich Merz an. NRW-Ministerpräsident Hendrik Wüst mahnte ein Ende der Personaldebatte an, da Vertrauen durch Regierungshandeln statt durch Rücktrittsdiskussionen entstehe; ein konkreter Sturzversuch ist laut übereinstimmenden Berichten derzeit nicht anberaumt, als mögliche Nachfolger werden weiter Wüst und Söder gehandelt.
+- **Ukraine-Krieg / Diplomatie**: Außenminister Wadephul und der russische Außenminister Lawrow trafen sich am Rande der UN-Generalversammlung erstmals seit Kriegsbeginn zu einem kurzen Gespräch; beide Seiten sprechen von keiner Annäherung, Wadephul nennt es dennoch "richtig und notwendig". Parallel beraten EU-Verteidigungsminister in Brüssel über zusätzliche Patriot-Luftabwehrsysteme für die Ukraine, u.a. über einen Tausch von Lieferplätzen in der Bestellwarteschlange zugunsten Kiews.
+- **Iran-Krieg**: Der seit Februar andauernde Konflikt zwischen den USA/Israel und Iran bleibt in einem Abnutzungskrieg festgefahren; ein im Juni vereinbartes Waffenstillstandsabkommen war bereits im Juli/August wieder kollabiert, seither kommt es weiter zu Angriffen und Gegenangriffen in der Region (u.a. gegen US-Stellungen in Jordanien, Bahrain und Irak).
+- **US-Haushalt**: Ein akuter Shutdown der US-Bundesregierung wurde Anfang September durch eine von Präsident Trump unterzeichnete Übergangsfinanzierung bis zum 11. Dezember abgewendet; die Frist zum Fiskaljahresende (30.9.) ist damit vorerst entschärft.
+- **Eurozone-Wirtschaft**: Die Woche steht im Zeichen neuer Inflationsdaten; die EZB rechnet für 2026 mit rund 3,0% Teuerung im Euroraum (August-Wert: 3,3%) bei einem Leitzins von 2,65%, deutlich über dem 2%-Ziel — Marktbeobachter erwarten dadurch weitere Debatten über die EZB-Zinspolitik.
+- **75 Jahre Bundesverfassungsgericht**: Das Gericht feierte in Karlsruhe mit einem Festakt sein 75-jähriges Bestehen; Bundespräsident Steinmeier würdigte vor rund 1.000 Gästen aus Justiz, Politik und Gesellschaft die Rolle des Gerichts für die deutsche Demokratie.
+
+In Bewegung: Die Personaldebatte um Kanzler Merz sowie die Lage im Iran-Krieg gelten als besonders volatil und könnten sich im Tagesverlauf noch weiterentwickeln.
+
 ## 2026-09-27
 
 - **Ukraine-Krieg**: Russland setzt seine Luftangriffe auf ukrainische Städte fort; bei einem schweren Raketenangriff auf Kiew in dieser Woche starben mehrere Menschen, Wohnhäuser und eine Geburtsklinik wurden beschädigt. Die EU hat zusätzlich 52 Mio. Euro humanitäre Hilfe für die Ukraine zugesagt, während Berichte über eine geplante russische Truppenmobilisierung nach den dortigen Parlamentswahlen die Lage weiter verschärfen könnten.
