@@ -3,6 +3,18 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-09-30
+
+- **Pflegereform**: Wenige Stunden vor der Kabinettssitzung war weiter offen, ob das Pflegeneuordnungsgesetz wie geplant beschlossen wird. Union und SPD rangen bis zuletzt; SPD-Generalsekretär Tim Klüssendorf erklärte, man akzeptiere „keine Leistungskürzung in der Pflege", und fordert einen Eigenanteil-Deckel sowie eine Pflegeversicherung, in die alle einzahlen. Die private Pflegeversicherung erwartet 2026 ein Defizit von rund 4,4 Mrd. Euro.
+- **Ukraine**: Russland griff Kiew erneut mit Dutzenden ballistischen Raketen und rund 170 Drohnen an; nach Angaben ukrainischer Stellen gab es mindestens zwölf Tote und über 30 Verletzte. Auch die Region Charkiw wurde getroffen, dort meldeten Behörden mindestens zehn weitere Tote durch einen Raketenangriff. Ein Kriegsende ist trotz US-Vermittlungsbemühungen unter Präsident Trump nicht in Sicht.
+- **Gaza/Nahost**: Der von US-Präsident Trump vermittelte Waffenstillstand bleibt fragil. Nach der Freilassung der letzten lebenden Geiseln kam es zu neuerlicher israelischer Militäraktion mit laut Hamas-Gesundheitsbehörde über 100 Toten, ausgelöst durch einen tödlichen Angriff auf israelische Soldaten in Süd-Gaza. UN-Menschenrechtskommissar Volker Türk kritisierte die Entwicklung; Bergungsarbeiten in zerstörten Wohngebieten dauern an.
+- **EU-China-Handelsstreit**: China warnte die EU vor „diskriminierenden" Handelsmaßnahmen und drohte mit „entschlossener" Reaktion, sollte Brüssel ein neues Anti-Protektionismus-Instrument gegen China einsetzen – Deutschland und Frankreich treiben dies voran. Peking bezeichnete die Initiative als „typisch protektionistisch". EU-Handelskommissar Šefčovič reist am 8./9. Oktober zu Gesprächen nach Peking.
+- **Cosco/Hamburger Hafen**: Die Bundesregierung will laut Berichten die Übernahme des Logistikers Zippel durch die chinesische Staatsreederei Cosco untersagen; ein interner Vermerk nennt „erhebliche Sicherheitsbedenken". Auswärtiges Amt, Verteidigungs-, Innen- und Finanzministerium sollen sich der Empfehlung des Wirtschaftsministeriums für ein Verbot angeschlossen haben. Cosco war 2023 bereits mit einer auf unter 25 % begrenzten Beteiligung am Terminal Tollerort eingestiegen.
+- **Inflation Deutschland**: Das Statistische Bundesamt veröffentlicht heute vorläufige Verbraucherpreiszahlen für September; Ökonomen erwarten einen Anstieg auf rund 3,2 % – den höchsten Stand seit fast drei Jahren, nach 2,9 % im August. Haupttreiber sind Rekordpreise für Diesel und Benzin infolge steigender Ölpreise im Zuge der Nahost-Eskalation.
+- **US-Haushaltsstreit**: Der US-Kongress hat kurz vor der Frist zum 1. Oktober eine Übergangsfinanzierung bis zum 11. Dezember verabschiedet (370:48 Stimmen) und damit einen erneuten Shutdown vorerst abgewendet – nach zwei Shutdowns bereits früher in 2026.
+
+In Bewegung: Sowohl die Pflegereform (Kabinettsentscheidung stand bei Redaktionsschluss noch aus) als auch die Lage in Gaza (fragiler Waffenstillstand, neue Gewaltausbrüche) können sich im Tagesverlauf noch deutlich verändern.
+
 ## 2026-09-29
 
 - **Pflegereform**: Koalition ringt kurz vor dem geplanten Kabinettsbeschluss (Mittwoch) um das Pflegeneuordnungsgesetz. Die SPD droht mit Blockade und fordert einen Eigenanteil-Deckel von 1.500 Euro für Heimbewohner sowie einen Finanzausgleich zwischen privater und sozialer Pflegeversicherung, die 2026 ein Defizit von rund 4,4 Mrd. Euro erwartet. Am 28.9. gab es dazu ein Krisentreffen im Kanzleramt.
