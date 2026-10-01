@@ -3,6 +3,33 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-10-01
+
+### Politik National
+- **Berlin-Koalitionsverhandlungen**: Eineinhalb Wochen nach der Berlin-Wahl (Linke stärkste Kraft mit 25,7 %) haben Linke, Grüne und SPD erste Sondierungsgespräche über eine mögliche rot-grün-rote Koalition aufgenommen. Grüne und SPD machen Klärungen zu Antisemitismus, Rassismus und organisierter Kriminalität zur Vorbedingung für weitere Gespräche.
+- **Pflegereform**: Das Bundeskabinett hat ein Pflege-Sparpaket beschlossen; Proteste zeigten teilweise Wirkung (Tariflohnpflicht in der Altenpflege bleibt, Rentenbeiträge pflegender Angehöriger werden nicht gekürzt). Die Begutachtung für Pflegegrade wird strenger, der Entlastungsbetrag bei Pflegegrad 1 entfällt; eine größere Strukturreform ist erst ab 2027 geplant.
+- **Großrazzia gegen „Hells Angels"**: Mit über 1.000 Beamten durchsuchte die Polizei in sechs Bundesländern (Schwerpunkt NRW) sowie in den Niederlanden, Belgien und Bulgarien Objekte eines europaweiten Geldwäschenetzwerks der Rockergruppe. Vermögenswerte von rund 48,6 Mio. Euro sollen eingezogen werden, 71 Verdächtige stehen im Fokus.
+- **Weitere Neuregelungen ab 1. Oktober**: Spritsteuersenkung (−16,7 Cent/Liter für drei Monate), Preiserhöhung beim Deutschland-Ticket, digitale Hinterlegung von Vorsorgevollmachten im Zentralregister sowie verschärfte Strafen für Angriffe auf Einsatz- und Rettungskräfte treten in Kraft.
+
+### Politik International
+- **Versuchter Flugzeug-Anschlag auf dem Weg nach Tel Aviv**: Auf einem Flydubai-Flug von Dubai nach Tel Aviv soll der Co-Pilot den Kapitän niedergestochen und versucht haben, die Maschine abstürzen zu lassen; Crew und Passagiere überwältigten ihn, die Maschine landete in Saudi-Arabien. Israels Regierung (Netanyahu) wertet den Vorfall als gezielten Terroranschlag; saudische Behörden haben den Co-Piloten verhaftet. Unabhängige Bestätigung einzelner Details steht noch aus.
+- **Nahost/Gaza**: Die brüchige Waffenruhe zwischen Israel und Hamas hält formal, wird aber von beiden Seiten unterschiedlich bewertet – internationale Agenturen melden weiterhin israelische Angriffe mit zivilen Opfern in Gaza-Stadt, während israelische Stellen dies mit Bedrohungslagen begründen. Die umstrittene „Gaza Humanitarian Foundation" hat ihre Arbeit eingestellt.
+- **USA – Haushalt/Nahost-Diplomatie**: Ein Shutdown zum Fiskaljahresbeginn wurde durch eine kurzfristige Übergangsfinanzierung des Kongresses abgewendet. Parallel laufen über katarische Vermittler Gespräche zwischen den USA und Iran über einen Stufenplan zur Wiederöffnung der Straße von Hormuz, nachdem der Rial erneut ein Rekordtief erreicht hat.
+- **Ukraine-Krieg**: Der Krieg dauert an; eine ukrainische Gegenoffensive im Süden (Dnipropetrovsk) läuft seit Februar weiter, russische Angriffe auf die Energieinfrastruktur halten unvermindert an.
+
+### Wirtschaft
+- **Inflation zieht an**: Die deutsche Teuerungsrate stieg im September auf 3,3 % (August: 2,9 %) – höchster Stand seit Dezember 2023, maßgeblich getrieben von Energiepreisen (+14,9 % ggü. Vorjahr). Die Kernrate blieb bei 2,4 %.
+- **VW kündigt fast alle Tarifverträge**: Volkswagen hat zehn von 13 inländischen Flächentarifverträgen zum Jahresende gekündigt, darunter den zentralen Entgelttarifvertrag für über 100.000 Beschäftigte; mögliche Themen für Neuverhandlungen sind Arbeitszeit und Zusatzleistungen. Die 2024 vereinbarte Beschäftigungssicherung bis 2030 bleibt unberührt.
+- **BGH-Verhandlung zu Amazon Prime**: Der Bundesgerichtshof prüft eine Preiserhöhung bei Amazon Prime in Deutschland; Amazon will ein vorinstanzliches Urteil kippen lassen.
+- Daneben: Produktionsstart im neuen BMW-Batteriewerk Irlbach-Straßkirchen sowie anstehende Einkaufsmanagerindizes (Europa, USA, Japan) als Konjunkturindikatoren.
+
+### Gesellschaft
+- **Ost-West-Vermögensgefälle**: Der Ostbeauftragte der Bundesregierung, Kaiser, mahnt weiterhin bestehenden Nachholbedarf bei der Vermögensverteilung zwischen Ost- und Westdeutschland an.
+- **Digitales Vorsorgeregister**: Ab heute können digitale Kopien von Vorsorgevollmachten und Patientenverfügungen zentral hinterlegt werden – ein Schritt zur Vereinfachung im Alltag und bei medizinischen Notfällen.
+- **Schärferer Schutz für Einsatzkräfte**: Neue, härtere Strafen für Angriffe auf Polizei, Feuerwehr, Rettungsdienst und weitere Berufsgruppen gelten ab heute.
+
+In Bewegung: Bei der Bewertung des Flydubai-Vorfalls sowie der Gaza-Entwicklungen gehen die Lesarten zwischen israelischen Regierungsquellen und internationalen Nachrichtenagenturen teils auseinander. Die Berlin-Koalitionsgespräche sind frisch und können sich im Tagesverlauf noch deutlich weiterentwickeln (Ausgang offen).
+
 ## 2026-09-30
 
 - **Pflegereform**: Wenige Stunden vor der Kabinettssitzung war weiter offen, ob das Pflegeneuordnungsgesetz wie geplant beschlossen wird. Union und SPD rangen bis zuletzt; SPD-Generalsekretär Tim Klüssendorf erklärte, man akzeptiere „keine Leistungskürzung in der Pflege", und fordert einen Eigenanteil-Deckel sowie eine Pflegeversicherung, in die alle einzahlen. Die private Pflegeversicherung erwartet 2026 ein Defizit von rund 4,4 Mrd. Euro.
