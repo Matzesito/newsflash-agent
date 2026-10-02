@@ -3,6 +3,28 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-10-02
+
+### Politik National
+- **Koalitionsstreit**: Rund ein Jahr nach Amtsantritt steht Kanzler Merz (CDU) unter Druck – laut Forsa-Umfrage sind nur 11 % der Deutschen mit der Arbeit der Koalition zufrieden. Streitpunkte sind u.a. Tankrabatt/Energiesteuern und die wirtschaftliche Ausrichtung; die SPD moniert, sie sei bei der Migrationspolitik bereits stark auf die CSU-Linie eingeschwenkt. Einordnung geht auseinander: Während ZDF-Kommentatoren Merz' Führung als "schwach" kritisieren, verweisen CDU-nahe Stimmen auf schwierige, aber nötige Kompromisse.
+- **Bundeswehr/Innenpolitik**: Die Bundeswehr richtet ein neues Drohnenregiment ein; zugleich tritt ein neuer Tankrabatt in Kraft. Der Bundestag bereitet in der aktuellen Sitzungswoche Anhörungen zu EEG-Novelle, Energieeffizienzgesetz und Digitalgesetzen vor.
+- **Verbraucherschutz-Urteil**: Der BGH hat die Amazon-Prime-Preiserhöhung von 2022 (von 69 auf 89,90 Euro/Jahr) wegen Intransparenz für unwirksam erklärt; Amazon muss Altkunden vorübergehend wieder alte Preise gewähren, betroffene Kunden können zu viel gezahlte Beträge zurückfordern.
+
+### Politik International
+- **EU-Migrationspolitik**: Die EU-Innenminister haben in Luxemburg mehrheitlich (nur Spanien dagegen, Belgien Enthaltung) die Rückführungsverordnung beschlossen, die Abschiebezentren für abgelehnte Asylsuchende außerhalb der EU rechtlich ermöglicht. Befürworter erwarten weniger irreguläre Migration, Kritiker warnen vor Menschenrechtsrisiken bei der Umsetzung in Drittstaaten. Deutschlands Innenminister Dobrindt verhandelt parallel mit vier EU-Staaten über konkrete Standorte, eine Einigung noch in diesem Jahr gilt als Ziel.
+- **Krieg in der Ukraine**: Die Kämpfe halten unvermindert an – die Ukraine meldet Geländegewinne im Donbass ("Operation Vivaldi") und erstmals den Einsatz eigener ballistischer Raketen; Russland meldet den Abschuss eines ukrainischen MiG-29-Jets. Putin kündigte an, den Donbass binnen anderthalb Jahren vollständig erobern zu wollen, während ukrainische Angaben von erheblichen russischen Verlusten (See- und Personalverluste) sprechen – Zahlen beider Seiten sind im Krieg traditionell schwer unabhängig zu verifizieren.
+- **USA**: Ein drohender Regierungsshutdown zum Beginn des Haushaltsjahres wurde abgewendet, nachdem Senat und Repräsentantenhaus sich auf eine Übergangsfinanzierung verständigt haben, die über die Midterm-Wahlen 2026 hinausreicht.
+
+### Wirtschaft
+- **Börse**: Der DAX gab am Freitag um rund 0,9 % auf etwa 24.981 Punkte nach, der Euro Stoxx 50 verlor rund 1,3 %; belastend wirkten unter anderem schwächere Konjunktur- und Arbeitsmarktdaten aus Japan, Europa und den USA.
+- **Konzerngewinne**: Analysten erwarten für die DAX-Unternehmen 2026 einen Nettogewinnanstieg von knapp 14 % auf rekordhohe 127,7 Milliarden Euro – trotz der insgesamt eher gedrückten Konjunkturstimmung.
+- **Übernahme-Verfahren**: Die EU-Kommissionsfrist zur vertieften Prüfung der Übernahme von Ceconomy (Mutterkonzern von MediaMarkt/Saturn) durch den chinesischen Handelskonzern JD.com läuft heute ab.
+
+### Gesellschaft
+- **Steuerverschwendung**: Ein neues "Schwarzbuch" dokumentiert aktuelle Fälle von Steuergeldverschwendung, unter anderem in Hamburg – ein wiederkehrendes Ritual öffentlicher Ausgabenkritik.
+- **Klimafolgen**: Berichte über dramatischen Eisverlust an Schweizer Gletschern unterstreichen den fortschreitenden Rückgang alpiner Gletscher.
+- **Gedenken**: Die Schweiz erinnert an das 25. Jubiläum des Swissair-Groundings 2001, ein historisches Datum mit bis heute spürbarer wirtschaftlicher Nachwirkung für die Luftfahrtbranche des Landes.
+
 ## 2026-10-01
 
 ### Politik National
