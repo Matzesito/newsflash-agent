@@ -3,6 +3,23 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-10-03
+
+### Politik National
+- **Tag der Deutschen Einheit (Bremen)**: Die zentralen Feierlichkeiten zum 36. Jahrestag der deutschen Wiedervereinigung laufen vom 2. bis 4. Oktober in Bremen unter dem Motto „Viele Stärken – ein Land". Bundeskanzler Friedrich Merz rief in seiner Rede zu einem „Aufbruch" auf und mahnte angesichts gesellschaftlicher Verunsicherung den Zusammenhalt an. Die Festtage sind von spürbarer Unzufriedenheit mit der schwarz-roten Koalition überschattet.
+- **Koalition unter Druck, AfD in Umfragen vorn**: Aktuelle Umfragen (u.a. ZDF-Politbarometer) sehen die AfD mit rund 27 % weiterhin klar vor der Union (ca. 22 %), SPD und Linke liegen bei etwa 12 %. Zusätzlich belastet ein offener Streit zwischen Kanzler Merz und SPD-Chef Lars Klingbeil über die Auslegung der Koalitionsvereinbarung zum 15-Euro-Mindestlohn das Regierungsbündnis. Merz hat eine Minderheitsregierung oder Neuwahlen ausdrücklich ausgeschlossen.
+
+### Politik International
+- **Ukraine-Krieg – diplomatische Bewegung**: Die Frontlinien gelten als weitgehend stabilisiert, während diplomatisch verstärkt an einem Kriegsende gearbeitet wird. Grundlage sind ein 20-Punkte-Plan mit möglichen Sicherheitsgarantien für die Ukraine sowie Vermittlungsgespräche von US-Sondergesandten mit Moskau; Russland hält jedoch an seinen Maximalforderungen zum gesamten Donbass fest. Selenskyj hatte September/Oktober als Zeitfenster für Verhandlungen benannt – ein Spitzentreffen mit Trump ist in Vorbereitung.
+- **Gaza: Waffenruhe fragil, bald zwei Jahre seit Hamas-Überfall**: Die seit Oktober 2025 geltende Waffenruhe hält formal, bleibt aber brüchig – Hilfsorganisationen und UN berichten von fortgesetzten tödlichen Vorfällen und ausgeweiteten israelisch kontrollierten Zonen. Zentraler Streitpunkt bleibt die von Israel und den USA geforderte, von der Hamas bislang verweigerte Entwaffnung. In wenigen Tagen jährt sich zum zweiten Mal der Hamas-Überfall vom 7. Oktober 2023, was verstärkt Rückblicke und Bilanzen auslöst. Einordnung geht auseinander: Westliche Regierungen und israelische Stellen betonen Fortschritte der Waffenruhe, UN-Stellen und Teile der Berichterstattung verweisen vor allem auf fortgesetzte zivile Opfer und die ausbleibende Entwaffnung.
+- **China–Taiwan**: Die Spannungen in der Taiwanstraße bleiben hoch; zuletzt sorgten Manöver chinesischer Marineverbände, einschließlich des Flugzeugträgers Liaoning, nahe Taiwan für Protest aus Taipeh. Eine kurzfristige Eskalation ist derzeit nicht erkennbar, die Lage bleibt aber angespannt.
+
+### Wirtschaft
+- **DAX unter Druck**: Der DAX hatte im Spätsommer Rekordstände erreicht, ist zuletzt aber unter Druck geraten – getrieben von höheren Inflationserwartungen und Zinssorgen.
+- **Inflation**: Die deutsche Inflationsrate lag zuletzt bei rund 2,8 %, was die Diskussion über Zinspolitik und Kaufkraft befeuert.
+
+*Hinweis*: Besonders in Bewegung sind aktuell die Ukraine-Diplomatie (mögliches Trump-Selenskyj-Treffen) sowie die Mindestlohn-Debatte in der Koalition – hier sind im Tagesverlauf neue Entwicklungen wahrscheinlich. Recherchequellen u.a. ORF, ZDFheute, t-online, Tagesspiegel, Berliner Zeitung.
+
 ## 2026-10-02
 
 ### Politik National
