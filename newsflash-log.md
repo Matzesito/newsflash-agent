@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-10-04
+
+### Politik National
+- **Rentenstreit in der Koalition**: Im angekündigten „Herbst der Reformen" ringt die Regierung Merz (CDU/CSU-SPD) um die Vorschläge der Alterssicherungskommission (33 Einzelmaßnahmen). Mehrere ostdeutsche CDU-Ministerpräsidenten (Kretschmer, Schulze, Voigt) lehnen das geplante Ende der abschlagsfreien Rente mit 63 ab. Parallel sieht der Haushaltsentwurf von Finanzminister Klingbeil für 2027 eine Rekordneuverschuldung von rund 118,7 Mrd. Euro vor.
+
+### Politik International
+- **Frankreich – Regierungskrise vorerst entschärft**: Premier Sébastien Lecornu hat zwei Misstrauensvoten überstanden und bleibt im Amt, nachdem er als Zugeständnis an die Sozialisten Macrons umstrittene Rentenreform ausgesetzt hat. Als Nächstes muss ein abgespeckter Haushalt 2026 durch ein tief zerstrittenes Parlament ohne Mehrheit – weitere Rücktrittsrisiken bleiben bestehen.
+- **Ukraine-Krieg**: Russland griff erneut mit Drohnen Charkiw und Kyjiw an, mit mehreren Toten und Verletzten; eine bereits beschädigte Brücke in Kyjiw und Lagerhäuser wurden erneut getroffen. Auch Moldau meldete nahe der Grenze Explosionen durch russische Drohnen/Raketen.
+- **Gaza-Waffenruhe bleibt fragil**: Israel und Hamas werfen sich seit der im Oktober 2025 vereinbarten Waffenruhe gegenseitig tausende Verstöße vor; die Hamas-Gesundheitsbehörde meldet weiterhin Tote durch israelische Angriffe, Israel verweist auf Reaktionen auf Hamas-Aktionen. Einordnung: Die Zahlen beider Seiten lassen sich unabhängig kaum verifizieren, Beobachter (u.a. ORF, derStandard) sprechen von einer Waffenruhe, die mehr dem Namen als der Praxis nach besteht.
+- **USA – Shutdown-Gefahr gebannt**: Der Kongress hat eine Übergangsfinanzierung bis 11. Dezember verabschiedet, die Trump bereits im September unterschrieb. Der Haushaltsstreit wurde damit über die Midterms im November hinaus verschoben.
+
+### Wirtschaft
+- **Inflation Deutschland**: Die Teuerungsrate stieg im September laut vorläufigen Destatis-Zahlen auf 3,3 % – der höchste Stand seit Dezember 2023, nach 2,9 % im August. Haupttreiber sind Energiepreise (+14,9 % gegenüber Vorjahr), während die Kerninflation ohne Energie/Lebensmittel bei 2,4 % stabil blieb.
+
+*Hinweis*: Besonders in Bewegung sind aktuell die Gaza-Waffenruhe sowie die französische Haushaltsdebatte – hier sind im Tagesverlauf neue Entwicklungen wahrscheinlich. Zudem startet am Montag die Nobelpreis-Woche (Medizin, Physik, Chemie, Literatur, Freitag Friedenspreis). Recherchehinweis: WebFetch war in dieser Umgebung auf tagesschau.de/zeit.de blockiert, daher Zusammenstellung auf Basis mehrfach bestätigter, noch laufender Sachverhalte (Destatis, dpa/Reuters-nahe Berichterstattung, ORF/derStandard); für ganz tagesaktuelle Einzelzahlen empfiehlt sich Direktabgleich.
+
 ## 2026-10-03
 
 ### Politik National
