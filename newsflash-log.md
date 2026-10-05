@@ -3,6 +3,25 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-10-05
+
+### Politik National
+- **Kanzler-Kiew-Besuch**: Bundeskanzler Friedrich Merz ist am Sonntag unangekündigt mit dem Sonderzug nach Kiew gereist, begleitet von Wirtschaftsministerin Katherina Reiche und Vertretern der Rüstungs- und Energiebranche. Er sagte der Ukraine weitere Unterstützung zu (rund eine Milliarde Euro für Waffen, 350 Millionen Euro für die Stromversorgung) und forderte Russlands Präsident Putin auf, den Krieg zu beenden. Zugleich warnte Merz vor Ort, ein Scheitern seiner schwarz-roten Koalition hätte „unermessliche Folgen für Europa" – ein Verweis auf anhaltende Spannungen innerhalb der Regierung.
+- **Bundestag-Sitzungswoche**: Der Bundestag ist in eine neue Sitzungswoche (5.–9. Oktober) gestartet. Auf der Agenda stehen Anhörungen zu Führerscheinreform, Allgemeinem Gleichbehandlungsgesetz, Erneuerbare-Energien-Gesetz und Cybersicherheit; am Mittwoch folgt die Regierungsbefragung mit Wirtschaftsministerin Reiche und Verkehrsminister Bilger.
+
+### Politik International
+- **Ukraine-Diplomatie**: Nach Angaben von Präsident Selenskyj planen die USA neue trilaterale Gespräche mit Kiew und Moskau, die noch im Oktober stattfinden sollen (Ort offen, u.a. Vereinigte Arabische Emirate im Gespräch). Der Kreml schließt eine Teilnahme nicht aus, bislang gibt es aber keine Einigung auf einen Waffenstillstand; Kämpfe und Angriffe dauern unvermindert an. Einordnung uneinheitlich: Während manche Berichte auf greifbare Fortschritte hoffen lassen, betonen andere Quellen, dass frühere Gesprächsrunden ohne Ergebnis blieben.
+- **Brasilien-Wahl**: Beim ersten Durchgang der Präsidentschaftswahl am 4. Oktober lag laut vorläufigem Ergebnis (99 % ausgezählt) der rechte Herausforderer Flávio Bolsonaro mit 47,1 % knapp vor Amtsinhaber Lula da Silva (45,1 %). Da keiner der Kandidaten die absolute Mehrheit erreichte, kommt es am 25. Oktober zur Stichwahl.
+- **Lettland-Wahl**: Bei der Parlamentswahl am 3. Oktober hat die proeuropäische Regierungspartei „Vereinigte Liste" von Ministerpräsident Andris Kulbergs mit rund 35–36 % der Stimmen klar gewonnen und ihr Ergebnis gegenüber der letzten Wahl mehr als verdreifacht – ein Signal für den fortgesetzten pro-EU- und pro-Ukraine-Kurs des Landes an der Nato-Ostflanke.
+
+### Wirtschaft
+- **Ifo-Geschäftsklima**: Der Ifo-Geschäftsklimaindex ist im September zum fünften Mal in Folge gestiegen, von 88,8 auf 89,9 Punkte. Unternehmen bewerten sowohl die aktuelle Lage als auch die Aussichten positiver, besonders in Industrie und Dienstleistungssektor; führende Wirtschaftsinstitute haben ihre Wachstumsprognose für Deutschland 2026 zuletzt auf 1,2–1,4 % angehoben, getragen von Exporten und höheren Staatsausgaben. Schwach bleiben dagegen privater Konsum und Unternehmensinvestitionen.
+
+### Gesellschaft
+- **Nobelpreis-Woche**: Die Nobelpreis-Woche 2026 hat heute mit der Verkündung des Medizin-Nobelpreises begonnen (Bekanntgabe 11:30 Uhr MESZ in Stockholm); die Gewinnernamen waren zum Zeitpunkt der Recherche noch nicht bestätigt verfügbar. In den kommenden Tagen folgen die Preise für Physik, Chemie, Literatur, Frieden und Wirtschaftswissenschaften.
+
+*Hinweis*: Besonders in Bewegung sind die Namen der diesjährigen Nobelpreisträger (Medizin), die im Tagesverlauf bekannt werden, sowie die geplanten US-vermittelten Ukraine-Gespräche und die Stabilität der Berliner Koalition – hier sind kurzfristig weitere Entwicklungen wahrscheinlich.
+
 ## 2026-10-04
 
 ### Politik National
