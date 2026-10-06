@@ -3,6 +3,30 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-10-06
+
+### Politik National
+- **Wehrdienst-Reform stockt**: Die Koalition streitet weiter über Zielzahlen und ein mögliches Losverfahren beim neuen Wehrdienstgesetz, die geplante Bundestags-Lesung wurde verschoben. Generalinspekteur Carsten Breuer äußerte sich heute im ARD-Morgenmagazin zuversichtlich, erste Rekruten nach dem neuen Modell „idealerweise" ab 1. Mai integrieren zu können.
+- **AfD überholt CDU/CSU in Umfragen**: Nach Wahlrückschlägen der Union bei Landtagswahlen im September liegt die AfD bundesweit in aktuellen Umfragen (u.a. 27% vs. 25%) erstmals vor der CDU/CSU. Kanzler Merz bekräftigt, eine Zusammenarbeit mit der Partei kategorisch auszuschließen.
+- **Haushalt 2027 mit Rekordlücke**: Finanzminister Klingbeil mahnt Kabinettskollegen per Sparbrief zu harten Einschnitten; trotz einer geplanten Neuverschuldung von rund 118,7 Mrd. Euro droht bis 2029 eine Deckungslücke von etwa 170 Mrd. Euro – die größte in der Geschichte der Bundesrepublik.
+
+### Politik International
+- **Venezuela fordert Wahltermin**: Fünf Monate nach Amtsübernahme der Interimspräsidentin Delcy Rodríguez – ausgelöst durch die Festnahme Nicolás Maduros durch US-Kräfte im Januar – verlangt Oppositionsführer Edmundo González rasche, international beobachtete Präsidentschaftswahlen samt Freilassung politischer Gefangener. Weder Caracas noch Washington haben bislang einen Zeitplan genannt.
+- **Ukraine-Krieg weiter zäh**: Laut ukrainischem Oberkommando kommt die russische Offensive trotz hoher eigener Verluste kaum voran; die Ukraine setzt ihre Drohnenangriffe auf Moskau nahezu täglich fort. Die Einschätzungen zur militärischen Lage gehen zwischen Kiew und Moskau naturgemäß stark auseinander.
+- **Gaza-Waffenstillstand bleibt fragil**: Ein Jahr nach dem US-vermittelten Abkommen von Oktober 2025 kommen Entwaffnung der Hamas, internationale Sicherheitstruppe und Wiederaufbau nur schleppend voran; einzelne Vorfälle fordern weiterhin Todesopfer auf beiden Seiten.
+
+### Wirtschaft
+- **Deutsche Inflation zieht an**: Die Verbraucherpreise stiegen im September laut Destatis um 3,3% gegenüber dem Vorjahr, getrieben von Energiepreisen (+14,9%); die Kerninflation liegt bei 2,4% und damit spürbar über dem EZB-Zielwert.
+- **EZB vor Zinspause**: Nach der Zinserhöhung im September auf 2,50% Einlagensatz gilt an den Märkten für die Sitzung am 29. Oktober eine Zinspause als wahrscheinlich, da die EZB zwischen hartnäckiger Inflation und schwacher Konjunktur abwägen muss.
+- **DAX nahe Rekordhoch trotz schwacher Konjunktur**: Der deutsche Leitindex notiert um 26.000 Punkte, während die Realwirtschaft mit hohen Energiekosten, Fachkräftemangel und einer kriselnden Autoindustrie kämpft – ein Auseinanderlaufen, das Ökonomen mit der starken Exportorientierung der DAX-Konzerne erklären.
+
+### Gesellschaft
+- **Nobelpreis-Woche läuft**: Nach der Vergabe des Medizin-Nobelpreises gestern wird heute in Stockholm der Physik-Nobelpreis bekanntgegeben; Chemie, Literatur und der Friedensnobelpreis folgen in den kommenden Tagen.
+- **Klimadiplomatie nimmt Fahrt auf**: Vom 5. bis 8. Oktober findet in Fidschi das offizielle Pre-COP-Treffen zur UN-Klimakonferenz COP31 statt, flankiert von einem Spitzentreffen in Tuvalu; die Hauptkonferenz ist für November in Antalya/Türkei geplant.
+- **Spannungen um Taiwan halten an**: Pekings Rhetorik zur „Wiedervereinigung" bleibt unverändert scharf, begleitet von fortgesetzten Militärmanövern um die Insel, was international Sorgen vor einer Eskalation wachhält.
+
+*Hinweis*: Besonders in Bewegung sind die Wehrdienst-Reform in Berlin (Koalitionsstreit könnte sich im Tagesverlauf zuspitzen oder lösen) sowie die Lage in Venezuela, wo sich die Forderung nach Wahlen kurzfristig zu einer handfesten politischen Krise entwickeln könnte.
+
 ## 2026-10-05
 
 ### Politik National
