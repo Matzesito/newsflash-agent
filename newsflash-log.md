@@ -3,6 +3,53 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-10-07
+
+### Politik National
+- **Pflegeversicherung in der Krise**: Die gesetzliche Pflegeversicherung gerät laut den Krankenkassen ab Oktober in akute Finanznot; für 2026 wird ein Defizit von rund 4,4 Milliarden Euro erwartet, Gesundheitsministerium (Warken-Reform) plant eine Anhebung der Beitragsbemessungsgrenze ab 2027. Koalition und Länder streiten über Nachbesserungen am Reformentwurf.
+- **Wehrdienst-Reform besiegelt**: Union und SPD haben sich auf die Eckpunkte des neuen freiwilligen Wehrdienstes verständigt, inklusive Musterungspflicht für alle jungen Männer und einer Lotterie-Lösung als Rückfalloption, falls zu wenige Freiwillige kommen. Ziel ist der Aufbau von rund 260.000 aktiven Soldaten plus 200.000 Reservisten.
+- **Nachwirkungen der Landtagswahlen**: Nach den AfD-Erfolgen in Mecklenburg-Vorpommern und Sachsen-Anhalt (jeweils stärkste Kraft) bemüht sich Ministerpräsidentin Schwesig (SPD) um eine rot-rot-grüne Koalition, während CDU und BSW in beiden Ländern den Einzug ins Parlament verpassten. Die Debatte über ein mögliches AfD-Verbotsverfahren vor dem Bundesverfassungsgericht hält an, ohne dass ein Antrag gestellt wurde.
+
+### Politik International
+- **Zweiter Jahrestag des Hamas-Überfalls**: Israel gedenkt heute mit landesweiten Zeremonien und einer Schweigeminute der Opfer des Angriffs vom 7. Oktober 2023, bei dem rund 1.200 Menschen getötet und 251 als Geiseln genommen wurden. Die Gedenkfeiern sind zugleich von Kritik an Netanjahus Regierung geprägt.
+- **Brüchige Gaza-Waffenruhe**: Seit Oktober 2025 gilt eine von den USA vermittelte Waffenruhe, die laut Beobachtern immer wieder durch Zwischenfälle erschüttert wird; zentraler Streitpunkt bleibt die von Trumps Friedensplan geforderte vollständige Entwaffnung der Hamas, die diese bislang nicht zugesagt hat.
+- **Ukraine-Krieg weiter im Stellungskrieg**: Die Front verläuft laut Militäranalysen weitgehend statisch, beide Seiten setzen verstärkt auf Drohnenangriffe tief im jeweiligen Hinterland. Ein Ende der Kämpfe ist nicht in Sicht.
+- **EU-Gipfel in Vorbereitung**: Für den 15./16. Oktober ist der nächste Europäische Rat in Brüssel angesetzt; vorab tagt am 9. Oktober der EU-Rat für Wirtschaft und Finanzen. In den USA wurde ein Shutdown vor den Zwischenwahlen durch eine Übergangsfinanzierung bis zum 11. Dezember abgewendet, die Haushaltsfrage bleibt danach ungelöst.
+
+### Wirtschaft
+- **Deutsche Inflation zieht deutlich an**: Die Teuerungsrate lag im September 2026 nach vorläufigen Zahlen des Statistischen Bundesamts bei 3,3 Prozent, getrieben vor allem von Energiepreisen (+14,9 Prozent gegenüber Vorjahr). Die Kernrate ohne Energie und Nahrungsmittel liegt bei 2,4 Prozent.
+- **DAX trotz schwacher Konjunktur auf Rekordkurs**: Der deutsche Leitindex markierte zuletzt neue Höchststände über 26.000 Punkten, getragen von exportstarken Konzernen wie SAP, Siemens und Rheinmetall – während Wachstum, Autoindustrie und Fachkräftelage in der Realwirtschaft weiter schwächeln.
+
+### Gesellschaft
+- **Bahnstreik kündigt sich an**: Die Lokführergewerkschaft GDL hat für das Wochenende ab 17. Oktober einen rund 50-stündigen Streik bei Fracht- und Personenverkehr der Deutschen Bahn angekündigt; Hintergrund ist der festgefahrene Tarifstreit. Die Bahn kritisiert das Vorgehen als unverhältnismäßig.
+- **Pflegekassen vor dem Kollaps**: Pflegeeinrichtungen und Betroffene spüren die wachsende Finanzierungslücke der Pflegeversicherung bereits konkret, da ab Oktober die laufenden Einnahmen nicht mehr alle Leistungen decken – ein gesellschaftlich breit wirkendes Thema mit Folgen für Beitragszahler und Pflegebedürftige.
+
+*Hinweis*: Sowohl die Gaza-Lage (Entwaffnung der Hamas, mögliche Reaktivierung israelischer Militäroperationen) als auch die Koalitionsbildung in Mecklenburg-Vorpommern können sich im Tagesverlauf noch verändern.
+
+## 2026-10-06
+
+### Politik National
+- **Wehrdienst-Reform stockt**: Die Koalition streitet weiter über Zielzahlen und ein mögliches Losverfahren beim neuen Wehrdienstgesetz, die geplante Bundestags-Lesung wurde verschoben. Generalinspekteur Carsten Breuer äußerte sich heute im ARD-Morgenmagazin zuversichtlich, erste Rekruten nach dem neuen Modell „idealerweise" ab 1. Mai integrieren zu können.
+- **AfD überholt CDU/CSU in Umfragen**: Nach Wahlrückschlägen der Union bei Landtagswahlen im September liegt die AfD bundesweit in aktuellen Umfragen (u.a. 27% vs. 25%) erstmals vor der CDU/CSU. Kanzler Merz bekräftigt, eine Zusammenarbeit mit der Partei kategorisch auszuschließen.
+- **Haushalt 2027 mit Rekordlücke**: Finanzminister Klingbeil mahnt Kabinettskollegen per Sparbrief zu harten Einschnitten; trotz einer geplanten Neuverschuldung von rund 118,7 Mrd. Euro droht bis 2029 eine Deckungslücke von etwa 170 Mrd. Euro – die größte in der Geschichte der Bundesrepublik.
+
+### Politik International
+- **Venezuela fordert Wahltermin**: Fünf Monate nach Amtsübernahme der Interimspräsidentin Delcy Rodríguez – ausgelöst durch die Festnahme Nicolás Maduros durch US-Kräfte im Januar – verlangt Oppositionsführer Edmundo González rasche, international beobachtete Präsidentschaftswahlen samt Freilassung politischer Gefangener. Weder Caracas noch Washington haben bislang einen Zeitplan genannt.
+- **Ukraine-Krieg weiter zäh**: Laut ukrainischem Oberkommando kommt die russische Offensive trotz hoher eigener Verluste kaum voran; die Ukraine setzt ihre Drohnenangriffe auf Moskau nahezu täglich fort. Die Einschätzungen zur militärischen Lage gehen zwischen Kiew und Moskau naturgemäß stark auseinander.
+- **Gaza-Waffenstillstand bleibt fragil**: Ein Jahr nach dem US-vermittelten Abkommen von Oktober 2025 kommen Entwaffnung der Hamas, internationale Sicherheitstruppe und Wiederaufbau nur schleppend voran; einzelne Vorfälle fordern weiterhin Todesopfer auf beiden Seiten.
+
+### Wirtschaft
+- **Deutsche Inflation zieht an**: Die Verbraucherpreise stiegen im September laut Destatis um 3,3% gegenüber dem Vorjahr, getrieben von Energiepreisen (+14,9%); die Kerninflation liegt bei 2,4% und damit spürbar über dem EZB-Zielwert.
+- **EZB vor Zinspause**: Nach der Zinserhöhung im September auf 2,50% Einlagensatz gilt an den Märkten für die Sitzung am 29. Oktober eine Zinspause als wahrscheinlich, da die EZB zwischen hartnäckiger Inflation und schwacher Konjunktur abwägen muss.
+- **DAX nahe Rekordhoch trotz schwacher Konjunktur**: Der deutsche Leitindex notiert um 26.000 Punkte, während die Realwirtschaft mit hohen Energiekosten, Fachkräftemangel und einer kriselnden Autoindustrie kämpft – ein Auseinanderlaufen, das Ökonomen mit der starken Exportorientierung der DAX-Konzerne erklären.
+
+### Gesellschaft
+- **Nobelpreis-Woche läuft**: Nach der Vergabe des Medizin-Nobelpreises gestern wird heute in Stockholm der Physik-Nobelpreis bekanntgegeben; Chemie, Literatur und der Friedensnobelpreis folgen in den kommenden Tagen.
+- **Klimadiplomatie nimmt Fahrt auf**: Vom 5. bis 8. Oktober findet in Fidschi das offizielle Pre-COP-Treffen zur UN-Klimakonferenz COP31 statt, flankiert von einem Spitzentreffen in Tuvalu; die Hauptkonferenz ist für November in Antalya/Türkei geplant.
+- **Spannungen um Taiwan halten an**: Pekings Rhetorik zur „Wiedervereinigung" bleibt unverändert scharf, begleitet von fortgesetzten Militärmanövern um die Insel, was international Sorgen vor einer Eskalation wachhält.
+
+*Hinweis*: Besonders in Bewegung sind die Wehrdienst-Reform in Berlin (Koalitionsstreit könnte sich im Tagesverlauf zuspitzen oder lösen) sowie die Lage in Venezuela, wo sich die Forderung nach Wahlen kurzfristig zu einer handfesten politischen Krise entwickeln könnte.
+
 ## 2026-10-05
 
 ### Politik National
