@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-10-09
+
+### Politik National
+- **Umfragen Deutschland**: Aktuelle Erhebungen (Infratest dimap/ARD, INSA, Ipsos) sehen die AfD bundesweit stabil bei rund 26-28 Prozent und damit deutlich vor der Union (ca. 21-22 Prozent); CDU/CSU und SPD kommen zusammen nur auf etwa 33-34 Prozent und verfehlen damit eine eigene Mehrheit.
+- **Bundeshaushalt 2027**: Nach der Generaldebatte im September berät der Bundestag weiter über den Etat 2027 mit geplanten Ausgaben von rund 555 Milliarden Euro und einer Nettoneuverschuldung von etwa 119 Milliarden Euro; Finanzminister Klingbeil verteidigt die Schulden mit Verweis auf Aufrüstung, Kritiker (u.a. Grüne) sprechen von Deckungslücken „auf dem Papier". Endgültige Abstimmung ist für Ende November angesetzt.
+
+### Politik International
+- **Friedensnobelpreis**: Das Norwegische Nobelkomitee verkündet heute um 11 Uhr in Oslo den Friedensnobelpreisträger 2026. Unter den 287 Nominierten (208 Personen, 79 Organisationen) werden unter anderem Donald Trump – von Staatschefs Kambodschas, Israels und Pakistans vorgeschlagen – und Wolodymyr Selenskyj genannt; offizielle Bestätigungen zu Nominierungen gibt es laut Komitee-Statuten nicht. Der Name des Preisträgers war zum Zeitpunkt der Recherche noch nicht bekannt – dies dürfte im Tagesverlauf für die größte Nachrichtendynamik sorgen.
+- **Ukraine-Krieg**: Anfang Oktober griff die ukrainische Armee russische Militärziele in der Region Belgorod an, während Russland wiederholt Brücken in Kiew sowie ein Frachtschiff im Hafengebiet Odessa attackierte. Die Kampfhandlungen an der Front (u.a. Donbass, Sumy) halten unvermindert an.
+- **Gaza**: Der seit Oktober 2025 geltende Waffenstillstand zwischen Israel und Hamas gilt formal weiter, israelische Streitkräfte kontrollieren laut Berichten eine Pufferzone über rund 60 Prozent des Gazastreifens. Zugleich melden Hilfsorganisationen und palästinensische Gesundheitsbehörden anhaltende tödliche Angriffe; die Einschätzungen zwischen offizieller Waffenruhe und faktischer Gewalt vor Ort gehen in der Berichterstattung deutlich auseinander.
+
+### Wirtschaft
+- **Inflation Deutschland**: Die Verbraucherpreise lagen im September 3,3 Prozent über Vorjahresniveau (nach 2,9 Prozent im August), getrieben vor allem durch Energie (+14,9 Prozent). Die endgültigen Zahlen werden am 13. Oktober veröffentlicht und dürften die Zinserwartungen beeinflussen.
+
+*Hinweis*: WebFetch auf tagesschau.de, reuters.com und nobelprize.org war in dieser Umgebung durch den Egress-Proxy blockiert; alle Angaben stammen aus WebSearch-Ergebnissen mehrerer Qualitätsquellen (u.a. ZDFheute, Stuttgarter Zeitung, Berliner Zeitung, ORF, Bundestag.de). Der Name des Friedensnobelpreisträgers 2026 war zum Recherchezeitpunkt noch nicht bekannt.
+
 ## 2026-10-07
 
 ### Politik National
