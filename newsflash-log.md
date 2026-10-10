@@ -3,6 +3,24 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-10-10
+
+### Politik National
+- **Koalitionskrise Union/SPD**: Laut aktuellem ARD-DeutschlandTrend (Infratest dimap) ist die Zufriedenheit mit Kanzler Merz auf einen Tiefstwert von 16 Prozent gefallen; die AfD liegt in der Umfrage erstmals vor der Union. Eine YouGov-Erhebung vom 6. Oktober zeigt zudem, dass 77 Prozent die Zusammenarbeit von Union und SPD als schlecht bewerten und 55 Prozent bezweifeln, dass die Koalition bis 2029 hält.
+- **AfD-Einstufung und Verbotsdebatte**: Nach der Neubewertung durch den Verfassungsschutz, der die AfD nun als gesichert rechtsextremistisch einstuft, fordern Grüne (u.a. Fraktionschefin Haßelmann) ein Verbotsverfahren vor dem Bundesverfassungsgericht. Antragsberechtigt wären nur Bundestag, Bundesrat oder Bundesregierung; Union und SPD sind in der Frage uneins, AfD und Teile der FDP lehnen den Vorstoß ab.
+
+### Politik International
+- **Friedensnobelpreis**: Das norwegische Nobelkomitee hat am 9. Oktober die südafrikanische Juristin Navanethem „Navi" Pillay ausgezeichnet, frühere IStGH-Richterin und UN-Menschenrechtskommissarin, für ihren Einsatz für Frieden und Völkerrecht. Verleihung am 10. Dezember in Oslo.
+- **Tschechien**: Am 9./10. Oktober fanden Kommunal- und Senatswahlen statt – erster größerer Stimmungstest für die seit Dezember 2025 amtierende Regierung von Andrej Babiš (ANO mit SPD und Motoristé).
+- **Gaza**: Vorbereitungen für die international mandatierte Stabilisierungstruppe (ISF) laufen laut UN-Sondergesandtem Mladenov weiter, zwei weitere Länder sollen in Kürze beitreten; Verzögerungen gegenüber dem ursprünglichen Zeitplan sind erkennbar, Israel besteht weiter auf eigener Sicherheitsverantwortung in Teilen Gazas.
+- **EU**: Botschafter bereiten den Europäischen Rat am 15./16. Oktober in Brüssel vor; Themen: EU-Haushalt, Ukraine-Beitrittsprozess, Artikel-7-Verfahren gegen Ungarn.
+
+### Wirtschaft
+- **Konjunktur**: Herbst-Gemeinschaftsdiagnose der führenden Institute erwartet für Deutschland 1,3 % Wachstum 2026, danach Abschwächung auf 1,1 % (2027) und 0,4 % (2028). Exporte/Industrie liefen besser als erwartet, Investitionen und privater Konsum bleiben schwach; Staatsdefizit soll von 4,1 auf 4,7 % des BIP steigen – Institute mahnen Konsolidierung an.
+- **US-China**: Zollstreit bleibt angespannt trotz nach dem Trump-Xi-Treffen vereinbarter Zollsenkungen und Aussetzung weiterer Strafzölle bis mindestens 10. November; endgültiges Abkommen steht aus.
+
+*Hinweis*: WebSearch lieferte für den exakten Kalendertag 10.10. nur lückenhafte Treffer; die obigen Punkte sind die am besten belegten, aktuellsten Ereignisse (größtenteils 2.–9. Oktober 2026), die zum Recherchezeitpunkt verifizierbar waren.
+
 ## 2026-10-09
 
 ### Politik National
