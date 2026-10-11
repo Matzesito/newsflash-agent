@@ -3,6 +3,16 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-10-11
+
+- **Berlin – Regierungsbildung nach Linken-Wahlsieg:** Nach dem historischen Sieg der Linken bei der Abgeordnetenhauswahl (25,7 %, stärkste Kraft erstmals) laufen Sondierungsgespräche mit SPD und Grünen für ein rot-grün-rotes Bündnis. Ein zentrales Hindernis – ein gemeinsames Vorgehen gegen Antisemitismus – wurde laut Berichten ausgeräumt, offene Streitpunkte bleiben aber Enteignung, Verfassungsschutz und Polizei. Frühere Spitzenpolitiker von SPD, Grünen und CDU warnten öffentlich vor einer Koalition mit der Linken; ein konkretes Sondierungsergebnis lag zum Redaktionsschluss noch nicht vor.
+- **Bundeshaushalt 2027 – Schuldenkurs unter Beschuss:** Der von Finanzminister Klingbeil vorgelegte Etat sieht Ausgaben von rund 555 Mrd. Euro vor, mit einer Netto-Neuverschuldung von 118,7 Mrd. Euro im Kernhaushalt (inklusive Sonderfonds für Infrastruktur/Bundeswehr rund 200 Mrd. Euro insgesamt). Ratingagenturen und der Bundesrechnungshof warnen vor wachsenden Risiken für die Staatsfinanzen; die Opposition spricht von Bilanztricks. Endgültige Verabschiedung im Bundestag ist für November vorgesehen.
+- **Frankreich – anhaltende Schülerproteste:** Seit Ende September protestieren Schüler landesweit gegen Lehrermangel, überfüllte Klassen und maroden Schulbau. Laut Innenministerium wurden bislang knapp 2.000 Festnahmen verzeichnet, über 300 Polizisten/Gendarmen verletzt; 400–500 Schulen bleiben teilweise oder ganz geschlossen. Die Zahlen sind nach Angaben der Behörden vorläufig.
+- **Nahost – fragile Waffenruhe Iran/Israel:** Nach der Eskalation im Frühjahr 2026 gilt seit April ein Waffenstillstand zwischen Iran und Israel, der mehrfach durch gegenseitige Vorwürfe und vereinzelte Vorfälle (u.a. im Zusammenhang mit dem Libanon) belastet wurde. Beobachter bewerten die Lage als instabil; eine erneute Eskalation wird nicht ausgeschlossen. Einordnung zwischen Quellen uneinheitlich, was Stabilität und Reichweite der Vereinbarung angeht.
+- **Ukraine – russische Angriffe auf Energieinfrastruktur vor dem Winter:** Russland hat seine Angriffe auf das ukrainische Energienetz vor Winterbeginn verstärkt, mit Auswirkungen auf die Stromversorgung in mehreren Regionen. Dies setzt sich in eine seit Jahren wiederkehrende Angriffsstrategie vor der kalten Jahreszeit fort.
+
+*Hinweis: Die Sondierungsgespräche in Berlin sowie die Lage im Nahen Osten sind in Bewegung und können sich im Tagesverlauf ändern. WebSearch lieferte für den exakten Stichtag 11.10. nur eingeschränkt taggenaue Treffer; die obigen Punkte sind die am besten belegten, zuletzt verifizierbaren Entwicklungen (überwiegend 1.–8. Oktober 2026) sowie als weiterhin aktuell eingeordnete laufende Themen.*
+
 ## 2026-10-10
 
 ### Politik National
