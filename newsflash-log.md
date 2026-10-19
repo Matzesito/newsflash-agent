@@ -3,6 +3,19 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-10-19
+
+- **Frankreich/Unruhen**: Landesweite Proteste gegen hohe Lebenshaltungskosten eskalierten am Wochenende zu den schwersten Ausschreitungen seit Jahren; laut Behörden gab es rund 1.800–2.400 Festnahmen (Zahlen je nach Quelle/Zeitpunkt) und fast 1.000 verletzte Polizisten. Präsident Macron sprach von „Wut und Scham" über Gewalt, die die Republik stürzen wolle, verzichtete aber auf Ausnahmezustand oder Ausgangssperre. Einordnung geht auseinander: Teile der US-Berichterstattung (Vance) rahmen die Unruhen migrationspolitisch, europäische Medien eher als Eskalation einer Studenten-/Sozialproteste-Bewegung um Lebenshaltungskosten und Bildungsmissstände.
+- **Ukraine-Krieg**: Russland griff erneut massiv das ukrainische Stromnetz an (mind. 8 Tote, rund 1 Mio. Menschen ohne Strom u.a. in Charkiw/Kramatorsk), während die Ukraine mit über 1.000 Drohnen russische Ölanlagen und St. Petersburg attackierte. Präsident Selenskyj forderte ein Ende des Krieges; parallel sorgte Trumps Aussetzung neuer US-Russland-Sanktionen für Kritik, auch innerhalb der eigenen Partei (Senator Sullivan).
+- **Gaza**: Ein Jahr nach Beginn der Waffenruhe ziehen über 100 Hilfsorganisationen (u.a. Amnesty) eine sehr kritische Bilanz: Laut Gazas Gesundheitsministerium wurden seither rund 1.480 Palästinenser getötet, kein Krankenhaus arbeitet vollständig, 1,4 Mio. Menschen gelten als von akutem Hunger betroffen. Die zweite Verhandlungsphase (u.a. Entwaffnung der Hamas) liegt seit Januar auf Eis.
+- **Brasilien**: Vor der Präsidentschafts-Stichwahl am 25. Oktober zwischen Amtsinhaber Lula da Silva und dem rechten Senator Flávio Bolsonaro (Sohn von Jair Bolsonaro) zeigen Umfragen ein knappes Rennen, Prognosemärkte sehen Bolsonaro aber klar vorn. Zentrale Themen: Kaufkraft, Kriminalität, Verhältnis zu den USA.
+- **Deutschland – Koalition**: Kanzler Merz warb beim Deutschlandtag der Jungen Union für seinen Reformkurs und schloss eine Minderheitsregierung erneut aus. Aktuelle Umfragen (u.a. INSA) sehen die AfD weiterhin vor der Union; zugleich gibt es Koalitionsstreit um geplante höhere Verbrauchssteuern auf zuckerhaltige Getränke, Tabak und Alkohol sowie Widerstand in der Union gegen eine Plastiksteuer.
+- **Wirtschaft Deutschland**: Das ifo-Institut hat seine Herbstprognose deutlich angehoben und erwartet für 2026 ein BIP-Wachstum von 1,4 Prozent (zuvor 0,8 % in der Sommerprognose), gestützt durch bessere Industrieaufträge und expansive Finanzpolitik. Als Risiken nennt das Institut den wieder aufgeflammten Iran-Konflikt und Niedrigwasser auf deutschen Flüssen.
+
+Besonders in Bewegung: die Lage in Frankreich (mögliche weitere Proteste/Reaktionen von Macron) und der Streit um US-Russland-Sanktionen könnten sich im Tagesverlauf noch deutlich weiterentwickeln.
+
+*Transparenzhinweis: Direkter Abruf von tagesschau.de, reuters.com und faz.net per WebFetch war nicht möglich (Zugriff verweigert); die Recherche stützt sich daher auf WebSearch-Ergebnisse von Al Jazeera, CNBC, NPR, Washington Post, NBC News, ifo Institut und deutschen Häusern wie t-online/euronews.*
+
 ## 2026-10-18
 
 - **Ukraine-Diplomatie in Bewegung**: Nach Monaten der Stagnation bereitet sich die Ukraine laut Geheimdienstchef Budanow auf ein mögliches trilaterales Gesprächsformat mit Russland und den USA im Oktober vor. Der Kreml schließt eine Wiederaufnahme der Gespräche nicht aus, bleibt aber vage zum Zeitpunkt; vorausgegangen war eine Reise der US-Unterhändler Witkoff und Kushner nach Moskau und Kiew. Die Erwartungen auf beiden Seiten gelten als gering.
