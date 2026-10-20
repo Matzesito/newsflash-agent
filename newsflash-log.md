@@ -3,6 +3,22 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-10-20
+
+- **Koalitionskrise Merz/Klingbeil**: Die schwarz-rote Koalition steckt laut mehreren Zeitungsberichten (u.a. Stuttgarter Zeitung, Tagesspiegel) in einer handfesten Vertrauenskrise zwischen Kanzler Merz (CDU) und Vizekanzler/Finanzminister Klingbeil (SPD); Bundespräsident Steinmeier soll vermittelnd eingewirkt haben. Eine Insa-Umfrage sieht nur rund ein Drittel der Befragten optimistisch, dass die Regierung bis 2029 durchhält.
+- **Reformstau bei Rente, Pflege, Steuern**: Beim jüngsten Koalitionsausschuss (Mitte Oktober) wurde erneut über Rentenpaket, Pflegereform (höhere Eigenanteile, Kürzungen bei Rentenansprüchen Pflegender) und Einkommensteuerentlastung gestritten; Ergebnisse sollten schriftlich statt per Pressekonferenz verkündet werden. Bei der Rente besteht weitgehend Einigkeit, bei Pflege und Steuerreform (Entlastungsvolumen zwischen 10 und 25 Mrd. Euro im Gespräch) nicht.
+- **Nachwirkungen Sachsen-Anhalt-Wahl**: Die AfD wurde bei der Landtagswahl am 6. September mit rund 43,8 % klar stärkste Kraft (CDU deutlich verloren), was den Druck auf die Bundesregierung zusätzlich erhöht.
+- **US-Notenbank vor Zinsentscheid**: Die Fed tagt am 27./28. Oktober; Marktteilnehmer rechnen laut Futures-Daten mehrheitlich (~80 %) mit einer Zinspause. Hintergrund der zuletzt eher restriktiven Haltung war u.a. ein Ölpreisschock infolge des Iran-Kriegs.
+- **Deutsche Konjunktur verhalten**: Die Inflation lag zuletzt bei rund 2,3 %, der Arbeitsmarkt zeigt gemischte Signale (leichte Stabilisierung, aber strukturell schwach; Beschäftigung seit Ende 2025 rückläufig). Wachstumsprognosen der Institute bewegen sich nur im niedrigen einstelligen Bereich.
+- **Friedensnobelpreis 2026**: Das Nobelkomitee in Oslo hat den Preis an die südafrikanische Juristin Navi Pillay verliehen – Würdigung für ihren jahrzehntelangen Einsatz für Menschenrechte und Völkerstrafrecht (u.a. als frühere UN-Menschenrechtskommissarin). Verleihung ist am 10. Dezember.
+- **Gaza/Nahost**: Seit rund einem Jahr gilt nominell eine Waffenruhe, die laut übereinstimmenden Berichten (dpa, Jüdische Allgemeine) aber nicht hält: Israel hat seine Luftangriffe zuletzt wieder verstärkt, die Hamas ist bislang nicht entwaffnet, Israel kontrolliert nach dieser Darstellung gut die Hälfte des Gazastreifens. Die Einschätzungen zur Verantwortung für das Scheitern des von den USA vorangetriebenen Friedensplans gehen zwischen Quellen auseinander.
+- **Ukraine-Krieg**: Laut dem ukrainischen Oberbefehlshaber Syrskyj herrscht derzeit ein weitgehendes Patt an der Front, Russlands Vormarschtempo habe sich 2026 mehr als halbiert, ohne dass es größere Durchbrüche auf einer Seite gibt. Genaue Frontlage für die laufende Woche ließ sich nicht verlässlich verifizieren.
+- **USA/Innenpolitik**: Mit Blick auf die Midterms im November 2026 ist Präsident Trumps Zustimmungswert laut Reuters/Ipsos auf einen Tiefstand seiner Amtszeit gefallen; Wahlkampf konzentriert sich u.a. auf umkämpfte Senatsrennen in Georgia, Michigan und North Carolina.
+
+Besonders in Bewegung: Die deutsche Koalitionskrise (Reformstreit, Vertrauensfrage) sowie die Lage in Gaza könnten sich im Tagesverlauf noch ändern – hier lohnt ein Blick auf Updates von dpa/Tagesschau.
+
+*Transparenzhinweis: Die Websuche lieferte für den 20.10.2026 überwiegend ältere/unscharf datierte Treffer; die Befunde stützen sich auf die jeweils aktuellsten auffindbaren, seriösen Quellen (Stand: Berichte aus der ersten Oktoberhälfte 2026) und sind entsprechend gekennzeichnet, wo Unsicherheit besteht.*
+
 ## 2026-10-19
 
 - **Frankreich/Unruhen**: Landesweite Proteste gegen hohe Lebenshaltungskosten eskalierten am Wochenende zu den schwersten Ausschreitungen seit Jahren; laut Behörden gab es rund 1.800–2.400 Festnahmen (Zahlen je nach Quelle/Zeitpunkt) und fast 1.000 verletzte Polizisten. Präsident Macron sprach von „Wut und Scham" über Gewalt, die die Republik stürzen wolle, verzichtete aber auf Ausnahmezustand oder Ausgangssperre. Einordnung geht auseinander: Teile der US-Berichterstattung (Vance) rahmen die Unruhen migrationspolitisch, europäische Medien eher als Eskalation einer Studenten-/Sozialproteste-Bewegung um Lebenshaltungskosten und Bildungsmissstände.
