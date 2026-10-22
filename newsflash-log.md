@@ -3,6 +3,17 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-10-22
+
+- **Bundeshaushalt 2027**: Der Bundestag berät weiter über den Regierungsentwurf (Kernhaushalt: 555,4 Mrd. Euro, +5,9 % gegenüber 2026; Nettokreditaufnahme steigt auf 118,7 Mrd. Euro, Verteidigungsetat wächst auf 109,8 Mrd. Euro). Verabschiedung ist für den 27. November 2026 geplant; der Bund der Steuerzahler kritisiert die hohe Neuverschuldung, wenn man Sondervermögen einrechnet.
+- **Koalitionsspannungen Union/SPD**: Zwischen CDU/CSU und SPD gibt es anhaltenden Streit über Sozialreformen, insbesondere die Umsetzung der Bürgergeld-/Grundsicherungsreform (seit Juli 2026 in Kraft, verschärfte Sanktionen und Vorrang der Jobvermittlung). Kanzler Merz warnte öffentlich vor den "unermesslichen Folgen" eines Koalitionsbruchs, CSU-Chef Söder attackierte Arbeitsministerin Bas als zu zögerlich bei Reformen.
+- **Ukraine-Krieg / russische Energie-Angriffe**: Russland hat seine Luftangriffe auf die ukrainische Energieinfrastruktur zuletzt deutlich verstärkt (u.a. Ende September/Anfang Oktober schwerer Angriff mit mehreren Toten rund um Kiew). Beobachter sehen darin den Beginn einer neuen Winter-Kampagne gegen Strom- und Wärmeversorgung, während der ukrainischen Luftverteidigung Kapazitäten fehlen.
+- **Israel: Parlamentswahl am 27. Oktober**: In fünf Tagen wählt Israel ein neues Parlament. Umfragen sehen Ministerpräsident Netanjahu und seine Likud-Koalition in Gefahr, Hauptkonkurrent ist der ehemalige Generalstabschef Gadi Eisenkot mit seiner Partei. Ein Teil der Berichterstattung macht Netanjahu weiterhin für Versäumnisse rund um den Hamas-Angriff vom 7. Oktober 2023 verantwortlich – hier gehen die Einordnungen zwischen den Lagern deutlich auseinander.
+- **Gaza-Waffenruhe, ein Jahr danach**: Rund ein Jahr nach Abschluss der Waffenruhe gilt diese formal als stabil, faktisch kommt es laut Gazas Gesundheitsministerium weiterhin fast täglich zu israelischen Angriffen (laut dortigen, von der UN als plausibel eingestuften Zahlen rund 1.450 Tote seit der Waffenruhe). Zentrale langfristige Zusagen des Abkommens sind bislang nicht umgesetzt.
+- **EZB vor Zinsentscheid**: Die Europäische Zentralbank tagt am 28./29. Oktober erneut. Nach der Zinserhöhung im September (Einlagensatz auf 2,50 %) wegen anhaltend hoher Inflation (3,3 % im August in der Eurozone) wird die nächste Entscheidung mit Spannung erwartet, ein Marktkonsens zeichnet sich in den Quellen noch nicht klar ab.
+
+Die Lage vor der Bundestagsabstimmung zum Haushalt 2027 und die israelische Parlamentswahl am 27. Oktober sind beide noch in Bewegung und könnten sich im Tagesverlauf bzw. in den kommenden Tagen deutlich weiterentwickeln.
+
 ## 2026-10-21
 
 - **Frankreich-Proteste**: Landesweite Massenproteste gegen hohe Lebenshaltungskosten eskalierten am Wochenende (17./18.10.) in mehreren Städten (Paris, Marseille, Lyon, Straßburg u.a.) in Gewalt, Plünderungen und Brandstiftungen. Die Gewerkschaft CGT sprach von rund 800.000 Teilnehmenden, Innenminister Nuñez von weit über 1.000 Festnahmen und mehreren hundert verletzten Polizisten; ein Demonstrant starb an Herzstillstand. Premierminister Lecornu sprach von "Gewalt extremer Intensität" durch eine "besonders gewalttätige Ultralinke" – eine Einordnung, die von linken Organisationen zurückgewiesen wird.
