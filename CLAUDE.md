@@ -6,9 +6,13 @@ Politik/Wirtschaft/Gesellschaft, national + international).
 
 ## Ablauf bei jeder automatisierten Ausführung
 
-1. Nutze den `daily-news-briefing`-Subagenten
+1. Lies vorher den obersten (neuesten) Eintrag in `newsflash-log.md` und gib
+   seine Themen dem Subagenten als "vorheriger Newsflash" mit, damit er
+   Wiederholungen vermeidet (siehe Aktualitätsregeln in der Agent-Datei).
+   Nutze dann den `daily-news-briefing`-Subagenten
    (`.claude/agents/daily-news-briefing.md`), um den aktuellen Tages-
-   News-Abriss zu recherchieren.
+   News-Abriss zu recherchieren — Hauptquelle sind die dort gelisteten
+   RSS-Feeds, nicht Startseiten oder reine Websuche.
 2. Trage das Ergebnis **oben** in `newsflash-log.md` ein, mit dem aktuellen
    Datum als Überschrift (neueste Einträge zuerst, ältere darunter stehen
    lassen).
