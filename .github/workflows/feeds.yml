@@ -1,0 +1,36 @@
+# Feed-Schnappschuss vor dem täglichen Newsflash.
+# Die Cloud-Routine (RemoteTrigger, 05:07 UTC) kann die Nachrichtenseiten
+# nicht selbst abrufen (WebFetch für diese Domains gesperrt). Dieser Job holt
+# die RSS-Feeds vorher ganz normal ab und committet feeds.md ins Repo.
+# 04:20 UTC = 6:20 Uhr Sommerzeit / 5:20 Uhr Winterzeit — Puffer, weil
+# GitHub geplante Läufe teils verspätet startet.
+name: Feeds sammeln
+
+on:
+  schedule:
+    - cron: '20 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  feeds:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Feeds abrufen
+        run: node scripts/feeds-sammeln.mjs
+      - name: Committen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feeds.md
+          git diff --cached --quiet && exit 0
+          git commit -m "Feeds $(date -u +%Y-%m-%d)"
+          git pull --rebase -q
+          git push
