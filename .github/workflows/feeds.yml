@@ -2,13 +2,16 @@
 # Die Cloud-Routine (RemoteTrigger, 05:07 UTC) kann die Nachrichtenseiten
 # nicht selbst abrufen (WebFetch für diese Domains gesperrt). Dieser Job holt
 # die RSS-Feeds vorher ganz normal ab und committet feeds.md ins Repo.
-# 04:20 UTC = 6:20 Uhr Sommerzeit / 5:20 Uhr Winterzeit — Puffer, weil
-# GitHub geplante Läufe teils verspätet startet.
+# Hauptweg seit 24.10.2026: der Hub-Server sammelt um 04:40 UTC (systemd-Timer
+# newsflash-feeds.timer, /usr/local/bin/newsflash-feeds.sh) und pusht feeds.md.
+# Dieser Job ist nur noch Reserve: GitHub startet geplante Läufe teils Stunden
+# zu spät (24.10.: 4,5 h), daher früh in der Nacht, zweimal.
 name: Feeds sammeln
 
 on:
   schedule:
-    - cron: '20 4 * * *'
+    - cron: '17 1 * * *'
+    - cron: '17 3 * * *'
   workflow_dispatch:
 
 permissions:

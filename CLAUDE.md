@@ -6,8 +6,8 @@ Politik/Wirtschaft/Gesellschaft, national + international).
 
 ## Ablauf bei jeder automatisierten Ausführung
 
-1. Lies `feeds.md` (Feed-Schnappschuss, jeden Morgen von der GitHub Action
-   `.github/workflows/feeds.yml` erzeugt — Schlagzeilen der letzten 36 h aus
+1. Lies `feeds.md` (Feed-Schnappschuss, jeden Morgen 04:40 UTC vom Hub-Server
+   gepusht, Reserve: GitHub Action `.github/workflows/feeds.yml` — Schlagzeilen der letzten 36 h aus
    Tagesschau, DLF, FAZ, Spiegel, Zeit, NZZ, BBC, Guardian). Prüfe die
    Zeile "Erstellt:" — stammt sie nicht von heute, im Transparenzhinweis
    vermerken. Lies außerdem den obersten (neuesten) Eintrag in
