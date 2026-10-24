@@ -3,6 +3,19 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
+## 2026-10-24
+
+- **Serbien – Parlamentswahl am Sonntag**: Zehntausende Anhänger der oppositionellen "Studentenliste" demonstrierten vor der Wahl am 25.10. in Belgrad; die aus der seit fast zwei Jahren andauernden Protestbewegung entstandene Liste tritt mit rund 250 Personen gegen Präsident Vučićs SNS an. Vučić will im Falle eines Wahlsiegs vom Präsidentenamt in das des Ministerpräsidenten wechseln. Die Wahl gilt als wichtigster Test für seine seit zwölf Jahren andauernde Herrschaft.
+- **Ukraine-Krieg (Update)**: US-Präsident Trump drängte laut eigenen Angaben Elon Musk, die zuvor gedrosselten Starlink-Dienste für die Ukraine wieder freizuschalten – Musk hat dies laut Trump inzwischen umgesetzt. Parallel griff Russland die Ukraine weiter an, auch nachdem Moskau neuen Gesprächen zugestimmt haben soll; der Gouverneur von Donezk rief Familien mit Kindern zur Ausreise aus bestimmten Gebieten auf.
+- **Rekord-Steuerschätzung und Entlastungsdebatte (Update)**: Die Steuerschätzung für 2027 liegt mit rund einer Billion Euro auf Rekordniveau. In der Folge fordern Politiker eine Senkung der Stromsteuer für alle Verbraucher, zudem drängen die Ministerpräsidenten der Länder auf einen Spritpreisdeckel zum 1. Januar.
+- **VW-Krise**: VW-Spitze, Betriebsrat und IG Metall sind in eine neue Sondierungsrunde über den Sparkurs des Konzerns gegangen. Hintergrund sind anhaltende Diskussionen um Stellenabbau und mögliche Werkschließungen, bei denen die Arbeitnehmerseite betriebsbedingte Kündigungen weiterhin ausschließen will.
+- **Erdbeben in Tibet**: Ein Beben der Stärke 7,0 hat den Norden Tibets erschüttert, mindestens 16 Menschen kamen ums Leben, Dutzende wurden verletzt. Rettungs- und Bergungsarbeiten laufen in der betroffenen Region.
+- **USA vor den Midterms**: Korruptionsvorwürfe gelten Berichten zufolge als Trumps empfindlichster Angriffspunkt vor den Zwischenwahlen; zugleich sorgt ein Skandal-Werbespot von Senatskandidat Vivek Ramaswamy in Ohio für Kritik, hinter den sich Trump öffentlich stellte. Berichte deuten zudem auf schwindende Unterstützung junger Wähler für Trump hin, während Großspender wie Elon Musk (laut Berichten rund 366 Mio. Dollar in diesem Jahr) den Wahlkampf prägen.
+
+Besonders in Bewegung: Die Serbien-Wahl findet erst morgen statt – das Ergebnis und mögliche Reaktionen können den Nachrichtenverlauf im Tagesverlauf deutlich verändern.
+
+*Transparenzhinweis: Der mitgelieferte Feed-Schnappschuss stammt vom 23.10., 08:49 Uhr – nicht von heute Morgen (24.10.). Eigene Web-Recherche zu taggenauen Entwicklungen vom 24.10. blieb ergebnisarm: Suchanfragen lieferten überwiegend ältere oder nicht datierte Treffer (teils sogar zu einem anderen, früheren Tibet-Erdbeben von 2025) statt verlässlicher aktueller Berichte. Der folgende Abriss stützt sich daher primär auf den Schnappschuss vom 23.10.; punktuelle Hintergrundrecherche wurde nur zur Einordnung herangezogen, ohne dessen Fakten zu überschreiben.*
+
 ## 2026-10-23
 
 - **Serbien vor Parlamentswahl**: Zwei Tage vor der Parlamentswahl am Sonntag haben am Freitagmorgen zehntausende Anhänger der oppositionellen "Studentenliste" bei ihrer Abschlusskundgebung in Belgrad demonstriert. Die aus den Studierendenprotesten nach dem tödlichen Bahnhofsunglück in Novi Sad entstandene Bewegung tritt gegen die seit zwölf Jahren regierende Partei von Präsident Vučić an und gilt als ernstzunehmende Herausforderung für dessen Machtanspruch.
