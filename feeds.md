@@ -1,8 +1,8 @@
 # Feed-Schnappschuss
 
-Erstellt: 25.10., 06:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
+Erstellt: 25.10., 07:08 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
 Automatisch erzeugt von .github/workflows/feeds.yml — nicht von Hand bearbeiten.
-Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit: 15 · NZZ: 16 · BBC World: 25 · Guardian World: 25
+Status: Tagesschau: 25 · Deutschlandfunk: 22 · FAZ: 25 · Spiegel: 25 · Zeit: 15 · NZZ: 16 · BBC World: 25 · Guardian World: 25
 
 ## Tagesschau
 
@@ -34,27 +34,28 @@ Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 ## Deutschlandfunk
 
-- [25.10., 04:53] **Landesweite Proteste - Erneut Ausschreitungen in Frankreich - laut Innenministerium fast 1.000 Festnahmen** — Unter starker Polizeipräsenz haben in Frankreich ‌Hunderttausende Menschen gegen hohe Lebenshaltungskosten und Misstände im Bildungssystem protestiert. In mehreren Städten gab es erneut Ausschreitungen, unter anderem nach der …
-- [25.10., 04:53] **Ukraine-Krieg - Musk beschuldigt Kiew, Starlink missbräuchlich genutzt zu haben** — Der US-Tech-Milliardär Musk hat dem ukrainischen Militär vorgeworfen, das Satelliteninternet Starlink für offensive Drohnenangriffe eingesetzt zu haben.
-- [25.10., 04:53] **Brasilien - Stichwahl über das Präsidentenamt zwischen Lula und Bolsonaro** — In Brasilien wird heute in einer Stichwahl entschieden, ob Amtsinhaber Lula da Silva Präsident bleibt oder ob sein rechter Herausforderer Flávio Bolsonaro das höchste Staatsamt übernimmt.
-- [25.10., 04:53] **Wahlsonntag - Serbien wählt neues Parlament - Präsidentschaftswahlen in Bulgarien** — In Serbien finden heute vorgezogene Parlamentswahlen statt.
-- [25.10., 04:53] **Wien - Staatengemeinschaft strebt neues Abkommen gegen Umweltkriminalität an** — Die internationale Staatengemeinschaft hat in Wien beschlossen, Verhandlungen über ein neues Abkommen gegen Umweltkriminalität aufzunehmen.
-- [25.10., 04:53] **CSU-Parteitag - Merz ruft Union zu Geschlossenheit auf und warnt vor Extremisten "von ganz links und ganz rechts"** — Bundeskanzler Merz hat auf dem CSU-Parteitag in München die Zusammenarbeit in der Union gelobt. Zugleich mahnte er, CDU und CSU müssten künftig noch enger zusammenstehen, um Deutschland vor Extremisten von ganz links und ganz rechts zu …
-- [25.10., 04:53] **Jemen - Huthi-Miliz meldet neue Angriffe auf Saudi-Arabien** — Die jemenitische Huthi-Miliz hat nach eigenen Angaben erneut mehrere Angriffe auf Saudi-Arabien durchgeführt.
-- [25.10., 04:53] **Slowakei - Regional- und Kommunalwahlen zu Ende** — In der Slowakei sind Regional- und Kommunalwahlen abgehalten worden.
-- [25.10., 04:53] **Fußball-Bundesliga - Siege für Dortmund, Leipzig, Bremen und Paderborn** — In der Fußball-Bundesliga hat Dortmund gegen Frankfurt mit 1:0 gewonnen. Die Mannschaft von Trainer Niko Kovac verdrängte damit Bayern München von der Tabellenspitze. Das Tor für den BVB schoss Maximilian Beier (80.).
-- [25.10., 04:53] **Zeitumstellung - In der Nacht werden die Uhren eine Stunde zurückgestellt** — In dieser Nacht werden die Uhren wieder eine Stunde zurückgestellt - von 3 auf 2 Uhr. Damit gilt wieder die Mitteleuropäische Zeit.
-- [25.10., 04:53] **Hunderte Teilnehmer - Proteste an mehreren Flughäfen gegen Abschiebungen** — An einer Reihe von deutschen Flughäfen hat ein Aktionsbündnis gegen Abschiebungen und Abschiebehaft demonstriert.
-- [25.10., 04:53] **Parteien - Frankreichs Rechtspopulisten bestätigen Jordan Bardella an Parteispitze** — Der Vorsitzende von Frankreichs rechtspopulistischem Rassemblement National, Bardella, ist im Amt bestätigt worden.
-- [25.10., 04:53] **Nahost - Jordanien demonstriert Solidarität mit christlicher Minderheit** — Nach dem Attentat auf eine christliche Gemeinde in Jordanien hat König Abdullah ein hartes Vorgehen gegen die Täter angekündigt.
-- [25.10., 04:53] **USA - Audi kündigt während Wahlkampfveranstaltung von Trump ein neues Werk an** — Auf einer Wahlkampfveranstaltung von US-Präsident Trump hat der deutsche Autobauer Audi den Bau eines neuen Werks für SUV-Fahrzeuge in den Vereinigten Staaten bekanntgegeben.
-- [25.10., 04:53] **USA - Erzdiöse New York zahlt Millionensumme wegen sexuellen Missbrauchs** — Die Erzdiözese New York zahlt infolge eines Missbrauchsskandals 800 Millionen Dollar ‌an einen Kreis von rund ⁠1300 Opfer.
-- [25.10., 04:53] **Nigeria - Zahlreiche Tote bei Überfall auf ein Dorf** — Bei einem Angriff auf ‌ein Dorf ⁠im Nordosten ⁠Nigerias sind mindestens 40 Menschen getötet worden.
-- [25.10., 04:53] **Zeitumstellung - Uhren wurden eine Stunde zurückgestellt** — Die Uhren in Deutschland sind soeben um eine Stunde zurückgestellt worden - von 3 wieder auf 2 Uhr.
-- [25.10., 04:53] **Geplante Vergesellschaftung - Linken-Chef Pantisano stellt sich gegen Gewinnerzielung mit Mieten** — In der Debatte über eine Vergesellschaftung von Wohnungsunternehmen hat sich der Vorsitzende der Linkspartei, Pantisano, gegen die Gewinnerzielung mit Mieten ausgesprochen. Erträge aus Wohnungen seien für den Erhalt und bei …
-- [25.10., 04:53] **Ehrung - Bundespräsident Steinmeier überreicht Umweltpreis** — Bundespräsident Steinmeier übergibt heute in Aachen den Deutschen Umweltpreis.
-- [25.10., 04:53] **Darmstadt - Georg-Büchner-Preis an Christine Wunnicke überreicht** — Die Autorin Christine Wunnicke hat den Georg-Büchner-Preis erhalten. Die Deutsche Akademie für Sprache und Dichtung überreichte der 60-Jährigen die mit 50.000 Euro dotierte Auszeichnung in Darmstadt.
-- [25.10., 04:53] **Wetter - Viel Regen am Sonntag, zu Wochenbeginn aufgelockert** — Das Wetter: Vor allem im Süden viel Regen. Im Nordwesten Übergang zu wechselnder Bewölkung mit Schauern und Gewittern Höchstwerte 10 bis 17 Grad. Morgen bewölkt, Im Norden und Nordosten noch einzelne Schauer. 10 bis 16 Grad.
+- [25.10., 07:00] **Landesweite Proteste - Erneut Ausschreitungen in Frankreich - laut Innenministerium fast 1.000 Festnahmen** — Unter starker Polizeipräsenz haben in Frankreich ‌Hunderttausende Menschen gegen hohe Lebenshaltungskosten und Misstände im Bildungssystem protestiert. In mehreren Städten gab es erneut Ausschreitungen, unter anderem nach der …
+- [25.10., 07:00] **USA - Audi kündigt während Wahlkampfveranstaltung von Trump ein neues Werk an** — Audi will für vier Milliarden Dollar ein ‌neues Werk in den USA bauen.
+- [25.10., 07:00] **Ukraine-Krieg - Musk beschuldigt Kiew, Starlink missbräuchlich genutzt zu haben** — Der US-Tech-Milliardär Musk hat dem ukrainischen Militär vorgeworfen, das Satelliteninternet Starlink für offensive Drohnenangriffe eingesetzt zu haben.
+- [25.10., 07:00] **Brasilien - Stichwahl über das Präsidentenamt zwischen Lula und Bolsonaro** — In Brasilien wird heute in einer Stichwahl entschieden, ob Amtsinhaber Lula da Silva Präsident bleibt oder ob sein rechter Herausforderer Flávio Bolsonaro das höchste Staatsamt übernimmt.
+- [25.10., 07:00] **Wahlsonntag - Serbien wählt neues Parlament - Präsidentschaftswahlen in Bulgarien** — In Serbien finden heute vorgezogene Parlamentswahlen statt.
+- [25.10., 07:00] **Nahost - Huthis melden Angriffe auf Saudi-Arabien** — Die mit dem Iran verbündeten Huthi im Jemen haben nach eigenen Angaben erneut das benachbarte Saudi-Arabien angegriffen.
+- [25.10., 07:00] **Wien - Staatengemeinschaft strebt neues Abkommen gegen Umweltkriminalität an** — Die internationale Staatengemeinschaft hat in Wien beschlossen, Verhandlungen über ein neues Abkommen gegen Umweltkriminalität aufzunehmen.
+- [25.10., 07:00] **CSU-Parteitag - Merz ruft Union zu Geschlossenheit auf und warnt vor Extremisten "von ganz links und ganz rechts"** — Bundeskanzler Merz hat auf dem CSU-Parteitag in München die Zusammenarbeit in der Union gelobt. Zugleich mahnte er, CDU und CSU müssten künftig noch enger zusammenstehen, um Deutschland vor Extremisten von ganz links und ganz rechts zu …
+- [25.10., 07:00] **Jemen - Huthi-Miliz meldet neue Angriffe auf Saudi-Arabien** — Die jemenitische Huthi-Miliz hat nach eigenen Angaben erneut mehrere Angriffe auf Saudi-Arabien durchgeführt.
+- [25.10., 07:00] **Slowakei - Regional- und Kommunalwahlen zu Ende** — In der Slowakei sind Regional- und Kommunalwahlen abgehalten worden.
+- [25.10., 07:00] **Fußball-Bundesliga - Siege für Dortmund, Leipzig, Bremen und Paderborn** — In der Fußball-Bundesliga hat Dortmund gegen Frankfurt mit 1:0 gewonnen. Die Mannschaft von Trainer Niko Kovac verdrängte damit Bayern München von der Tabellenspitze. Das Tor für den BVB schoss Maximilian Beier (80.).
+- [25.10., 07:00] **Zeitumstellung - In der Nacht werden die Uhren eine Stunde zurückgestellt** — In dieser Nacht werden die Uhren wieder eine Stunde zurückgestellt - von 3 auf 2 Uhr. Damit gilt wieder die Mitteleuropäische Zeit.
+- [25.10., 07:00] **Hunderte Teilnehmer - Proteste an mehreren Flughäfen gegen Abschiebungen** — An einer Reihe von deutschen Flughäfen hat ein Aktionsbündnis gegen Abschiebungen und Abschiebehaft demonstriert.
+- [25.10., 07:00] **Parteien - Frankreichs Rechtspopulisten bestätigen Jordan Bardella an Parteispitze** — Der Vorsitzende von Frankreichs rechtspopulistischem Rassemblement National, Bardella, ist im Amt bestätigt worden.
+- [25.10., 07:00] **Nahost - Jordanien demonstriert Solidarität mit christlicher Minderheit** — Nach dem Attentat auf eine christliche Gemeinde in Jordanien hat König Abdullah ein hartes Vorgehen gegen die Täter angekündigt.
+- [25.10., 07:00] **USA - Erzdiöse New York zahlt Millionensumme wegen sexuellen Missbrauchs** — Die Erzdiözese New York zahlt infolge eines Missbrauchsskandals 800 Millionen Dollar ‌an einen Kreis von rund ⁠1300 Opfer.
+- [25.10., 07:00] **Nigeria - Zahlreiche Tote bei Überfall auf ein Dorf** — Bei einem Angriff auf ‌ein Dorf ⁠im Nordosten ⁠Nigerias sind mindestens 40 Menschen getötet worden.
+- [25.10., 07:00] **Zeitumstellung - Uhren wurden eine Stunde zurückgestellt** — Die Uhren in Deutschland sind soeben um eine Stunde zurückgestellt worden - von 3 wieder auf 2 Uhr.
+- [25.10., 07:00] **Geplante Vergesellschaftung - Linken-Chef Pantisano stellt sich gegen Gewinnerzielung mit Mieten** — In der Debatte über eine Vergesellschaftung von Wohnungsunternehmen hat sich der Vorsitzende der Linkspartei, Pantisano, gegen die Gewinnerzielung mit Mieten ausgesprochen. Erträge aus Wohnungen seien für den Erhalt und bei …
+- [25.10., 07:00] **Ehrung - Bundespräsident Steinmeier überreicht Umweltpreis** — Bundespräsident Steinmeier übergibt heute in Aachen den Deutschen Umweltpreis.
+- [25.10., 07:00] **Darmstadt - Georg-Büchner-Preis an Christine Wunnicke überreicht** — Die Autorin Christine Wunnicke hat den Georg-Büchner-Preis erhalten. Die Deutsche Akademie für Sprache und Dichtung überreichte der 60-Jährigen die mit 50.000 Euro dotierte Auszeichnung in Darmstadt.
+- [25.10., 07:00] **Wetter - Viel Regen am Sonntag, zu Wochenbeginn aufgelockert** — Das Wetter: Vor allem im Süden viel Regen. Im Nordwesten Übergang zu wechselnder Bewölkung mit Schauern und Gewittern Höchstwerte 10 bis 17 Grad. Morgen bewölkt, Im Norden und Nordosten noch einzelne Schauer. 10 bis 16 Grad.
 
 ## FAZ
 
@@ -88,7 +89,7 @@ Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 - [25.10., 05:30] **Nach der Trennung: Wenn das Beziehungsende sich als Glücksfall erweist** — Warum hab ich so lange gedacht, das wäre die große Liebe? War es nicht. Das Beste erlebte ich, als die Beziehung endete.
 - [25.10., 05:09] **Winterzeit: In der Nacht wurden die Uhren umgestellt** — Zweimal pro Jahr wird in Deutschland an der Uhr gedreht. Seit dieser Nacht gilt wie in den meisten Ländern Europas bis Ende März wieder die Normalzeit. Die dunklere Jahreszeit steht bevor.
-- [25.10., 04:47] **Audi baut für vier Milliarden Dollar eigenes Werk in den USA** — Bislang importiert Audi alles seine Fahrzeuge in die USA und zahlt dafür hohe Zölle. Nun will das Unternehmen erstmals vor Ort produzieren. Ausgerechnet Donald Trump darf die Milliardeninvestition im Wahlkampf verkünden – zusammen mit dem …
+- [25.10., 04:47] **Audi baut für vier Milliarden Dollar eigenes Werk in den USA** — Bislang importiert Audi alle seine Fahrzeuge in die USA und zahlt dafür hohe Zölle. Nun will der Konzern erstmals vor Ort produzieren. Ausgerechnet Donald Trump darf die Milliardeninvestition im Wahlkampf verkünden – zusammen mit dem …
 - [25.10., 02:54] **Israels Armee will Westjordanland am Wahltag abriegeln** — Bei der israelischen Militäroffensive im besetzten Westjordanland sind in der Stadt Hebron rund 2000 Palästinenser aus ihren Häusern vertrieben worden. Die Armee kündigte einen Lockdown für die besetzten Gebiete an.
 - [25.10., 02:19] **SPD und Grüne sehen Zeit reif für Bundespräsidentin** — Nur noch gut drei Monate verbleiben bis zur Wahl des künftigen Staatsoberhauptes. Wen die Union ins Rennen schicken will, ist weiter unklar. Von SPD und Grünen kommt eine klare Forderung.
 - [25.10., 01:55] **Nicht-US-Bürger bei Midterms: US-Justizministerium setzt Beamte in Kalifornien unter Druck** — Wenige Tage vor den Midterms droht das US-Justizministerium Wahlbeamten in Kalifornien mit Ermittlungen gegen sie. Die Trump-Regierung behauptet, dass Hunderte Nicht-US-Bürger als Wähler registriert sind. Kalifornien weist die Vorwürfe …
@@ -114,7 +115,9 @@ Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 ## Zeit
 
-- [25.10., 06:35] **US-Justizministerium: US-Regierung droht Wahlbeamten in Kalifornien mit Ermittlungen** — Kurz vor den Midterm-Wahlen in den USA setzt die Regierung Wahlbeamte unter Druck. Sie gibt vor, die Stimmabgabe von angeblichen Nicht-Staatsbürgern verhindern zu wollen.
+- [25.10., 07:00] **Leute: Fitzek: Viele Erwachsene halten Instagram-Inhalte für real**
+- [25.10., 07:00] **Sanierung beendet: Ostflügel des HU-Hauptgebäudes öffnet nach Sanierung**
+- [25.10., 06:35] **US-Justizministerium: US-Regierung droht Wahlbeamten in Kalifornien mit Ermittlungen** — Kurz vor den Midterm-Wahlen in den USA setzt die Regierung Wahlbeamte unter Druck. Sie gibt vor, die Stimmabgabe von angeblichen Nichtstaatsbürgern verhindern zu wollen.
 - [25.10., 06:31] **Unfälle: Zwölfjähriger stößt auf E-Scooter mit Auto zusammen**
 - [25.10., 06:15] **Kontakt abgebrochen: Medien: Meghan konfrontierte Vater mit Missbrauchsvorwürfen**
 - [25.10., 06:05] **Blaubeeren: Wie die Blaubeere zum Superfood wurde – und wer den Preis dafür zahlt** — Die meisten Blaubeeren kommen heute aus Peru. Wie wachsen sie dort? Wer pflückt sie? Was steckt hinter den Gesundheitsversprechen? Wir sind der Frucht hinterhergereist
@@ -123,9 +126,7 @@ Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [25.10., 06:00] **Politisches Kabarett: Alfons’ Appell gegen Extremismus: «Nicht einfach zuschauen»**
 - [25.10., 06:00] **Adenauer und Israel: Ausstellung zu Wiedergutmachungsabkommen in Neuengamme**
 - [25.10., 06:00] **Wahl in Brasilien: Hilft Meta Bolsonaro 2.0 an die Macht?** — In Brasilien treten Lula und Flávio Bolsonaro zur Stichwahl an. Für seine Rolle im Wahlkampf steht der Instagram-Konzern in der Kritik. Und: Pressefreiheit in der Türkei
-- [25.10., 06:00] **Schnee und Glätte: Hamburg rüstet sich für den Winter: Lager voll mit Streugut**
 - [25.10., 06:00] **Podcast »English, please!«: We love Lüften** — Liebeserklärungen an Deutschland: Vier Mitglieder des »Spotlight«-Teams erzählen, was sie hier zu schätzen gelernt haben.
-- [25.10., 06:00] **Eintritt frei!: Heute kostenloser Eintritt in vier Berliner Museen**
 - [25.10., 05:50] **Westjordanland: Israel will Westjordanland am Wahltag abriegeln** — Das israelische Militär will Landübergänge zum Westjordanland während der Wahl schließen. Palästinensern werde bereits der Zugang zu israelischen Siedlungen verwehrt.
 - [25.10., 05:16] **Wahl in Brasilien: »Durch mich fließt Bolsonaro-Blut«** — Brasiliens Ex-Präsident Jair Bolsonaro sitzt wegen Putsch- und Mordplänen in Haft. Nun könnte ausgerechnet sein Sohn Flávio die Präsidentschaftswahl gewinnen.
 - [25.10., 05:14] **Unser Personal Trainer: Das seitliche Balkenschreiten** — Balancieren Sie manchmal durchs Leben? Sehr gut, unseren Trainer freut das. In unserer Übung der Woche erklärt er, wie Sie ungewohnte Balanceakte von der Seite meistern.
@@ -179,7 +180,7 @@ Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 ## Guardian World
 
-- [25.10., 06:30] **‘Unusually large’ multi-state storm causing flood warnings and severe weather for Australia’s east** — <p>BoM predicts hail, damaging winds, flash flooding and power outages across southern Queensland, western NSW, the ACT and eastern Victoria on Sunday afternoon</p><ul><li><p>Get our <a …
+- [25.10., 06:30] **‘Unusually large’ multi-state storm causing severe weather for Australia’s east – with more on the way** — <p>BoM predicts hail, damaging winds, flash flooding and power outages across southern Queensland, western NSW, the ACT and eastern Victoria on Sunday afternoon</p><ul><li><p>Get our <a …
 - [25.10., 04:54] **AFP boss says politicians’ heated rhetoric is fuelling threats against MPs** — <p>Commissioner Krissy Barrett says women are more often singled out, often with threats of sexual violence</p><ul><li><p>Get our <a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl">breaking news email</a>, <a …
 - [25.10., 03:00] **Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says** — <p>Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders</p><p>Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is …
 - [25.10., 02:41] **‘Horrific’: woman, 19, shot in head in drive-by shooting outside boxing event near Brisbane** — <p>Offenders still at large after shots fired from vehicle outside licensed premises in Loganholme</p><ul><li><p>Get our <a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl">breaking news email</a>, <a …
