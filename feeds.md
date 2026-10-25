@@ -1,16 +1,16 @@
 # Feed-Schnappschuss
 
-Erstellt: 25.10., 05:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
+Erstellt: 25.10., 06:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
 Automatisch erzeugt von .github/workflows/feeds.yml — nicht von Hand bearbeiten.
 Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit: 15 · NZZ: 16 · BBC World: 25 · Guardian World: 25
 
 ## Tagesschau
 
 - [25.10., 05:10] **Wie Erdwärme die Wärmeversorgung verändern soll** — In Potsdam wird gerade mehr als einen Kilometer in den Boden gebohrt, um künftig Tausende Haushalte mit Erdwärme zu versorgen. Die Technik birgt Risiken, aber auch viele Chancen. Von M. Kell und H. Christ.
-- [25.10., 05:10] **Serbien wählt - kann Vucic seine Macht wieder festigen?** — Serbiens autoritärer Präsident Aleksandar Vucic will heute die Wahl gewinnen und Premier werden. Doch die starke Protestbewegung der Studenten könnte ihn nach 14 Jahren entmachten. Wer ist Vucic? Von Oliver Soos.
+- [25.10., 05:10] **Serbien wählt - kann Vucic seine Macht wieder festigen?** — Serbiens langjähriger Staatschef Vucic will heute die Wahl gewinnen und Premier werden. Doch die starke Protestbewegung der Studenten könnte ihn nach 14 Jahren entmachten. Wer ist Vucic? Von Oliver Soos.
 - [25.10., 05:07] **Lula oder Bolsonaro: Brasilien vor der Stichwahl** — Lula oder Bolsonaro - beide Präsidentschaftskandidaten liegen vor der Stichwahl in Brasilien gleichauf. Das Land ist tief gespalten. Dabei könnten gerade die Unentschlossenen zum entscheidenden Faktor werden. Von Anne Herrberg.
 - [25.10., 04:50] **tagesschau in 100 Sekunden**
-- [25.10., 02:11] **Sommerzeit beendet - Uhren um eine Stunde zurückgedreht** — Es ist wieder so weit: Die Sommerzeit ist zu Ende, die Uhren wurden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.
+- [25.10., 02:11] **Sommerzeit beendet - Uhren um eine Stunde zurückgedreht** — Die Sommerzeit ist zu Ende, die Uhren wurden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.
 - [24.10., 23:49] **tagesthemen**
 - [24.10., 23:35] **Die Meinung von Achim Wendler, BR, zum CSU-Parteitag**
 - [24.10., 23:32] **CSU-Parteitag in München: Kanzler Merz fordert Geschlossenheit**
@@ -58,6 +58,7 @@ Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 ## FAZ
 
+- [25.10., 06:04] **Deutsche AutoIndustrie: Audi baut für vier Milliarden Dollar ein eigenes Werk in den USA** — Audi verliert wegen Trumps Zöllen viel Geld in den USA. Nun kündigt CEO Gernot Döllner während eines Wahlkampfauftritts von Donald Trump den Bau eines riesigen Werks in Georgia an.
 - [25.10., 05:29] **Midterms: Obama greift Trump im Wahlkampf scharf an** — „Chaos, Grausamkeit, Korruption und Inkompetenz“: Mit schweren Vorwürfen gegen die Trump-Regierung schaltet sich der ehemalige US-Präsident Barack Obama vor den Zwischenwahlen in den Wahlkampf ein.
 - [25.10., 05:20] **USA unter Trump: Er kam persönlich: Trump hat Stimme für Midterms abgegeben** — Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ
 - [25.10., 03:10] **1300 Kläger: Katholische Kirche in New York zahlt Missbrauchsopfern mehr als 800 Millionen Dollar** — Laut der „New York Times“ soll jedes der rund 1300 Missbrauchsopfer mindestens 250.000 Dollar erhalten. Die Vereinbarung ist das Ergebnis jahrelanger Verhandlungen.
@@ -82,7 +83,6 @@ Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [24.10., 17:56] **Woher die Wohnungsnot?: Warum Berlin so gern enteignet** — Früher förderte Berlin den Wohnungsabriss, heute jammert die Stadt über den Mangel. Die Radikalität der Debatte hat auch mit den Besonderheiten der Hauptstadt zu tun.
 - [24.10., 17:51] **Neues GPs-Tracking: Beim Frankfurt-Marathon kann man nicht mehr schummeln** — Kilometer für Kilometer überwacht: Beim Frankfurt-Marathon macht neue Messtechnik den heimlichen U-Bahn-Abstecher fast unmöglich.
 - [24.10., 17:48] **Going high, riding low: Wo Autos hoppen** — In Los Angeles gehören Lowrider zum Straßenbild wie Palmen und Freeways. Die Fahrer halten eine Autokultur lebendig, in der Technik, Gemeinschaft und Familie zusammenkommen.
-- [24.10., 17:48] **Werder siegt in Mainz: Füllkrug trifft immer weiter** — Beim 3:2 in Mainz darf Niclas Füllkrug gleich zweimal vom Elfmeterpunkt antreten. Er erzielt seine Saisontreffer sieben und acht – und sammelt Argumente für die Nationalmannschaft.
 
 ## Spiegel
 
@@ -114,24 +114,26 @@ Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 ## Zeit
 
-- [25.10., 05:30] **Osnabrück: Ein Fahrradrennen im Parkhaus**
-- [25.10., 05:24] **Bayern-Coach in Krankenhaus: Klose nach Kompany-Schock: Wir Trainer sind alle stur**
+- [25.10., 06:35] **US-Justizministerium: US-Regierung droht Wahlbeamten in Kalifornien mit Ermittlungen** — Kurz vor den Midterm-Wahlen in den USA setzt die Regierung Wahlbeamte unter Druck. Sie gibt vor, die Stimmabgabe von angeblichen Nicht-Staatsbürgern verhindern zu wollen.
+- [25.10., 06:31] **Unfälle: Zwölfjähriger stößt auf E-Scooter mit Auto zusammen**
+- [25.10., 06:15] **Kontakt abgebrochen: Medien: Meghan konfrontierte Vater mit Missbrauchsvorwürfen**
+- [25.10., 06:05] **Blaubeeren: Wie die Blaubeere zum Superfood wurde – und wer den Preis dafür zahlt** — Die meisten Blaubeeren kommen heute aus Peru. Wie wachsen sie dort? Wer pflückt sie? Was steckt hinter den Gesundheitsversprechen? Wir sind der Frucht hinterhergereist
+- [25.10., 06:05] **Nach Zusammenbruch: Mit Essen: Hoeneß besucht Kompany im Krankenhaus**
+- [25.10., 06:00] **Lernen in der JVA: Mehr als 30 Häftlinge schaffen Bildungsabschlüsse im Vollzug**
+- [25.10., 06:00] **Politisches Kabarett: Alfons’ Appell gegen Extremismus: «Nicht einfach zuschauen»**
+- [25.10., 06:00] **Adenauer und Israel: Ausstellung zu Wiedergutmachungsabkommen in Neuengamme**
+- [25.10., 06:00] **Wahl in Brasilien: Hilft Meta Bolsonaro 2.0 an die Macht?** — In Brasilien treten Lula und Flávio Bolsonaro zur Stichwahl an. Für seine Rolle im Wahlkampf steht der Instagram-Konzern in der Kritik. Und: Pressefreiheit in der Türkei
+- [25.10., 06:00] **Schnee und Glätte: Hamburg rüstet sich für den Winter: Lager voll mit Streugut**
+- [25.10., 06:00] **Podcast »English, please!«: We love Lüften** — Liebeserklärungen an Deutschland: Vier Mitglieder des »Spotlight«-Teams erzählen, was sie hier zu schätzen gelernt haben.
+- [25.10., 06:00] **Eintritt frei!: Heute kostenloser Eintritt in vier Berliner Museen**
+- [25.10., 05:50] **Westjordanland: Israel will Westjordanland am Wahltag abriegeln** — Das israelische Militär will Landübergänge zum Westjordanland während der Wahl schließen. Palästinensern werde bereits der Zugang zu israelischen Siedlungen verwehrt.
 - [25.10., 05:16] **Wahl in Brasilien: »Durch mich fließt Bolsonaro-Blut«** — Brasiliens Ex-Präsident Jair Bolsonaro sitzt wegen Putsch- und Mordplänen in Haft. Nun könnte ausgerechnet sein Sohn Flávio die Präsidentschaftswahl gewinnen.
 - [25.10., 05:14] **Unser Personal Trainer: Das seitliche Balkenschreiten** — Balancieren Sie manchmal durchs Leben? Sehr gut, unseren Trainer freut das. In unserer Übung der Woche erklärt er, wie Sie ungewohnte Balanceakte von der Seite meistern.
-- [25.10., 05:14] **Parlamentswahlen: Auf Trump-Wahlkampftour: Audi kündigt SUV-Werk in den USA an**
-- [25.10., 05:13] **Altersvorsorgedepots: Soll ich meine Altersvorsorge einem Neobroker anvertrauen?** — Anbieter wie Trade Republic und Scalable Capital locken mit kostenlosen Altersvorsorgedepots. Doch entscheidende Vertragsdetails fehlen noch. Wie sicher ist das Angebot?
-- [25.10., 05:01] **Machthaber unter Druck: Richtungswahl entscheidet über die Zukunft Serbiens**
-- [25.10., 05:00] **Regierungsbildung: Zwei Showdowns bei der Linken: Wie weiter mit Rot-Grün-Rot?**
-- [25.10., 05:00] **Koalition der Willigen: Deutsche Stabsoffiziere und Tankflugzeuge für Ukraine-Übung**
-- [25.10., 05:00] **Fährplan: F1-Fähre fährt im Winter nach Sonderplan**
-- [25.10., 05:00] **Ökologie der Seen: Warum an vielen Seen nur noch Reste von Schilf stehen**
-- [25.10., 04:52] **Midterms: Barack Obama wirft Donald Trump Selbstbereicherung vor** — Barack Obama kritisiert die Iranpolitik und die Zölle von US-Donald Trump. Noch nie habe ein Präsident sich so unverhohlen auf Kosten der Bevölkerung bereichert.
-- [25.10., 04:23] **Autoindustrie: Audi kündigt auf Wahlkampfveranstaltung von Trump erstes US-Werk an** — Audi steht wegen US-Zöllen unter Druck. Der Chef des deutschen Konzerns hat bei einem Wahlkampftermin von Donald Trump eine Milliardeninvestition in Georgia angekündigt.
-- [25.10., 02:20] **Nachfolge von Frank-Walter Steinmeier: Ralf Stegner rügt Umgang mit möglicher Kandidatur von Ilse Aigner** — Ralf Stegner lobt Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin, übt aber Kritik an der Handhabung der Personalie. Die Union dürfe nicht taktisch vorgehen.
-- [25.10., 02:19] **Proteste in Tel Aviv: Demonstrationen gegen Netanjahu in Tel Aviv kurz vor Parlamentswahl** — Vor der Wahl haben erneut Menschen in Tel Aviv gegen Israels Ministerpräsident Benjamin Netanjahu demonstriert. Sie kritisierten vor allem seine Rolle am 7. Oktober 2023.
 
 ## NZZ
 
+- [25.10., 05:56] **LIVE-TICKER - Krieg in der Ukraine: Starlink läuft laut Selenski wieder +++ Deutschland beteiligt sich an Ukraine-Manöver** — Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick.
+- [25.10., 05:36] **Die ukrainische Armee verlegt den Bewegungskrieg in den Untergrund** — Soldaten des Chartia-Korps kämpfen sich bei Kupjansk erfolgreich durch eine Gasleitung hinter die russischen Linien durch. Die Erfolgsmeldung stützt das militärische Selbstbewusstsein der Ukraine in einem kritischen Moment.
 - [25.10., 05:30] **Von Trump bis Milei: Wer den Bolsonaros nahesteht** — Flávio Bolsonaro fordert in der Stichwahl Präsident Lula heraus. Der Bolsonaro-Clan hat sich ein Netzwerk aufgebaut, das weit über Brasilien hinausreicht.
 - [25.10., 05:30] **Bürgerlich, nichtbinär, Berufsaktivist: Benjamin Ball gehört zu den Organisatoren der Protestwelle in Frankreich** — Der 42-jährige Franzose ist einer von sieben Koordinatoren der Gelbwesten, doch er tritt nun besonders in Erscheinung. Die Gewalt bei den Protesten findet er legitim. Wir haben mit ihm gesprochen.
 - [25.10., 05:30] **Europas Jugend probt den Aufstand: Der Gen-Z-Sozialismus erobert die Strasse** — Preiskontrollen, Enteignungen von Wohnbauunternehmen und Gratisdienste der öffentlichen Hand: Von Paris bis Berlin verlangen die Jungen, dass der Staat sie vor der Welt schützt. So viel anders als bei den Rechtspopulisten ist das nicht.
@@ -146,8 +148,6 @@ Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [25.10., 05:30] **PTSD-Wahl: Die Israeli gehen traumatisiert an die Urnen. Wie beeinflusst das ihren Entscheid?** — Ein Drittel der israelischen Bevölkerung kämpft mit Traumafolgestörungen nach dem Terroranschlag der Hamas im Jahr 2023. Der Umgang mit dieser Angst bestimmt den Ausgang dieser Wahl.
 - [25.10., 05:30] **KOMMENTAR - Blindflug bilaterale Verträge: Warum die heutige EU morgen nicht mehr dieselbe ist** — Der Bundesrat empfiehlt den Abschluss eines neuen bilateralen Vertrags mit Brüssel. Doch dabei droht ein Grundlagenirrtum, denn die Partnerin EU dürfte sich in naher Zukunft massiv verändern – das hat auch mit den gegenwärtigen Protesten …
 - [25.10., 05:30] **Die Swiss prüft Schadenersatzforderungen gegen Skyguide. In der Schweiz sind die Aussichten dafür besser als in der EU** — Die Fluggesellschaft will die Störungen bei der Flugsicherung nicht mehr hinnehmen. Ein neues Urteil in der EU sowie die Schweizer Rechtslage spielen der Airline in die Karten.
-- [25.10., 05:30] **Darüber spricht Madrid: Touristen suchen nach dem Wolkenkuckucksheim. Klingt lustig, ist es aber nicht** — Ein Fake-Apartment wurde zur Touristenfalle. Doch bei den Anwohnern hält sich das Mitleid in Grenzen. Zu gravierend ist der Wohnungsmangel in Madrid, auch wegen Airbnb und Booking.
-- [25.10., 05:30] **In Michigan könnte die Zukunft der Demokraten entschieden werden** — Kann die demokratische Partei mit linksradikalen Forderungen erfolgreich sein? Nach dem politischen Coup von Zohran Mamdani in New York träumen die Progressiven vom Wunder in Michigan.
 
 ## BBC World
 
@@ -179,6 +179,7 @@ Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 ## Guardian World
 
+- [25.10., 06:30] **‘Unusually large’ multi-state storm causing flood warnings and severe weather for Australia’s east** — <p>BoM predicts hail, damaging winds, flash flooding and power outages across southern Queensland, western NSW, the ACT and eastern Victoria on Sunday afternoon</p><ul><li><p>Get our <a …
 - [25.10., 04:54] **AFP boss says politicians’ heated rhetoric is fuelling threats against MPs** — <p>Commissioner Krissy Barrett says women are more often singled out, often with threats of sexual violence</p><ul><li><p>Get our <a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl">breaking news email</a>, <a …
 - [25.10., 03:00] **Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says** — <p>Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders</p><p>Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is …
 - [25.10., 02:41] **‘Horrific’: woman, 19, shot in head in drive-by shooting outside boxing event near Brisbane** — <p>Offenders still at large after shots fired from vehicle outside licensed premises in Loganholme</p><ul><li><p>Get our <a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl">breaking news email</a>, <a …
@@ -203,4 +204,3 @@ Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [24.10., 14:00] **Epstein files take back seat in midterms but experts say issue has not gone away** — <p>Other voter concerns have prevailed but return of Congress likely to see renewed focus on late sex offender’s activities</p><p>As US voters head to the polls for crucial and fraught midterm elections, some survivors’ advocates in the …
 - [24.10., 13:00] **No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states** — <p>Leading restaurateur says Gulf countries actively help businesses set up, while east Asia has a better work ethic</p><p>Some of London’s top restaurants are opening branches in Dubai because of a “tax tsunami” in the UK and better work …
 - [24.10., 11:43] **British woman dies trying to save sons on Bahamas snorkelling trip** — <p>Mother, 36, died after current off North Bimini reportedly swept away two boys, who were later rescued, police say</p><p>A British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they …
-- [24.10., 07:00] **As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?** — <p>The prime minister has defined and dominated his country’s politics for three decades and is putting his rivals on the defensive before Tuesday’s general election</p><p>They chant his name, they cheer and clap – and yet he is not the …
