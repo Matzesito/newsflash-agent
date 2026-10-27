@@ -3,20 +3,6 @@
 Automatisch generierte Tages-News-Abrisse, neueste zuerst. Wird von der
 täglichen Routine (`RemoteTrigger`, siehe Vault-Notiz) befüllt.
 
-## 2026-10-27
-
-- **Israel-Wahl**: Parlamentswahl mit mehr als 7,3 Millionen Wahlberechtigten, als "Schicksalswahl" für Netanjahu beschrieben – Umfragen sahen seine Koalition vor Verlust der Mehrheit, Hauptherausforderer ist Ex-Generalstabschef Gadi Eisenkot. Im Hintergrund wachsen Spannungen im Westjordanland (Vertreibungen in Hebron, internationalen Delegierten wurde die Einreise verweigert); der Guardian berichtet zudem, Netanjahu habe im Vorfeld auf einen Angriff auf Iran gedrängt – ein bislang unbestätigter Bericht. Das Ergebnis dürfte erst im Lauf des Tages/der Nacht feststehen.
-- **Brasilien (Update)**: Lula gewinnt laut BBC seine vierte Amtszeit in einem dramatischen Comeback; nicht Flávio Bolsonaro selbst, aber dessen Partei (PL) erkennt den Sieg inzwischen "unter Vorbehalt" an, nachdem Bolsonaro die Wahl hatte annullieren lassen wollen. Er muss seinen Pass abgeben und das Land vorerst nicht verlassen (Ermittlungen wegen Geldwäsche); Trump bezeichnete das Ergebnis ohne Beweise als "manipuliert" – eine Einschätzung, der sich selbst Bolsonaros eigene Partei nicht anschließt.
-- **Serbien (Update)**: Die "Studentenliste" hat die Wahl mit absoluter Mehrheit gewonnen und damit die seit 2012 andauernde Herrschaft von Vučićs SNS beendet, der selbst als Spitzenkandidat angetreten war. Offen ist, wie aus der studentischen Protestbewegung eine handlungsfähige Regierung werden kann – politisches Neuland für das Land.
-- **Ukraine-Krieg (Update)**: Russland setzt trotz geplanter Wiederaufnahme von Gesprächen unter US-Vermittlung seine Angriffe fort – in Charkiw starben zwei Menschen, in Kiew wurde eine wichtige Brücke getroffen, der Zugverkehr über den Dnipro ist eingestellt. Parallel gilt in der besetzten, stark verminten Frontstadt Oleschky eine begrenzte, lokale Waffenruhe, um humanitäre Hilfe für die Zivilbevölkerung zu ermöglichen. Laut NZZ hat die Ukraine zudem wieder vollen Zugang zu Starlink – offenbar im Tausch gegen die Zusage, auf Angriffe auf russische Raffinerien zu verzichten (Fortsetzung des Streits um den Satelliten-Zugang).
-- **Audi/Trump-Kontroverse (Deutschland)**: Audi-Chef Gernot Döllner verteidigt seinen gemeinsamen Auftritt mit Trump mit wirtschaftlichen Interessen; Kritik kommt aus der SPD (Generalsekretär Klüssendorf fordert Konsequenzen vom Mutterkonzern VW) und aus dem eigenen Konzern. Hintergrund ist Audis geplantes neues Werk in den USA, während die Zukunft deutscher Standorte wie Neckarsulm ungewiss bleibt.
-- **Anthropic-Börsengang**: Das KI-Unternehmen Anthropic hat in den USA einen Börsengang beantragt und warnt in den Unterlagen selbst vor einem "katastrophalen Risiko" der eigenen Technologie für die Menschheit. Die Gründer könnten dem Bericht nach vor dem Listing je bis zu 29 Milliarden Dollar wert sein; laut Guardian sorgt der KI-Wettlauf zugleich für erhebliche Verluste an chinesischen Börsen.
-
-Besonders in Bewegung: Am stärksten in Bewegung ist heute die Lage in Israel – das Wahlergebnis steht noch aus und kann den Tagesverlauf deutlich verändern.
-
-*Hinweis: Der gelieferte Feed-Schnappschuss (erstellt 27.10., 06:40) war vollständig und aktuell. Ergänzende Web-Recherchen zu den Brasilien/Serbien-Endergebnissen lieferten keine über den Feed hinausgehenden belastbaren neuen Fakten, daher stützt sich der Abriss vollständig auf den Feed-Schnappschuss. Hinweis zum Log: Für den 26.10. existiert in diesem Log kein eigener Eintrag; dieser Abriss schließt inhaltlich an den letzten vorhandenen Eintrag vom 25.10. an.*
-
-
 ## 2026-10-26
 
 - **Brasilien – Lula gewinnt vierte Amtszeit**: Lula da Silva hat die Präsidentschafts-Stichwahl knapp gegen den von Bolsonaro unterstützten Kandidaten Flávio Bolsonaro gewonnen. Das Bolsonaro-Lager erkennt das Ergebnis nicht an und will es anfechten; zusätzlich gibt es Kontroversen um eine Entscheidung des Obersten Richters kurz vor Schließung der Wahllokale. Lula selbst wertet den Sieg als „Niederlage für den Denialismus".
