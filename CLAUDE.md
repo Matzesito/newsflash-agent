@@ -21,7 +21,9 @@ Politik/Wirtschaft/Gesellschaft, national + international).
    Datum als Überschrift (neueste Einträge zuerst, ältere darunter stehen
    lassen).
 3. Committe die Änderung an `newsflash-log.md` mit einer kurzen, aussage-
-   kräftigen Commit-Message (z.B. "Newsflash 2026-09-05") und pushe sie.
+   kräftigen Commit-Message (z.B. "Newsflash 2026-09-05") und pushe sie. Wird der Push abgelehnt (anderer Commit kam
+   dazwischen, z. B. Feed-Schnappschuss), `git pull --rebase` ausführen und
+   erneut pushen — nicht aufgeben, sonst fehlt der Newsflash des Tages.
 
 Bewusst minimal: außer dem Log nur der Feed-Sammler (`scripts/feeds-sammeln.mjs`,
 `.github/workflows/feeds.yml`, Ergebnis `feeds.md`). `feeds.md` nicht von

@@ -5,13 +5,12 @@
 # Hauptweg seit 24.10.2026: der Hub-Server sammelt um 04:40 UTC (systemd-Timer
 # newsflash-feeds.timer, /usr/local/bin/newsflash-feeds.sh) und pusht feeds.md.
 # Dieser Job ist nur noch Reserve: GitHub startet geplante Läufe teils Stunden
-# zu spät (24.10.: 4,5 h), daher früh in der Nacht, zweimal.
+# zu spät (24.10.: 4,5 h; 26./27.10.: 01:17/03:17 erst ~06:15 UTC, knapp nach
+# der Routine) -> Zeitplan am 27.10. entfernt, nur noch von Hand startbar
+# (gh workflow run feeds.yml), falls der Server mal ausfällt.
 name: Feeds sammeln
 
 on:
-  schedule:
-    - cron: '17 1 * * *'
-    - cron: '17 3 * * *'
   workflow_dispatch:
 
 permissions:
