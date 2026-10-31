@@ -1,16 +1,18 @@
 # Feed-Schnappschuss
 
-Erstellt: 31.10., 05:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
+Erstellt: 31.10., 06:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
 Automatisch erzeugt von .github/workflows/feeds.yml — nicht von Hand bearbeiten.
-Status: Tagesschau: 25 · Deutschlandfunk: 19 · FAZ: 25 · Spiegel: 25 · Zeit: 15 · NZZ: 16 · BBC World: 25 · Guardian World: 25
+Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit: 15 · NZZ: 16 · BBC World: 25 · Guardian World: 25
 
 ## Tagesschau
 
+- [31.10., 05:52] **Jugendproteste in mehr als 30 Städten geplant** — Wachsende Unzufriedenheit und Zukunftsängste: Die GenZ protestiert bundesweit für bessere Bildung, Klimaschutz und mehr politische Teilhabe. In mehr als 30 Städten sind Demonstrationen angekündigt. Von Jan Koch.
+- [31.10., 05:52] **Frust bei US-Farmern könnte Trump Stimmen bei den Midterms kosten** — Landwirte gelten als wichtige Wählergruppe der US-Republikaner. Doch steigende Kosten und eine unberechenbare Zollpolitik sorgen für Frust. Das könnte bei den Zwischenwahlen zum Stresstest für die Trump-Regierung werden. Von S. Jackisch.
 - [31.10., 05:10] **tagesschau in 100 Sekunden**
 - [31.10., 04:57] **"Allianz für die Zukunft": Kanada und Europa gründen Bündnis** — Die EU und Kanada gründen in Montreal eine "Allianz für die Zukunft". Ziel ist mehr Unabhängigkeit und eine engere Zusammenarbeit von KI bis Raumfahrt. Auch die Ukraine spielt eine Rolle.
-- [31.10., 04:42] **Polen: Tumult und Protest vor dem Verfassungsgericht** — Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei umstellte das Gebäude, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung der bisherigen Gerichtsführung.
+- [31.10., 04:42] **Polen: Tumult und Protest vor dem Verfassungsgericht** — Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei sicherte das Gebäude ab, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung der bisherigen Gerichtsführung.
 - [31.10., 04:05] **G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz** — In Atlanta beraten die G20-Außenminister über internationale Krisen und die Folgen für die Weltwirtschaft. Doch die Gräben zwischen den Teilnehmenden sind tief. Vor allem Russlands Außenminister Lawrow sparte nicht mit Kritik.
-- [31.10., 00:56] **US-Regierung genehmigt Patriot-Lieferungen an Ukraine** — Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken. Bei einer Lieferung hat das US-Außenministerium nun grünes Licht gegeben.
+- [31.10., 00:56] **US-Regierung genehmigt "Patriot"-Lieferungen an Ukraine** — Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken. Bei einer Lieferung hat das US-Außenministerium nun grünes Licht gegeben.
 - [30.10., 22:44] **tagesthemen**
 - [30.10., 22:37] **Traumtor Campbell - Elversberg überrumpelt Mainz** — Die SV Elversberg überrascht weiter in der Fußball-Bundesliga: Schon in der ersten Halbzeit konnte sich der Aufsteiger eine deutliche Führung gegen den 1. FSV Mainz 05 erspielen.
 - [30.10., 22:13] **Inflationsrate in Deutschland für Oktober 2026 leicht gesunken**
@@ -29,33 +31,35 @@ Status: Tagesschau: 25 · Deutschlandfunk: 19 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [30.10., 19:27] **Zelda, WoW und GTA VI: Warum die Games noch immer faszinieren** — Zelda, WoW und GTA: Der November bietet für Gamer gleich drei neu aufgelegte Videospiel-Klassiker. Warum lösen die jahrzehntealten Game-Reihen noch immer solche Begeisterung aus? Von Samira Straub
 - [30.10., 18:23] **Proteste gegen Meloni: Hunderttausende demonstrieren in Italien** — Hohe Lebenshaltungskosten, steigende Rüstungsausgaben, zu wenig Investition in Bildung: In Italien sind Hunderttausende Menschen gegen die Politik der Regierung auf die Straße gegangen - begleitet von einem massiven Polizeiaufgebot.
 - [30.10., 18:22] **Marktbericht: Schwaches Ende einer starken Börsenwoche** — Zum Wochenschluss schwächelt der DAX, nachdem er zuvor viermal in Folge gestiegen war. Auslöser sind der hohe Ölpreis, aber auch schwache Tech-Vorgaben aus Übersee.
-- [30.10., 17:49] **Erste Einwohner aus besetzter ukrainischer Stadt Oleschky evakuiert** — Inmitten einer Feuerpause haben die ersten Einwohner von Oleschky die von Russland besetzte südukrainische Stadt verlassen. Die Ukraine hofft, dass auch weitere Städte in der Region auf ähnlichem Weg versorgt werden können.
-- [30.10., 17:44] **tagesschau**
 
 ## Deutschlandfunk
 
-- [31.10., 05:21] **Parteien - Berliner Linke entscheidet über Koalitionsverhandlungen - Medienbericht: Eralp mit Personenschützer auf Parteitag** — Sechs Wochen nach der Wahl zum Berliner Abgeordnetenhaus entscheidet die Berliner Linke heute auf einem Parteitag über den Beginn von Koalitionsverhandlungen mit Grünen und SPD.
-- [31.10., 05:21] **Weitgehend friedlich - Landesweite Massenproteste in Italien für bessere Bildung und gegen hohe Preise** — In Italien haben Hunderttausende Menschen gegen steigende Lebenshaltungskosten und für mehr Geld für Bildung demonstriert. Die Gewerkschaft USB sprach von mindestens einer Million Teilnehmern.
-- [31.10., 05:21] **"Gen Z regelt" - Bundesweite Jugendproteste geplant - Forderung nach bezahlbarem Leben** — In bundesweiten Kundgebungen wollen junge Menschen heute für bessere Bildung und ein bezahlbares Leben auf die Straße gehen. In den vier Großstädten Berlin, Köln, Frankfurt am Main und München veranstaltet die Gruppierung "GenZ regelt!" …
-- [31.10., 05:21] **Arbeitsmarkt - IG Metall startet morgen erste Warnstreik-Welle** — ​Im Tarifstreit der Metall- und Elektroindustrie ruft die IG Metall an diesem Wochenende zu ersten Warnstreiks auf. Arbeitsniederlegungen und Kundgebungen sind für die Nacht von heute auf morgen geplant; am Montag soll nach Angaben der …
-- [31.10., 05:21] **Gewalt und schwindende Ressourcen - UNHCR: Lage afrikanischer Flüchtlinge im Jemen verschlimmert sich** — Das Flüchtlingshilfswerk der Vereinten Nationen zeigt sich besorgt über die Situation von mehr als 65.000 größtenteils afrikanischen Flüchtlingen im Jemen. Die Menschen in dem Kriegsland seien Opfer einer sich rapide verschlimmernden …
-- [31.10., 05:21] **Plattform Binance - Reaktionen auf Krypto-Hackerangriff: "Entsetzen an der Börse", "3,3 Milliarden Dollar sind nicht mehr zurückzuholen"** — Der Hackerangriff auf die weltgrößte Digitalwährungsbörse Binance hat bei Anlegern und Börsenvertretern für Aufruhr gesorgt. Wie das Unternehmen erklärte, wurden Kryptowährungen im Wert von 6,3 Milliarden US-Dollar gestohlen, um einen Teil …
-- [31.10., 05:21] **Eurostat - Mehr Bahnfahrten in der EU - Spitzenreiter war Luxemburg** — Bahnreisende in der EU haben im vergangenen Jahr so viele Kilometer zurückgelegt wie nie zuvor seit Beginn der Erhebung 2004.
-- [31.10., 05:21] **G20-Treffen - Wadephul hofft auf baldige Verhandlungen zwischen Russland und der Ukraine** — Bundesaußenminister Wadephul hat sich am Rande des G20-Treffens in Atlanta zuversichtlich gezeigt, dass es bald ernsthafte Verhandlungen zwischen Russland und der Ukraine geben könne.
-- [31.10., 05:21] **Polen - Tumulte um Verfassungsgericht - Präsident Nawrocki vor Ort** — In Polen ist der Streit um das Verfassungsgericht eskaliert.
-- [31.10., 05:21] **Proteste in Frankreich - Regierung will 70.000 Polizisten gegen mögliche Krawalle aufbieten** — Die französische Regierung ​will heute mit einem Großaufgebot von 70.000 Polizisten auf neue landesweite Proteste reagieren.
-- [31.10., 05:21] **Gipfel in Montreal - EU und Kanada verabreden "Allianz für die Zukunft" - Von der Leyen spricht mit Carney auch über Mitgliedschaft** — EU-Kommissionspräsidentin von der Leyen hat beim EU-Kanada-Gipfel erneut dafür geworben, Kanada zu einem Sondermitglied der Europäischen Union zu machen.
-- [31.10., 05:21] **Midterms - Demokraten und Republikaner bemühen US-Gerichte vor den Zwischenwahlen** — Wenige Tage vor den US-Kongresswahlen am kommenden Dienstag nehmen die innenpolitischen Auseinandersetzungen an Schärfe zu und werden auch immer wieder Gerichte bemüht.
-- [31.10., 05:21] **Fußball-Bundesliga - Elversberg gewinnt gegen Mainz**
-- [31.10., 05:21] **Zugunglück in Spanien - Identifizierung der Opfer dauert an** — Nach dem Zugunglück in Spanien mit mindestens 69 Toten arbeiten die Behörden weiter an der Identifizierung der Opfer.
-- [31.10., 05:21] **Automobilbranche - VW setzt E-Golf-Entwicklung aus, Audi-Aufsichtsrat berät über Geschäftszahlen** — Volkswagen reagiert auf die Absatzkrise mit einer weiteren Sparmaßnahme am Stammwerk in Wolfsburg.
-- [31.10., 05:21] **Weltnaturkonferenz - Ecuador ist Tagungsort der nächsten COP im Jahr 2028** — Die nächste UNO-Konferenz zur biologischen Vielfalt, die COP18, soll im Jahr 2028 in Ecuadors Hauptstadt Quito stattfinden.
-- [31.10., 05:21] **Asien-Reise beendet - Merz betont Bedeutung der Handelsbeziehungen zu Singapur, Japan und Südkorea** — Bundeskanzler Merz hat zum Abschluss seiner Asien-Reise nach Singapur, Japan und Südkorea die Bedeutung der Handelsbeziehungen zu den drei Ländern hervorgehoben.
-- [31.10., 05:21] **Ukraine-Krieg - Menschen verlassen russisch besetzte Stadt Oleschky** — Trotz anhaltender Kämpfe in anderen Teilen des Landes läuft in der von Russland besetzten ukrainischen Stadt Oleschky eine gemeinsame humanitäre Hilfsaktion. Nach Angaben beider Seiten werden die Bewohner mit Lebensmitteln, Medikamenten …
-- [31.10., 05:21] **Wetter - Am Samstag im Südwesten und Westen freundlich, sonst viele Wolken** — Das Wetter: Im Südwesten und Westen sowie an den Alpen sonnig, sonst oft trüb und am Nordrand der östlichen Mittelgebirge etwas Regen. Höchstwerte 6 bis 13 Grad. Morgen vielfach stark bewölkt und vor allem im Südosten Regen. 6 bis 13 Grad.
+- [31.10., 06:37] **"Gen Z regelt" - Bundesweite Jugendproteste geplant - Forderung nach bezahlbarem Leben** — Bundesweit wollen junge Menschen heute für bessere Bildung und ein bezahlbares Leben auf die Straße gehen. In den vier Großstädten Berlin, Köln, Frankfurt am Main und München veranstaltet die Gruppierung "GenZ regelt!" eigene Kundgebungen, …
+- [31.10., 06:37] **Parteien - Berliner Linke entscheidet über Koalitionsverhandlungen - Medienbericht: Eralp mit Personenschützer auf Parteitag** — Sechs Wochen nach der Wahl zum Berliner Abgeordnetenhaus entscheidet die Berliner Linke heute auf einem Parteitag über den Beginn von Koalitionsverhandlungen mit Grünen und SPD.
+- [31.10., 06:37] **Weitgehend friedlich - Landesweite Massenproteste in Italien für bessere Bildung und gegen hohe Preise** — In Italien haben Hunderttausende Menschen gegen steigende Lebenshaltungskosten und für mehr Geld für Bildung demonstriert. Die Gewerkschaft USB sprach von mindestens einer Million Teilnehmern.
+- [31.10., 06:37] **Arbeitsmarkt - IG Metall startet erste Warnstreik-Welle** — ​Im Tarifstreit der Metall- und Elektroindustrie ruft die IG Metall an diesem Wochenende zu ersten Warnstreiks auf. Arbeitsniederlegungen und Kundgebungen sind für die Nacht von heute auf morgen geplant; am Montag soll nach Angaben der …
+- [31.10., 06:37] **Gewalt und schwindende Ressourcen - UNHCR: Lage afrikanischer Flüchtlinge im Jemen verschlimmert sich** — Das Flüchtlingshilfswerk der Vereinten Nationen zeigt sich besorgt über die Situation von mehr als 65.000 größtenteils afrikanischen Flüchtlingen im Jemen. Die Menschen in dem Kriegsland seien Opfer einer sich rapide verschlimmernden …
+- [31.10., 06:37] **Krypto-Hackerangriff auf Binance - "3,3 Milliarden Dollar sind nicht mehr zurückzuholen"** — Der Hackerangriff auf die weltgrößte Digitalwährungsbörse Binance hat bei Anlegern und Börsenvertretern für Aufruhr gesorgt. Wie das Unternehmen erklärte, wurden Kryptowährungen im Wert von 6,3 Milliarden US-Dollar gestohlen, um einen Teil …
+- [31.10., 06:37] **Handel - China kündigt bessere Zusammenarbeit mit Deutschland an** — China hat angekündigt, mehr hochwertige deutsche ‌Produkte ⁠importieren zu wollen.
+- [31.10., 06:37] **Eurostat - Mehr Bahnfahrten in der EU - Spitzenreiter war Luxemburg** — Bahnreisende in der EU haben im vergangenen Jahr so viele Kilometer zurückgelegt wie nie zuvor seit Beginn der Erhebung 2004.
+- [31.10., 06:37] **G20-Treffen - Wadephul hofft auf baldige Verhandlungen zwischen Russland und der Ukraine** — Bundesaußenminister Wadephul hat sich am Rande des G20-Treffens in Atlanta zuversichtlich gezeigt, dass es bald ernsthafte Verhandlungen zwischen Russland und der Ukraine geben könne.
+- [31.10., 06:37] **Abfangraketen - US-Regierung genehmigt Patriot-Verkauf an Ukraine** — Die US-Regierung hat den Verkauf von 500 Patriot-Abfangraketen an die Ukraine genehmigt.
+- [31.10., 06:37] **Polen - Tumulte um Verfassungsgericht - Präsident Nawrocki vor Ort** — In Polen ist der Streit um das Verfassungsgericht eskaliert.
+- [31.10., 06:37] **Proteste in Frankreich - Regierung will 70.000 Polizisten gegen mögliche Krawalle aufbieten** — Die französische Regierung ​will heute mit einem Großaufgebot von 70.000 Polizisten auf neue landesweite Proteste reagieren.
+- [31.10., 06:37] **Gipfel in Montreal - EU und Kanada verabreden "Allianz für die Zukunft" - Von der Leyen spricht mit Carney auch über Mitgliedschaft** — EU-Kommissionspräsidentin von der Leyen hat beim EU-Kanada-Gipfel erneut dafür geworben, Kanada zu einem Sondermitglied der Europäischen Union zu machen.
+- [31.10., 06:37] **Midterms - Demokraten und Republikaner bemühen US-Gerichte vor den Zwischenwahlen** — Wenige Tage vor den US-Kongresswahlen am kommenden Dienstag nehmen die innenpolitischen Auseinandersetzungen an Schärfe zu und werden auch immer wieder Gerichte bemüht.
+- [31.10., 06:37] **Fußball-Bundesliga - Elversberg gewinnt gegen Mainz**
+- [31.10., 06:37] **Zugunglück in Spanien - Identifizierung der Opfer dauert an** — Nach dem Zugunglück in Spanien mit mindestens 69 Toten arbeiten die Behörden weiter an der Identifizierung der Opfer.
+- [31.10., 06:37] **Automobilbranche - VW setzt E-Golf-Entwicklung aus, Audi-Aufsichtsrat berät über Geschäftszahlen** — Volkswagen reagiert auf die Absatzkrise mit einer weiteren Sparmaßnahme am Stammwerk in Wolfsburg.
+- [31.10., 06:37] **Weltnaturkonferenz - Ecuador ist Tagungsort der nächsten COP im Jahr 2028** — Die nächste UNO-Konferenz zur biologischen Vielfalt, die COP18, soll im Jahr 2028 in Ecuadors Hauptstadt Quito stattfinden.
+- [31.10., 06:37] **Asien-Reise beendet - Merz betont Bedeutung der Handelsbeziehungen zu Singapur, Japan und Südkorea** — Bundeskanzler Merz hat zum Abschluss seiner Asien-Reise nach Singapur, Japan und Südkorea die Bedeutung der Handelsbeziehungen zu den drei Ländern hervorgehoben.
+- [31.10., 06:37] **Ukraine-Krieg - Menschen verlassen russisch besetzte Stadt Oleschky** — Trotz anhaltender Kämpfe in anderen Teilen des Landes läuft in der von Russland besetzten ukrainischen Stadt Oleschky eine gemeinsame humanitäre Hilfsaktion. Nach Angaben beider Seiten werden die Bewohner mit Lebensmitteln, Medikamenten …
+- [31.10., 06:37] **Wetter - Am Samstag im Südwesten und Westen freundlich, sonst viele Wolken** — Das Wetter: Im Südwesten und Westen sowie an den Alpen sonnig, sonst oft trüb und am Nordrand der östlichen Mittelgebirge etwas Regen. Höchstwerte 6 bis 13 Grad. Morgen vielfach stark bewölkt und vor allem im Südosten Regen. 6 bis 13 Grad.
 
 ## FAZ
 
+- [31.10., 06:24] **Kompromisskandidat: Türkei nominiert OSZE-Chef für Guterres-Nachfolge** — Der Auswahlprozess für die Nachfolge von UN-Generalsekretär António Guterres ist ins Stocken gekommen. Nun bringt die Erdogan-Regierung einen erfahrenen türkischen Diplomaten in Stellung.
+- [31.10., 06:11] **Podcast Löhr & Pennekamp: Die deutschen Industriearbeitsplätze werden in Asien verteidigt** — Der Kanzler war fünf Tage nicht im Berliner Regierungsviertel. Das ist kein Skandal, sondern es war notwendig: Der „China-Schock 2.0“ gefährdet den deutschen Wohlstand.
 - [31.10., 04:21] **USA unter Trump: US-Gericht verbietet Trumps Regierung Druck auf Wahlhelfer** — Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ
 - [31.10., 03:55] **Namensstreit: Begriff „Mitgliedschaft“ wird zum Störfaktor beim EU-Kanada-Gipfel** — Ist es eine „Allianz“ oder doch eine „assoziierte Mitgliedschaft“? Die Uneinigkeit darüber, wie die vertiefte Partnerschaft zwischen der EU und Kanada genannt werden soll, wurde beim Gipfel in Montreal zum Politikum.
 - [31.10., 03:42] **Machtkampf in polen: Tusk sucht die Entscheidung** — In Polen lässt Regierungschef Tusk die Spitze des Verfassungsgerichts absetzen. Präsident Nawrocki unterbricht daraufhin eine Auslandsreise. Und vor dem Gericht kommt es zu Tumult.
@@ -79,11 +83,10 @@ Status: Tagesschau: 25 · Deutschlandfunk: 19 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [30.10., 18:49] **Wall Street defensiv: Tech-Sorgen ziehen Börsen nach unten, Intel-Kurs rauscht ab** — Die Aktie des Halbleiterherstellers Intel bricht um rekordverdächtige 30 Prozent ein. Investoren werfen auch andere Tech-Unternehmen aus ihren Depots.
 - [30.10., 18:49] **Gen-Z-Proteste: „Die Bewegung schwächt sich selber“** — Deutschlandweit wollen am Samstag Zehntausende junge Menschen demonstrieren. Sicherheitsbehörden warnen vor möglicher Unterwanderung und Gewalt – Schüler davor, dass ihre Anliegen nicht gehört werden.
 - [30.10., 18:47] **Misserfolge in Serie: Sollte der Sport womöglich weniger Wagner wagen?** — Ob in Hannover, Köln oder der NBA: Wagners haben im Sport derzeit wenig zu lachen. Da drängt sich die Frage auf, was hinter der Negativserie der Träger des siebthäufigsten Familiennamens steckt.
-- [30.10., 18:40] **GEn 100: Haftbefehl veröffentlicht Song trotz angekündigter Auszeit** — Er war zuletzt nach einem Klinikaufenthalt in Reha-Behandlung, sein Management kündigte eine längere Pause an. Jetzt ist dennoch ein gemeinsamer Song mit Rapper Milonair erschienen.
-- [30.10., 18:37] **Gemeinsames Statement: Fanszenen bestärken Forderungen zum Ende von 50+1-Ausnahmen** — Das Bundeskartellamt hat die Bundesliga im August zur einheitlichen Umsetzung der 50+1-Regel aufgefordert. Das Bündnis „Fanszenen Deutschlands“ verlangt eine konsequente Umsetzung.
 
 ## Spiegel
 
+- [31.10., 06:21] **Midterms: Gericht verbietet Trump-Regierung Druck auf Wahlbeamte** — Donald Trump behauptet, dass Nichtstaatsbürger in großem Stil an US-Wahlen teilnehmen. Seine Regierung drohte Wahlbeamten zuletzt mit Strafverfolgung, sollten sie dies zulassen. Eine Bezirksrichterin hat das Vorgehen nun gestoppt.
 - [31.10., 05:30] **Ruhestand: Was Rentnerinnen und Rentner im neuen Alltag wirklich guttut** — Plötzlich steht der Wecker still. Endlich nicht mehr arbeiten. Doch was kommt dann? Wie sechs Menschen die neue Freiheit genießen ‒ und was wir von ihnen lernen können.
 - [31.10., 05:29] **Halloween: Handel rechnet mit mehr als 500 Millionen Euro Umsatz** — Feiern mit Freunden, Bonbons für Kinder oder Schminke und Deko? Halloween bietet viele Möglichkeiten, Geld auszugeben. Für die Einzelhändler in Deutschland sind die Aussichten alles andere als gruselig.
 - [31.10., 05:00] **Karin Prien: Jüdische Studenten wollen Prien als Bundespräsidentin** — Die Jüdische Studierendenunion Deutschland hat eine Favoritin für die Nachfolge von Frank-Walter Steinmeier: Sie traut Bildungsministerin Karin Prien das höchste Staatsamt zu. Auch wegen Priens Familiengeschichte.
@@ -108,28 +111,28 @@ Status: Tagesschau: 25 · Deutschlandfunk: 19 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [30.10., 18:55] **Midterms: Papst Leo XIV. hat seine Stimme abgegeben** — Es sei ein Recht und eine Pflicht, an demokratischen Prozessen teilzunehmen, so Leo XIV. Daher hat er jetzt offenbar bei den amerikanischen Midterm-Wahlen seine Stimme abgegeben.
 - [30.10., 18:52] **Glyphosat: Bayer siegt erneut vor US-Gericht** — Seit Jahren wird über mögliche Gesundheitsrisiken des Pflanzenschutzmittels Glyphosat gestritten. Nun hat ein Gericht erneut zugunsten von Bayer entschieden.
 - [30.10., 18:19] **Donald Trump: »Air Force One« sorgt mit Halloweenflug für Schrecken in Washington** — Anlässlich seiner Halloweenparty hat US-Präsident Donald Trump die »Air Force One« tief über das Weiße Haus fliegen lassen. Die Boeing 747 kam den Gebäuden in der Hauptstadt sehr nahe – und sorgte damit für Schrecken.
-- [30.10., 18:03] **News des Tages: Hackerangriff auf Kryptobörse Binance, Karin Prien, Diskussion über Elif Eralp** — Kriminelle erbeuten Kryptomilliarden. Die Familienministerin stellt Wohltaten in Aussicht. Und: SPIEGEL-Leser debattieren über den Fall Elif Eralp. Das ist die Lage am Freitagabend.
 
 ## Zeit
 
+- [31.10., 06:23] **Ebola im Kongo: Schon mehr als 5.000 Ebola-Tote im Kongo**
+- [31.10., 06:23] **Kalifornien: Trump-Regierung scheitert mit Klage gegen Briefwähler** — Donald Trump behauptet, Briefwahl schüre Wahlbetrug. Mehrere Richter wiesen den US-Präsidenten nun in seine Schranken. Sie verboten auch Drohungen gegen Wahlhelfer.
+- [31.10., 06:21] **Gen Z regelt: Was Gen Z an diesem Wochenende in Deutschland regeln will** — Die Initiative Gen Z regelt hat an diesem Wochenende bundesweit zum Protest aufgerufen. Wie gewaltbereit ist die Bewegung? Und: Linkenparteitag nach Eralp-Desaster
+- [31.10., 06:07] **Gesundheit: Zahl der Ebola-Toten im Kongo steigt auf mehr als 5.000**
+- [31.10., 06:05] **Fußball-Bundesliga: Wie Zebra und Strauß: Danks will kein «Mini-Vinnie» sein**
+- [31.10., 06:02] **Fahrtrichtung Saarbrücken: A6 nach zwei Unfällen bei Waldmohr gesperrt**
+- [31.10., 06:00] **Wolf Biermann: Das Geheimnis des Wolf Biermann** — Was bedeuten die Tagebücher des Liedermachers für Ost und West? Außerdem: das seltsame Verhältnis der Deutschen zur Nostalgie und bell hooks’ berühmteste Interviews
+- [31.10., 06:00] **Verkehrsüberwachung: Polizei prüft Ausweitung bei Drohnen zur Lkw-Kontrolle**
+- [31.10., 06:00] **Halloween: Gruselvideos im Netz: Wann Angst zum Problem wird**
+- [31.10., 05:30] **Finanzen: Langes Warten auf Schuldnerberatung**
 - [31.10., 05:30] **Vor dem Treffen in Berlin: «Wenig Vertrauen» - Thüringer Unmut über CDU-Bundesspitze**
-- [31.10., 05:30] **Bizzarer Fall aus Siegen: Togostämmige Familie wartet weiter auf Aufenthaltserlaubnis**
-- [31.10., 05:22] **Regierungsbildung in Berlin: Linken-Chefs stärken Elif Eralp vor Parteitag den Rücken** — Die Bundesvorsitzenden der Linken bekräftigen vor ihrem Parteitag in Berlin, die Partei lasse sich nicht einschüchtern. Ihr Ziel bleibe eine rot-rot-grüne Koalition.
+- [31.10., 05:22] **UN-Biodiversitätskonferenz COP17: 200 Staaten einigen sich auf Beschlüsse zum Artenschutz** — Bei der UN-Konferenz COP17 stritten die Länder darüber, wie sich der rasante Verlust der Artenvielfalt aufhalten lässt. Es ging auch darum, wer Naturschutz bezahlen soll.
+- [31.10., 05:22] **Regierungsbildung in Berlin: Linkenchefs stärken Elif Eralp vor Parteitag den Rücken** — Die Bundesvorsitzenden der Linken bekräftigen vor ihrem Parteitag in Berlin, die Partei lasse sich nicht einschüchtern. Ihr Ziel bleibe eine rot-rot-grüne Koalition.
 - [31.10., 05:21] **Proteste der Gen Z: Das Märchen von der Zweizimmerwohnung** — In ganz Europa gehen junge Menschen auf die Straße, weil es ihnen an Zukunftsperspektiven fehlt. Und an bezahlbarem Wohnraum. Wie hängt das eine mit dem anderen zusammen?
 - [31.10., 05:21] **Jens Keller: Willkommen im Klub der Normalos** — Jens Keller coachte für Champions-League-Spiele. Jetzt wird er Immobilienmakler. Unser Kolumnist fragt: Ist das die beste Entscheidung überhaupt? Oder die blödeste?
-- [31.10., 05:21] **Jens Keller: Willkommen im Klub der Normalos** — Jens Keller coachte für Champions-League-Spiele. Jetzt wird er Immobilienmakler. Unser Kolumnist fragt: Ist das die beste Entscheidung überhaupt? Oder die blödeste?
-- [31.10., 05:20] **Kathleen Hanna: Niemals Angst haben, auch nicht vor Typen** — Aus Wut auf die Männergewalt trat Kathleen Hanna die Riot-Grrrl-Bewegung los und wurde ihre Ikone. Davon erzählt die Musikerin in »Rebel Girl« – und auch von Kurt Cobain.
-- [31.10., 05:19] **Altersvorsorge ab 50: Wie man auch mit 50 seine Rente noch verbessern kann** — Noch 15 Jahre bis zur Rente und noch nicht genug vorgesorgt? Selbst wer spät beginnt, kann in kurzer Zeit noch viel erreichen. Das zeigen vier Rechenbeispiele.
-- [31.10., 05:17] **Fotografie: Bilder des Tages**
-- [31.10., 05:01] **Leben ohne Versteckspiel: Handballer Krzikalla über Coming-out: «Eine Befreiung»**
-- [31.10., 05:00] **Bauarbeiten: Bauarbeiten und Ferienende - Volle S-Bahnzüge erwartet**
-- [31.10., 05:00] **Lieferungen ab 2028 geplant: SA Raffinerie Leuna baut Technik für Fernwärme nach Leipzig**
-- [31.10., 05:00] **Schweriner Schloss: Kann ein Bienenschwarm die alte Schlossbuche retten?**
-- [31.10., 05:00] **Umleitungen eingerichtet: A30 Richtung Amsterdam in der Nacht auf 7.11. voll gesperrt**
-- [31.10., 04:42] **Jugendproteste: Gen Z regelt erwartet 160.000 Protestierende in Deutschland** — Die Jugendinitiative plant Demonstrationen in 34 deutschen Städten und rechnet mit einem friedlichen Ablauf. In Frankreich begleiten 70.000 Polizisten erneute Proteste.
 
 ## NZZ
 
+- [31.10., 06:31] **DIE NEUESTEN ENTWICKLUNGEN - Ebola-Ausbruch in Zentralafrika: Zahl der Todesfälle in Kongo-Kinshasa steigt auf über 5 000** — Die Weltgesundheitsorganisation (WHO) hat den Gesundheitsnotstand ausgerufen. Die Infektionszahlen steigen weiterhin an. Hier sind die wichtigsten Antworten zum Ebola-Virus zu finden.
 - [31.10., 05:30] **DER ANDERE BLICK MIT DATEN - Deutschland feiert einen Gründerboom – die Zahlen erzählen eine andere Geschichte** — Die Politik jubelt über Rekordzahlen bei Startups. Doch eine NZZ-Auswertung zeigt: Insgesamt wird heute weniger gegründet als früher. Wo der Einbruch besonders dramatisch ist.
 - [31.10., 05:30] **Lulas letzter Triumph könnte für Brasilien teuer werden** — Er hat die Wahl mit einer Politik gewonnen, die Brasiliens Wirtschaft zunehmend belastet. Warum sollte Lula ausgerechnet jetzt seinen Kurs ändern? Gründe gäbe es zumindest genug.
 - [31.10., 05:30] **KOMMENTAR - Trotz Preishoch für Benzin und Diesel: Die Ölkrise ist noch bedrohlicher, als es an der Zapfsäule aussieht** — Der Transport von Öl ist mancherorts so teuer, dass der Import sich nicht mehr rechnet. Viele Länder verschliessen die Augen: Der Verbrauch muss runter, der Druck für ein Ende des Iran-Kriegs rauf.
@@ -145,7 +148,6 @@ Status: Tagesschau: 25 · Deutschlandfunk: 19 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [31.10., 05:30] **Enteignungen in Berlin könnten dem grössten Immobilienkonzern Europas Milliardenverluste bescheren – dabei hat dieser genug eigene Probleme** — Linke Politiker sehen in Vonovia eine «Mietmafia». Viele Anleger wiederum finden: Das Bochumer Unternehmen verdient gerade nicht zu viel, sondern zu wenig Geld.
 - [31.10., 05:30] **Einst beschimpften die Basler die Chefs der «Grosschemie» als Mörder – heute bezahlen sie der Pharma Hunderte Millionen an Steuerfranken zurück** — Nach dem Brand in Schweizerhalle brandete der chemischen Industrie jahrelang Ablehnung entgegen. Dann drehte der Wind. Ein Ereignis in der Grenzregion fuhr den Baslern in die Knochen.
 - [31.10., 05:30] **Ein Casanova aus der Schweiz** — Wegen seines ausschweifenden Liebeslebens und seiner Bewunderung für Mozarts «Don Giovanni» trug der Komponist Jean Baptiste Édouard Dupuy den Beinamen «Don Juan des Nordens». Nun wird die Musik des freigeistigen Westschweizers …
-- [31.10., 05:30] **Grässliche Grimassen, blutige Finger und langweilige Suppen: An Halloween verbreiten Kürbisse Angst und Schrecken** — Kulinarisch wie kulturell sei das orangefarbene Herbstgemüse Geschmackssache, findet unser Autor. Doch er kann ihm auch Positives abgewinnen. Die Kolumne «Hauptsache, gesund».
 
 ## BBC World
 
