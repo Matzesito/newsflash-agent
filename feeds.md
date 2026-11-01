@@ -1,15 +1,15 @@
 # Feed-Schnappschuss
 
-Erstellt: 01.11., 05:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
+Erstellt: 01.11., 06:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
 Automatisch erzeugt von .github/workflows/feeds.yml — nicht von Hand bearbeiten.
-Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit: 15 · NZZ: 16 · BBC World: 25 · Guardian World: 23
+Status: Tagesschau: 25 · Deutschlandfunk: 23 · FAZ: 25 · Spiegel: 25 · Zeit: 15 · NZZ: 16 · BBC World: 25 · Guardian World: 22
 
 ## Tagesschau
 
+- [01.11., 05:42] **Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag** — Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Sie hatten sich offenbar teils gezielt unter die …
 - [01.11., 05:26] **Polen: Tusk beklagt Angriff auf "Demokratie und Rechtsstaat"** — Polens Präsident drängt sich mit Körpereinsatz ins Verfassungsgericht und drückt eine Richterin nach unten. Nun äußert sich Regierungschef Tusk zu dem Vorfall. Der Opposition wirft er einen Angriff auf Demokratie und Rechtsstaat vor.
 - [01.11., 04:48] **Warnstreiks der IG Metall kurz nach Mitternacht angelaufen** — Die IG Metall hat "starke Warnstreiks" angekündigt - und in der Nacht damit begonnen. Die Gewerkschaft will damit Druck in den Tarifverhandlungen machen. Betroffen sind wichtige Industriezweige wie Auto oder Maschinenbau.
 - [01.11., 04:47] **tagesschau in 100 Sekunden**
-- [01.11., 03:32] **Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag** — Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Sie hatten sich offenbar teils gezielt unter die …
 - [01.11., 03:06] **FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich** — Laut Experten war es der bisher größte Hackerangriff auf eine Börse für Digitalwährungen. Am Donnerstag war er bekannt geworden - und schnell geriet Nordkorea ins Visier. Nun macht auch das FBI nordkoreanische Hacker dafür verantwortlich.
 - [01.11., 02:44] **"Gen Z regelt" will am 20. November wieder demonstrieren** — Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein "Gen Z"-Sprecher. Von Gewalt hatte sich die Initiative stets distanziert. Ihr Fazit der Jugendproteste fällt positiv aus. Am 20. November will sie erneut …
 - [01.11., 00:44] **tagesschau**
@@ -34,30 +34,33 @@ Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 ## Deutschlandfunk
 
-- [01.11., 04:40] **"Gen Z regelt" - CDU-Generalsekretärin Hoppermann: Demonstrationen als Deckmantel für Gewalt und Ausschreitungen** — CDU-Generalsekretärin Hoppermann hat die Krawalle nach Jugend-Demonstrationen in mehreren deutschen Städten verurteilt.
-- [01.11., 04:40] **Interview - Kramp-Karrenbauer warnt vor Regierungen von AfD und Linken** — Die frühere CDU-Vorsitzende Kramp-Karrenbauer hat vor einer Regierungsübernahme der AfD in Sachsen-Anhalt, beziehungsweise der Linken in Berlin gewarnt.
-- [01.11., 04:40] **BKA - Bericht: Zahl islamistisch motivierter antisemitischer Straftaten auf Höchststand** — Die Zahl antisemitischer Straftaten in Deutschland, die islamistisch motiviert sind, hat nach Presseinformationen einen neuen Höchststand erreicht.
-- [01.11., 04:40] **Tarife - Warnstreiks der IG Metall begonnen** — Im Tarifkonflikt der Metallindustrie haben in der Nacht Warnstreiks begonnen.
-- [01.11., 04:40] **Hackerangriff - FBI macht nordkoreanische Hacker für Angriff auf Kryptowährungsbörse Binance verantwortlich** — Die US-Bundespolizei macht Nordkorea für den milliardenschweren Hackerangriff auf die Kryptowährungsbörse Binance verantwortlich.
-- [01.11., 04:40] **Berlin - Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD** — Die Linke in Berlin hat sich für die Aufnahme von Koalitionsverhandlungen mit Grünen und SPD ausgeprochen. Auf einem Landesparteitag stimmte eine deutliche Mehrheit der Delegierten dafür. Grüne und SPD hatten Koalitionsgesprächen bereits …
-- [01.11., 04:40] **Religion - Katholische Christen begehen Allerheiligen** — Katholische Christen begehen heute das Hochfest Allerheiligen.
-- [01.11., 04:40] **Fußball-Bundesliga - München und Dortmund trennen sich unentschieden** — In der Fußball-Bundesliga hat der FC Bayern München die alleinige Tabellenführung verpasst. Im Topspiel kam der deutsche Rekordmeister im eigenen Stadion trotz zweimaliger Führung gegen Verfolger Borussia Dortmund nur zu einem 2:2 (1:0).
-- [01.11., 04:40] **Religion - EKD-Ratsvorsitzende Fehrs wirbt zum Reformationstag für neue Fehlerkultur in Politik und Alltag** — Die Ratsvorsitzende der Evangelischen Kirche in Deutschland, Fehrs, hat anlässlich des Reformationstags zu mehr Toleranz aufgerufen.
-- [01.11., 04:40] **HDE - Umsätze zu Halloween steigen trotz Konsumflaute auf rund 540 Millionen Euro** — Der Handelsverband Deutschland rechnet in diesem Jahr mit Halloween-Umsätzen in Höhe von rund 540 Millionen Euro.
-- [01.11., 04:40] **Brauchtum - Kinder und Jugendliche zogen an Halloween durch die Straßen – Autofahrer waren zur Vorsicht aufgerufen** — Zu Halloween sind gestern Abend vielerorts wieder zahlreiche Kinder und Jugendliche in Gruselkostümen unterwegs gewesen.
-- [01.11., 04:40] **Nürnberg - Getränkeschutz gegen K.o.-Tropfen, Notfallstromkoffer und mehr: Erfindermesse "iENA" gestartet** — In Nürnberg hat die Erfindermesse "Iena" begonnen.
-- [01.11., 04:40] **Kassel-Calden - "Bekennerschreiben" auf linksextremistischer Plattform nach Feuer auf Rheinmetall-Baustelle veröffentlicht** — Nach dem Feuer auf einer Baustelle des Rüstungsunternehmens Rheinmetall am Flughafen Kassel-Calden untersucht die Polizei ein mutmaßliches Bekennerschreiben.
-- [01.11., 04:40] **Sexuelle Gewalt - Stelen neben Würzburger Dom erinnern an Verbrechen der katholischen Kirche** — Im Zentrum Würzburgs erinnern seit heute Stelen an die Verbrechen in der katholischen Kirche.
-- [01.11., 04:40] **Machtkampf mit Rechtsnationalen - Streit um Polens Verfassungsgericht: Tusk beklagt Angriff auf "Demokratie und Rechtsstaat"** — Im Machtkampf um Polens Verfassungsgericht hat Regierungschef Tusk der rechtskonservativen Opposition einen Angriff auf Demokratie und Rechtsstaat vorgeworfen.
-- [01.11., 04:40] **Migration - Erster Fall dieser Art: Fast 40 Afghanen in Schlauchboot vor niederländischer Küste gerettet** — Vor der niederländischen Küste haben Einsatzkräfte 38 Menschen aus einem Schlauchboot mit ausgefallenem Motor gerettet.
-- [01.11., 04:40] **Demonstrationen - Hunderttausende Teilnehmer bei neuen Protesten in Frankreich** — In Frankreich sind erneut hunderttausende Menschen gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem auf die Straße gegangen.
-- [01.11., 04:40] **Weitgehend friedlich - Landesweite Massenproteste in Italien für bessere Bildung und gegen hohe Preise** — In Italien haben Hunderttausende Menschen gegen steigende Lebenshaltungskosten und für mehr Geld für Bildung demonstriert. Die Gewerkschaft USB sprach von mindestens einer Million Teilnehmern.
-- [01.11., 04:40] **Eriwan-Pfad - Einigung bei COP17 auf raschere Maßnahmen zum Schutz der Artenvielfalt** — Die ​Staatengemeinschaft hat sich auf der UNO-Konferenz COP17 auf verstärkte Anstrengungen zum Schutz der weltweiten Artenvielfalt geeinigt.
-- [01.11., 04:40] **Interview der Woche - Sozialer Ausgleich für Klimaschutzkosten: Ökonom Edenhofer fordert Klimageld und Absenkung der Stromsteuer statt Tankrabatt** — Der Klimaökonom Ottmar Edenhofer hat den Tankrabatt der Bundesregierung kritisiert und gleichzeitig eine Absenkung der Stromsteuer in Deutschland gefordert. Das sei ein richtiger Schritt, sagte der Direktor des Potsdam Instituts für …
-- [01.11., 04:40] **Wetter - Meist bewölkt mit örtlichen Auflockerungen** — Der Wetterbericht, die Lage: Hoher Luftdruck bestimmt das Wetter in weiten Teilen Deutschlands. Am Abend erreicht ein Tiefausläufer von der Nordsee her den Nordwesten.
+- [01.11., 06:12] **"Gen Z regelt" - CDU-Generalsekretärin Hoppermann: Demonstrationen als Deckmantel für Gewalt und Ausschreitungen** — CDU-Generalsekretärin Hoppermann hat die Krawalle nach Jugend-Demonstrationen in mehreren deutschen Städten verurteilt.
+- [01.11., 06:12] **Jugend-Demos - SPD fordert Bildungsgipfel** — Die SPD im Bundestag macht sich angesichts der Jugendproteste in mehreren deutschen Städten für einen nationalen Bildungsgipfel stark.
+- [01.11., 06:12] **Interview - Kramp-Karrenbauer warnt vor Regierungen von AfD und Linken** — Die frühere CDU-Vorsitzende Kramp-Karrenbauer hat vor einer Regierungsübernahme der AfD in Sachsen-Anhalt, beziehungsweise der Linken in Berlin gewarnt.
+- [01.11., 06:12] **BKA - Bericht: Zahl islamistisch motivierter antisemitischer Straftaten auf Höchststand** — Die Zahl antisemitischer Straftaten in Deutschland, die islamistisch motiviert sind, hat nach Presseinformationen einen neuen Höchststand erreicht.
+- [01.11., 06:12] **Tarife - Warnstreiks der IG Metall begonnen** — Im Tarifkonflikt der Metallindustrie haben in der Nacht Warnstreiks begonnen.
+- [01.11., 06:12] **Hackerangriff - FBI macht nordkoreanische Hacker für Angriff auf Kryptowährungsbörse Binance verantwortlich** — Die US-Bundespolizei macht Nordkorea für den milliardenschweren Hackerangriff auf die Kryptowährungsbörse Binance verantwortlich.
+- [01.11., 06:12] **Dürre und drohende Überschwemmungen - Bolivien ruft wegen El Niño Notstand aus** — In Bolivien hat Präsident Paz wegen Dürren und drohender Überschwemmungen im Zusammenhang mit dem Klimaphänomen El Niño den Notstand ausgerufen.
+- [01.11., 06:12] **Berlin - Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD** — Die Linke in Berlin hat sich für die Aufnahme von Koalitionsverhandlungen mit Grünen und SPD ausgeprochen. Auf einem Landesparteitag stimmte eine deutliche Mehrheit der Delegierten dafür. Grüne und SPD hatten Koalitionsgesprächen bereits …
+- [01.11., 06:12] **Religion - Katholische Christen begehen Allerheiligen** — Katholische Christen begehen heute das Hochfest Allerheiligen.
+- [01.11., 06:12] **Fußball-Bundesliga - München und Dortmund trennen sich unentschieden** — In der Fußball-Bundesliga hat der FC Bayern München die alleinige Tabellenführung verpasst. Im Topspiel kam der deutsche Rekordmeister im eigenen Stadion trotz zweimaliger Führung gegen Verfolger Borussia Dortmund nur zu einem 2:2 (1:0).
+- [01.11., 06:12] **Religion - EKD-Ratsvorsitzende Fehrs wirbt zum Reformationstag für neue Fehlerkultur in Politik und Alltag** — Die Ratsvorsitzende der Evangelischen Kirche in Deutschland, Fehrs, hat anlässlich des Reformationstags zu mehr Toleranz aufgerufen.
+- [01.11., 06:12] **HDE - Umsätze zu Halloween steigen trotz Konsumflaute auf rund 540 Millionen Euro** — Der Handelsverband Deutschland rechnet in diesem Jahr mit Halloween-Umsätzen in Höhe von rund 540 Millionen Euro.
+- [01.11., 06:12] **Brauchtum - Kinder und Jugendliche zogen an Halloween durch die Straßen – Autofahrer waren zur Vorsicht aufgerufen** — Zu Halloween sind gestern Abend vielerorts wieder zahlreiche Kinder und Jugendliche in Gruselkostümen unterwegs gewesen.
+- [01.11., 06:12] **Nürnberg - Getränkeschutz gegen K.o.-Tropfen, Notfallstromkoffer und mehr: Erfindermesse "iENA" gestartet** — In Nürnberg hat die Erfindermesse "Iena" begonnen.
+- [01.11., 06:12] **Kassel-Calden - "Bekennerschreiben" auf linksextremistischer Plattform nach Feuer auf Rheinmetall-Baustelle veröffentlicht** — Nach dem Feuer auf einer Baustelle des Rüstungsunternehmens Rheinmetall am Flughafen Kassel-Calden untersucht die Polizei ein mutmaßliches Bekennerschreiben.
+- [01.11., 06:12] **Sexuelle Gewalt - Stelen neben Würzburger Dom erinnern an Verbrechen der katholischen Kirche** — Im Zentrum Würzburgs erinnern seit heute Stelen an die Verbrechen in der katholischen Kirche.
+- [01.11., 06:12] **Machtkampf mit Rechtsnationalen - Streit um Polens Verfassungsgericht: Tusk beklagt Angriff auf "Demokratie und Rechtsstaat"** — Im Machtkampf um Polens Verfassungsgericht hat Regierungschef Tusk der rechtskonservativen Opposition einen Angriff auf Demokratie und Rechtsstaat vorgeworfen.
+- [01.11., 06:12] **Migration - Erster Fall dieser Art: Fast 40 Afghanen in Schlauchboot vor niederländischer Küste gerettet** — Vor der niederländischen Küste haben Einsatzkräfte 38 Menschen aus einem Schlauchboot mit ausgefallenem Motor gerettet.
+- [01.11., 06:12] **Demonstrationen - Hunderttausende Teilnehmer bei neuen Protesten in Frankreich** — In Frankreich sind erneut hunderttausende Menschen gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem auf die Straße gegangen.
+- [01.11., 06:12] **Weitgehend friedlich - Landesweite Massenproteste in Italien für bessere Bildung und gegen hohe Preise** — In Italien haben Hunderttausende Menschen gegen steigende Lebenshaltungskosten und für mehr Geld für Bildung demonstriert. Die Gewerkschaft USB sprach von mindestens einer Million Teilnehmern.
+- [01.11., 06:12] **Eriwan-Pfad - Einigung bei COP17 auf raschere Maßnahmen zum Schutz der Artenvielfalt** — Die ​Staatengemeinschaft hat sich auf der UNO-Konferenz COP17 auf verstärkte Anstrengungen zum Schutz der weltweiten Artenvielfalt geeinigt.
+- [01.11., 06:12] **Interview der Woche - Sozialer Ausgleich für Klimaschutzkosten: Ökonom Edenhofer fordert Klimageld und Absenkung der Stromsteuer statt Tankrabatt** — Der Klimaökonom Ottmar Edenhofer hat den Tankrabatt der Bundesregierung kritisiert und gleichzeitig eine Absenkung der Stromsteuer in Deutschland gefordert. Das sei ein richtiger Schritt, sagte der Direktor des Potsdam Instituts für …
+- [01.11., 06:12] **Wetter - Meist bewölkt mit örtlichen Auflockerungen** — Der Wetterbericht, die Lage: Hoher Luftdruck bestimmt das Wetter in weiten Teilen Deutschlands. Am Abend erreicht ein Tiefausläufer von der Nordsee her den Nordwesten.
 
 ## FAZ
 
+- [01.11., 06:17] **Wohnungskrise in Portugal: Polizei räumt Protestlager in Lissabon mit Schlagstöcken** — In Portugals Hauptstadt gehen Einsatzkräfte gegen Hunderte Demonstranten vor, die gegen ein geplantes Mietgesetz protestieren. Das Vorhaben der Mitte-Rechts-Regierung soll die Mietpreisbremse für neue Verträge aufheben.
 - [01.11., 05:01] **Bücher-Podcast: Wie wird man mit Morden am Polarkreis zur Bestsellerautorin?** — Die Inspiration für ihren ersten Polarkreiskrimi ereilte Viveca Sten am Skilift. Mittlerweile sind die Bücher der schwedischen Autorin in mehr als 40 Ländern herausgekommen. Wie macht sie das?
 - [01.11., 04:13] **USA unter Trump: Trump erlaubt Bolsonaro unbegrenzten US-Aufenthalt** — Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ
 - [01.11., 03:57] **Liveblog Nahost: Trump bringt Angriffe auf weitere Ziele in Iran ins Spiel** — Irans Außenminister: Keine Pläne für Gespräche mit den USA +++ Iran meldet Verletzten nach US-Angriff auf Fischerboote +++ Ägypten warnt vor massiven Folgen einer neuen Eskalation +++ alle Entwicklungen im Liveblog
@@ -82,7 +85,6 @@ Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [31.10., 19:48] **Ilse Werder: Die Frau, die den Feminismus nach Hanau brachte** — Vier Autorinnen zeichnen den Lebensweg der streitbaren Journalistin Ilse Werder nach, vom Nationalsozialismus bis in heutige Tage. Gezeigt wird auch, was ihr eine Generation von Frauen zu verdanken hat.
 - [31.10., 19:37] **Serbien: Anatomie eines Erfolgs** — In Serbien hat eine führerlose studentische Bewegung die Parlamentswahl gewonnen. Wie konnte das gelingen?
 - [31.10., 18:46] **F.A.Z.-Leser helfen: Mit Erdnussmus trotzen sie der Jugendarbeitslosigkeit** — Gerade junge Menschen haben im ostafrikanischen Tansania auf dem Arbeitsmarkt kaum Chancen. Darum lernen sie schon in der Schule, wie man sich erfolgreich selbständig macht.
-- [31.10., 18:42] **Beglau im Stil-Fragebogen: „Ich bin abergläubisch, weil es Spaß macht“** — Bibiana Beglau verkörpert im Film „Block 10“ eine Ärztin, die sich in Auschwitz den Nazis widersetzt. Hier erzählt sie von ihrer Vorliebe für Fenchel und dezidiert bescheuertem Blödsinn.
 
 ## Spiegel
 
@@ -114,21 +116,21 @@ Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 ## Zeit
 
-- [01.11., 05:30] **Selbstbestimmungsgesetz: Weniger Änderungen des Geschlechtseintrags in Hamburg**
-- [01.11., 05:25] **Fußball-Bundesliga: Demichelis über Druck bei RB Leipzig: «Dann gehe ich selbst»**
+- [01.11., 06:33] **New York: Heidi Klum verwandelt sich zu Halloween in abgerissene Hand**
+- [01.11., 06:13] **Polen: Donald Tusk wirft Polens Präsidenten Angriff auf Rechtsstaat vor** — Im Streit um das Verfassungsgericht verschärft Polens Regierungschef gegenüber Präsident Karol Nawrocki den Ton. Der hatte tags zuvor eine Richterin beiseite gedrängt.
+- [01.11., 06:06] **Kreis Calw: Auto fährt in Gegenverkehr: Motorradfahrer schwer verletzt**
+- [01.11., 06:01] **Gen Z: Hat Gen Z geregelt?** — Nach Protesten in Frankreich ist jetzt auch die deutsche Jugend auf die Straße gegangen. Was haben die Demonstrationen bewirkt? Und: kein G20‑Foto mit Sergej Lawrow
+- [01.11., 06:00] **Vegane Ernährung: Nichts vom Tier auf dem Teller - was bringt das fürs Klima?**
+- [01.11., 06:00] **Prozess beginnt: Kinderarzt wegen Missbrauchs von Patienten vor Gericht**
+- [01.11., 06:00] **Clankriminalität: Polizei will Eskalation nach Auto-Angriff verhindern**
+- [01.11., 05:55] **Fußball-Bundesliga: Kovac, Ricken und Schlotterbeck rühmen BVB-Mentalität**
+- [01.11., 05:55] **Nach KSC-Sieg gegen Heidenheim: «Machen nicht viele»: Kapitän Wanitzek verrät Freistoßtrick**
+- [01.11., 05:45] **Fußball-Bundesliga: Neue Bayern-Sorgen: «Müssen gerade sehr resilient sein»**
+- [01.11., 05:40] **Nordkorea: Nordkorea testet laut Bericht neuartigen Streubombensprengkopf** — Die Waffentests in Nordkorea gehen weiter. Staatsmedien zufolge hat das abgeschottete Land einen neuartigen Sprengkopf für taktische ballistische Raketen erprobt.
+- [01.11., 05:39] **Parteien: Annegret Kramp-Karrenbauer warnt vor AfD und Linken** — Regierungen der Linken in Berlin und der AfD in Sachsen-Anhalt würden das Leben vieler stark verändern, sagt die ehemalige CDU‑Vorsitzende. Die Sicherheit sei in Gefahr.
 - [01.11., 05:22] **Oper »The Mothers of Kherson«: Hört die Welt jetzt zu?** — Mit »The Mothers of Kherson« erreicht der Ukrainekrieg die Opernbühne. Szenen einer Gratwanderung zwischen Kunst und Aktivismus in Warschau.
 - [01.11., 05:15] **Gerrymandering vor den Midterms: Der Kampf um die US-Wahlkreise** — Auf extreme Art und Weise schneiden sich Republikaner und Demokraten ihre Wahlkreise zurecht. Wer kann sich damit die meisten Sitze bei den Zwischenwahlen sichern?
 - [01.11., 05:13] **Geld anlegen: Wie lege ich jetzt 50.000 Euro an?** — Ob Abfindung oder Erbe: Diese fünf Fragen sollten Sie sich stellen, wenn Sie plötzlich viel Geld anzulegen haben. Die Antworten liefern wir auch gleich mit.
-- [01.11., 05:13] **Unser Personal Trainer: Das Rückwärtsbalancieren** — Unsere Übung der Woche ist etwas für Fortgeschrittene. Sie schult Ihre Koordination und hilft dabei, mit besserem Balancegefühl durchs Leben zu gehen.
-- [01.11., 05:13] **Unser Personal Trainer: Das Rückwärtsbalancieren** — Unsere Übung der Woche ist etwas für Fortgeschrittene. Sie schult Ihre Koordination und hilft dabei, mit besserem Balancegefühl durchs Leben zu gehen.
-- [01.11., 05:13] **Erdbeben von Lissabon: 01 11 55** — Am 1. November 1755 bebt in Lissabon die Erde. Das stärkste Beben der europäischen Geschichte tötet wohl Zehntausende – und bringt die Kultur des Kontinents ins Wanken.
-- [01.11., 05:12] **Truman Capote: Der zeitlose Zauber italienischer Leichtigkeit** — Als junger Mann verbrachte der Schriftsteller Truman Capote auf Ischia im Jahr 1949 einen schwerelosen Frühsommer. Was hat diese Insel, die ihn so glücklich machte?
-- [01.11., 05:12] **Truman Capote: Der zeitlose Zauber italienischer Leichtigkeit** — Als junger Mann verbrachte der Schriftsteller Truman Capote auf Ischia im Jahr 1949 einen schwerelosen Frühsommer. Was hat diese Insel, die ihn so glücklich machte?
-- [01.11., 05:04] **Polen: Donald Tusk wirft Polens Präsidenten Angriff auf Rechtsstaat vor** — Im Streit um das Verfassungsgericht verschärft Polens Regierungschef gegenüber Präsident Karol Nawrocki den Ton. Der hatte tags zuvor eine Richterin beiseite gedrängt.
-- [01.11., 05:00] **«Geboren um zu leben»: Unheilig-Graf schmunzelt über Griesgram-Image: «Lache gerne»**
-- [01.11., 05:00] **Flughafenausbau: Gericht verhandelt über Klagen gegen Flughafen-Ausbau**
-- [01.11., 05:00] **Schutz vor Frost: Wie die Schlossgärten im Nordosten winterfest werden**
-- [01.11., 05:00] **Obdachlosigkeit: Kältehilfe für Obdachlose: Busse wieder unterwegs**
 
 ## NZZ
 
@@ -201,4 +203,3 @@ Status: Tagesschau: 25 · Deutschlandfunk: 21 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [31.10., 01:29] **US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia** — <p>Marco Rubio pulls plug on traditional photo op at meeting of foreign ministers after about one-third of countries threaten boycott</p><p>The traditional “family photo” to open the G20 foreign ministers’ meeting has been abruptly …
 - [31.10., 01:04] **A top-secret spy mission, a decades-old scandal – and the Austin Powers-esque saga to lift the lid** — <p>Rex Patrick’s latest transparency fight is over what he calls ‘most open secret in the history of Australian spying’ – maybe even the world</p><ul><li><p>Get our <a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl">daily …
 - [30.10., 20:42] **Canada and EU announce new alliance open to like-minded countries** — <p>Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’</p><p>Canada and Europe have announced a new alliance of like-minded nations to<strong> </strong>serve as both …
-- [30.10., 18:37] **How crypto hacking funds isolated North Korea’s nuclear programme** — <p>Cryptocurrency theft is estimated to generate half of the country’s foreign currency income</p><p>North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – …
