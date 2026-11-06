@@ -1,13 +1,16 @@
 # Feed-Schnappschuss
 
-Erstellt: 06.11., 05:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
+Erstellt: 06.11., 06:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
 Automatisch erzeugt von .github/workflows/feeds.yml — nicht von Hand bearbeiten.
 Status: Tagesschau: 25 · Deutschlandfunk: 13 · FAZ: 25 · Spiegel: 25 · Zeit: 15 · NZZ: 16 · BBC World: 20 · Guardian World: 25
 
 ## Tagesschau
 
-- [06.11., 05:30] **tagesschau in 100 Sekunden**
-- [06.11., 05:28] **Kongress lehnt Peñas Rücktritt an - Staatsanwalt ermittelt** — In Paraguay schaltet sich nun die Staatsanwaltschaft ein. Präsident Peña erklärte zwar seinen Rücktritt - der Kongress nahm diesen aber nicht an und eröffnete ein Amtsenthebungsverfahren.
+- [06.11., 06:35] **Trump stellt Ukraine-Abkommen mit Russland in Aussicht**
+- [06.11., 06:17] **Bundestag plant härtere Strafen für den Einsatz von K.o.-Tropfen** — Immer wieder werden vor allem Frauen mit K.o.-Tropfen betäubt und erleben sexualisierte Gewalt. Der Bundestag will heute härtere Strafen beschließen. Aus Sicht der Opposition verfehlt das Gesetz aber den Kern des Problems. Von Felix Jakobs.
+- [06.11., 06:05] **tagesschau in 100 Sekunden**
+- [06.11., 06:04] **Ressourcenverbrauch vieler Rechenzentren nicht öffentlich einsehbar** — Rechenzentren verbrauchen enorme Mengen Strom und Wasser. Betreiber sind gesetzlich verpflichtet, ihren Verbrauch zu veröffentlichen. Doch Anfragen des SWR an mehr als 30 Unternehmen zeigen: Viele nehmen es mit der Transparenz nicht so …
+- [06.11., 05:28] **Kongress lehnt Peñas Rücktritt ab - Staatsanwalt ermittelt** — In Paraguay schaltet sich nun die Staatsanwaltschaft ein. Präsident Peña erklärte zwar seinen Rücktritt - der Kongress nahm diesen aber nicht an und eröffnete ein Amtsenthebungsverfahren.
 - [06.11., 05:00] **Neue Studie: Wie der Wandel beim Klimaschutz gelingen kann** — Am Montag startet in der Türkei die nächste UN-Klimakonferenz. Fragt man Forscher, sind die Gründe für den langsamen Fortschritt beim Klimaschutz offensichtlich. Eine Studie zeigt, wie die Wende gelingen kann. Von D. Hebestreit und J. …
 - [06.11., 01:55] **Bundestag korrigiert Panne bei Tabaksteuererhöhung** — Eigentlich sollte die Tabaksteuer erst zum Jahreswechsel erhöht werden - doch durch ein Versehen trat die Erhöhung schon jetzt in Kraft. Nun heißt es per Gesetzesänderung: Kommando zurück.
 - [06.11., 00:44] **Kalifornien wandelt Todesstrafen in lebenslange Haftstrafen um** — In Kalifornien wird die Todesstrafe seit 20 Jahren nicht mehr vollstreckt. 548 Menschen sitzen dort aktuell im Todestrakt. Jetzt kündigte der scheidende Gouverneur Newsom an, ihre Strafen in lebenslange Haftstrafen umzuwandeln.
@@ -15,10 +18,9 @@ Status: Tagesschau: 25 · Deutschlandfunk: 13 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [05.11., 23:39] **tagesthemen**
 - [05.11., 23:37] **Mysteriöse Bombendrohungen - Flugzeuge in ganz Europa müssen notlanden**
 - [05.11., 23:35] **Pflegekassen in Not: Bundestag debattiert über Pläne zur Stabilisierung**
-- [05.11., 23:35] **Pflegekasse: So sieht die Realität für die Angehörigen aus**
 - [05.11., 23:31] **Ermittler zu Aiwangers Tod: Kein Hinweis auf Fremdverschulden**
 - [05.11., 23:28] **Marseille verpasst Leverkusen den nächsten Dämpfer** — Nach zuletzt zwei Niederlagen in der Bundesliga hat Bayer Leverkusen auch in der Europa League die erste Niederlage kassiert. Olympique Marseille schlug die Bayer-Elf mit 1:0.
-- [05.11., 23:01] **Hoffenheim vergibt Sieg bei Crystal Palace** — Am 4. Spieltag der Europa League hat die TSG Hoffenheim bei Crystal Palace 1:1 gespielt. Trotz Überzahl kassierten die Kraichgauer den Ausgleichstreffer in der Nachspielzeit.
+- [05.11., 23:01] **Trotz Überzahl: Hoffenheim vergibt Sieg bei Crystal Palace** — Am 4. Spieltag der Europa League hat die TSG Hoffenheim bei Crystal Palace 1:1 gespielt. Trotz Überzahl kassierten die Kraichgauer den Ausgleichstreffer in der Nachspielzeit.
 - [05.11., 22:18] **Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen** — Der Ruf nach höheren Löhnen, Steuergerechtigkeit und mehr Geld für Bildung hat in Frankreich erneut Hunderttausende auf die Straßen getrieben. Der Aktionstag verlief weitgehend friedlich, es kam mancherorts dennoch zu Ausschreitungen.
 - [05.11., 21:25] **SC Freiburg siegt dank starker Nerven** — Der SC Freiburg gewinnt in der Ligaphase der Conference League im Nordosten der Türkei. Beim 1:0-Sieg gegen Trabzonspor beweist das Team von Trainer Julian Schuster starke Nerven.
 - [05.11., 20:56] **tagesschau 20:00 Uhr** — Freie Wähler-Chef und bayerischer Vize-Ministerpräsident Aiwanger mit 55 Jahren gestorben, Schlechte Stimmung bei den US-Republikanern nach verlorenen Kongresswahlen, Frankreichs Gewerkschaften rufen für bessere Lebensbedingungen zum …
@@ -26,11 +28,9 @@ Status: Tagesschau: 25 · Deutschlandfunk: 13 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [05.11., 20:30] **tagesschau**
 - [05.11., 20:11] **Supermärkte: Warum Kühlregale leicht zu hacken sind** — Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer. Von S. Wolff
 - [05.11., 19:43] **Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten** — Freitag ist es im Norden, Osten und Süden oft trüb durch Hochnebel. Im Südwesten gibts auch dichte Wolken und etwas Regen. Ansonsten scheint verbreitet die Sonne. 3 bis 12 Grad.
-- [05.11., 19:26] **Paraguays Präsident tritt nach Bankenpleite zurück** — Inmitten einer schweren Bankenkrise seines Landes hat Paraguays Präsident Peña seinen Rücktritt eingereicht. Ihm wurden geschäftliche Beziehungen zur Muttergesellschaft der Pleitebank vorgeworfen. Von A. Herrberg.
 - [05.11., 19:02] **Kameras in Schlachthöfen: Mehr Überwachung für den Tierschutz** — Der Bundestag hat eine verpflichtende Videoüberwachung in großen Schlachthöfen beschlossen. Doch Ausnahmen für kleine Betriebe und Fragen zur Umsetzung sorgen für Diskussionen. Von Eva Huber.
 - [05.11., 18:56] **Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt** — Die Vorwürfe gegen den österreichischen Immobilieninvestor René Benko sind umfangreich: Nach einer Verurteilung wegen Gläubigerschädigung im September folgt nun eine weitere wegen Betrugs. Sie ist noch nicht rechtskräftig.
 - [05.11., 18:49] **Cristiano Ronaldo tritt aus Portugals Nationalteam zurück** — Fußball-Weltstar Ronaldo hat seine Karriere im portugiesischen Nationalteam mit einem emotionalen Video beendet. Gut einen Monat nach dem Eklat um seine Abreise aus dem Camp der Nationalmannschaft gab er seinen endgültigen Abschied bekannt.
-- [05.11., 18:27] **Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich** — Günstiger parken und keine E-Kennzeichen-Pflicht mehr: Der Bundestag hat das reformierte Elektromobilitätsgesetz verabschiedet. Bisher nutzen allerdings nur wenige Kommunen den Spielraum des Gesetzes aus. Von Michael Eiden.
 
 ## Deutschlandfunk
 
@@ -50,6 +50,14 @@ Status: Tagesschau: 25 · Deutschlandfunk: 13 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 ## FAZ
 
+- [06.11., 06:33] **Deutschland Liveblog: Kiesewetter: Merz verstolperte Bundespräsidenten-Debatte** — Dem Kanzler fehle es an Fingerspitzengefühl +++ Keine Hinweise auf Fremdverschulden bei Aiwangers Tod +++ alle Entwicklungen im Liveblog
+- [06.11., 06:21] **Portugals Trainer: „Ich habe Ronaldo gebeten, an meiner Seite weiterzumachen“** — Jorge Jesus bittet Cristiano Ronaldo, weiter für Portugal zu spielen – doch der Superstar entscheidet sich anders. Vorausgegangen ist ein Zerwürfnis. Der Trainer würdigt Ronaldos Verdienste.
+- [06.11., 06:15] **Bundeswehr: 724 Verdachtsfälle sexueller Übergriffe an Justiz gemeldet** — Die Bundeswehr hat seit Jahren mit einer wachsenden Zahl von Meldungen über sexuelles Fehlverhalten zu tun. Mehrere Hundert Fälle wurden an die Justiz weitergeleitet.
+- [06.11., 06:00] **Kritik an Zukunftskonzept: Wasserkraftwerke stören den freien Fluss der Lahn** — Kurvig und frei wie einst soll die Lahn wieder durch Hessen fließen. So sieht es ein Zukunftskonzept für den Fluss vor. Es besagt auch, dass dafür Wehre und Wasserkraftwerke verschwinden müssten.
+- [06.11., 05:52] **Sally Field wird 80: Ihr mögt mich also** — In den Achtzigern gewann sie zwei Oscars für „Norma Rae“ und „Ein Platz im Herzen“. Später spielte Sally Field die Mutter von „Forrest Gump“. Heute wird die Filmschauspielerin 80
+- [06.11., 05:44] **F.A.Z. Frühdenker: Wer folgt Christine Lagarde an der EZB-Spitze?** — Das CDU-Präsidium berät über die nächste Bundespräsidentin. Der Papst unternimmt das erste Mal nach seiner OP eine Reise. Und Frankfurt erlebt das nächste Wochenende mit einer Großdemo. Der F.A.Z. Frühdenker.
+- [06.11., 05:43] **Offenes Rücktrittsgesuch: Paraguay schlittert von der Banken- in die Staatskrise** — Präsident Peña will mit seinem Rücktritt einem Absetzungsverfahren zuvorkommen. Der Kongress spielt dabei nicht mit – kam aber zunächst zu keiner Entscheidung.
+- [06.11., 05:41] **Kolumne „Gesundheitsmythen“: „Ungewollte Kinderlosigkeit betrifft jedes fünfte bis sechste Paar“** — Wenn es mit der Schwangerschaft nicht klappt, liegt das oft auch am Mann. Was Nahrungsergänzungsmittel taugen, welche Rolle zu enge Hosen spielen und warum Testosteronpräparate schaden.
 - [06.11., 04:14] **Liveblog Nahost: Wieder Angriffe auf Iran? Trump kündigt baldige Entscheidung an** — Militär bereitet sich auf neue Kämpfe vor +++ Eisenkot ist Favorit für Auftrag zur Regierungsbildung in Israel +++ alle Entwicklungen im Liveblog
 - [06.11., 03:40] **Energieerzeugung: Wie China es schafft, weniger CO₂ auszustoßen** — Erstmals weniger als die Hälfte des Stroms aus Kohle, dafür mehr Erneuerbare – im vergangenen Quartal ging Chinas CO₂-Ausstoß deutlich zurück, so eine unabhängige Analyse kurz vor der Weltklimakonferenz. Auch teures Öl spielt eine Rolle.
 - [06.11., 03:37] **Ecuador: Prozess gegen Drahtzieher nach politischem Mord** — Drei Jahre, nachdem ein Auftragsmörder einen Präsidentschaftskandidaten der Opposition erschoss, wird in Ecuador sieben mutmaßlichen Hintermännern der Prozess gemacht – darunter ist ein früherer Minister.
@@ -67,19 +75,16 @@ Status: Tagesschau: 25 · Deutschlandfunk: 13 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [05.11., 20:46] **1:0-Sieg bei Trabzon: Freiburg gewinnt am Schwarzen Meer** — Gegen Trabzonspor jubelt der SC Freiburg über einen 1:0-Sieg. Schusters Elf hat die K.o.-Runde im Blick. Stürmerstar Mo Salah verpasst den Ausgleichstreffer für die Türken.
 - [05.11., 20:42] **USA unter Trump: Kaliforniens Gouverneur wandelt 548 Todesurteile in Haftstrafen um** — Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ
 - [05.11., 20:39] **Afyonkarahisar: Acht Tote und mehrere Verletzte nach Schüssen in der Westtürkei** — An zwei Orten fanden Einsatzkräfte jeweils drei Erschossene. Zwei verletzte Frauen starben später im Krankenhaus. Ein Tatverdächtiger wurde festgenommen.
-- [05.11., 20:18] **Aus nach fünf Jahren: Das Ende der umstrittenen Golf-Tour LIV ist besiegelt** — Anfang des Jahres stellt der saudische Staatsfonds die Unterstützung für die Golf-Tour LIV ein. Nun wird das Konkurrenzevent zur PGA abgewickelt. Auch, weil etliche Stars absprangen.
-- [05.11., 20:17] **CDU Sachsen-Anhalt: Die ungelöste Machtfrage gärt weiter** — Sepp Müller strebt nach dem Vorsitz der CDU Sachsen-Anhalt. Er bekommt nun Konkurrenz: Artjom Pusch will kein Schulze-Kandidat sein. Aber viele sehen ihn trotzdem so.
-- [05.11., 19:53] **Neuer Ärger in der Koalition: Klingbeil will „spürbaren“ Spritpreisdeckel** — Wie stark darf oder muss der Staat in die Preisbildung an den Tankstellen eingreifen? Diese zentrale ordnungspolitische Frage spaltet die Koalition.
-- [05.11., 19:51] **Italienischer Filmregisseur: Wer ermordete Pier Paolo Pasolini?** — In Rom wird wieder im Fall des 1975 ermordeten Regisseurs Pier Paolo Pasolini ermittelt. Womöglich liegt der Schlüssel für das Verbrechen in dessen letzten Werken.
-- [05.11., 19:44] **Russische Opposition: Der Staatsfeind ohne Eigenschaften** — Das Buch des russischen Oppositionspolitikers Andrei Pivovarov ist wie die russische Opposition – eine Heldenerzählung, der es an Inhalt mangelt.
-- [05.11., 19:36] **Universität Frankfurt: „Wir müssen 15 Prozent einsparen“** — Der Frankfurter Uni-Präsident Enrico Schleiff hat ein umstrittenes Konzept zur Reform seiner Hochschule vorgelegt. Kritik daran weist er zurück.
-- [05.11., 19:33] **Gipfel in Madrid: Zumindest greift Milei Sánchez dieses Mal nicht persönlich an** — Spanien will die Iberoamerikanische Gemeinschaft wiederbeleben. Das größte Hindernis für den Sozialisten Sánchez? Die rechten Regierungschefs in Südamerika.
-- [05.11., 19:27] **Gewalt unter Jugendlichen: Unter Teenagern geht die Angst um** — Private Feiern werden gestürmt und Wertsachen in der Öffentlichkeit von Gleichaltrigen geraubt. Warum braucht man heute Türsteher, die Geburtstagspartys von Sechzehnjährigen schützen?
 
 ## Spiegel
 
-- [06.11., 05:30] **Johann Lafer: Drei Rezepte für ein besonderes Familienessen am Sonntag** — Das Wertvollste am Sonntagsessen ist nicht das, was auf dem Tisch steht. Es sind die Menschen, mit denen wir es teilen. Drei Rezepte von mir für Sie und Ihre Familie.
+- [06.11., 06:23] **Gadi Eisenkot: Wie sich Israel unter seiner Führung ändern könnte** — Eine Mehrheit der Knesset-Abgeordneten empfiehlt Oppositionsführer Gadi Eisenkot für den Auftrag zur Regierungsbildung. Doch der Weg ins Amt ist steinig. Wie weit könnte ein Kurswechsel unter ihm tatsächlich gehen?
+- [06.11., 06:00] **Deutsche Bahn: SPD plant Eisenbahn-Fonds wie in Österreich** — Ein eigenes Sondervermögen soll die langfristige Finanzierung des deutschen Bahn-Netzes sichern. Die SPD-Fraktion legt dafür nun Pläne vor und kommt damit dem Verkehrsminister zuvor.
+- [06.11., 06:00] **»Friesenjunkies«: Die irre neue ARD-Serie der »Discounter«-Schöpfer**
+- [06.11., 05:57] **»Kolchose« von Emmanuel Carrère: Familiensaga über historische Umbrüche** — Der französische Star-Autor Emmanuel Carrère widmet sich in »Kolchose« der bewegten Geschichte seiner Familie. Dabei erzählt er die großen Umbrüche des 20. Jahrhunderts.
+- [06.11., 05:43] **News: SPD-Promis gegen Rot-Grün-Rot, Pannen im Finanzministerium, Jugendproteste** — Prominente SPD-Politiker wollen die rot-grün-rote Koalition in der Hauptstadt aufhalten. Dem Finanzministerium unter Lars Klingbeil unterlaufen auffällig viele Schnitzer. Und Europas Jugend ist wütend. Das ist die Lage am Freitagmorgen.
 - [06.11., 05:30] **Johann Lafer, Stefanie Hiekmann und Mohamed Amjahid: Was sollte jeder übers Kochen wissen?** — Kochen ist hochemotional. Gönnen Sie sich dieses Erlebnis – wir sagen Ihnen, wie Sie damit am besten anfangen.
+- [06.11., 05:30] **Johann Lafer: Drei Rezepte für ein besonderes Familienessen am Sonntag** — Das Wertvollste am Sonntagsessen ist nicht das, was auf dem Tisch steht. Es sind die Menschen, mit denen wir es teilen. Drei Rezepte von mir für Sie und Ihre Familie.
 - [06.11., 05:07] **Stefan Evers (CDU): »Berlin zahlt für den Wahlsieg der Linken schon heute einen hohen Preis«** — Stefan Evers hat mit seiner CDU die Wahl in Berlin verloren. Die Schuld gibt er »verführerischen« Versprechen der Linken. Hier sagt er, wie die Christdemokraten die Sehnsucht nach Vergesellschaftung stillen könnten.
 - [06.11., 05:02] **Sexuelles Fehlverhalten: Bundeswehr gab in drei Jahren 724 Fälle an Justiz ab** — In Hunderten Fällen sexueller Übergriffe aus den vergangenen Jahren hat die Bundeswehr Staatsanwaltschaften eingeschaltet. Nicht alle führten zu Verurteilungen: Rund die Hälfte der abgeschlossenen Verfahren wurde eingestellt.
 - [06.11., 04:50] **Pete Hegseth: Verteidigungsminister verteidigt Irankrieg und klammert sich an Amt** — Die Suche nach dem Sündenbock für die Wahlblamage der Republikaner läuft. Ein Kandidat: Pete Hegseth, als Verteidigungsminister eine treibende Kraft im Irankrieg. Und der gibt sich trotzig.
@@ -98,29 +103,24 @@ Status: Tagesschau: 25 · Deutschlandfunk: 13 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [05.11., 19:56] **Friedrich Merz entgleitet die Suche nach einer Bundespräsidentin** — Der Kanzler verrät nicht, wen er für das Bundespräsidentenamt favorisiert. Doch CSU-Kandidatin Ilse Aigner bekommt so viel Unterstützung, dass Friedrich Merz sie kaum noch übergehen kann, ohne Schaden anzurichten.
 - [05.11., 18:45] **NSDAP-Kartei: So forschen Sie nach der Recherche im SPIEGEL-Archiv weiter** — Sie haben die NSDAP-Kartei des SPIEGEL genutzt und fragen sich: Wie forsche ich weiter? Ab 19.30 Uhr beantworten Historiker Johannes Spohr und SPIEGEL-Redakteur Frederik Seeler Ihre Fragen im Livestream.
 - [05.11., 18:44] **Alan Jones ist tot: Nachruf auf den Formel-1-Weltmeister** — Alan Jones fuhr den Williams-Rennstall zum ersten WM-Titel in der Formel 1. Der Australier triumphierte in einem wilden Jahr des Motorsports. Mit 80 Jahren ist er nun gestorben.
-- [05.11., 18:31] **»White Tiger«: Wie Russland mutmaßlich Teenager für Anschläge rekrutiert** — Rekrutiert Russland Teenager im Netz, um Chaos zu verbreiten? Indizien legen das nahe: Brandanschläge, Messerattacken und ein Bündel Rubelscheine.
-- [05.11., 18:30] **Texas: Wie Gina Hinojosa die Republikaner-Hochburg umkrempeln will** — Gina Hinojosa ist für Texas noch wichtiger als der künftige Senator James Talarico: Die neue Gouverneurin will das Geflecht zwischen Republikanern und Oligarchen zerschlagen. Vor allem für Elon Musk könnte sich einiges ändern.
-- [05.11., 18:23] **Israel: Gadi Eisenkot bekommt die meisten Empfehlungen aus dem israelischen Parlament** — Israel sucht weiter nach einer Regierungskoalition. Jetzt haben sich die arabischen Parteien auf die Seite des Oppositionskandidaten geschlagen. Sicherheiten bringt das aber nicht.
-- [05.11., 18:16] **René Benko zu Zusatzstrafe von zwei Jahren verurteilt wegen schweren Betrugs** — Im September wurde der frühere Signa-Chef zu zweieinhalb Jahren Haft verurteilt, nun kommen wegen Betrugs zwei zusätzliche Jahre zur Strafe dazu. Laut Gericht hat René Benko einen Investor um fünf Millionen Euro geschädigt.
-- [05.11., 17:52] **Haftbefehl: Rapper veröffentlicht Foto mit Verband auf der Nase** — Zuletzt kündigte der Manager von Haftbefehl eine längere Pause des Offenbacher Rappers an. Dann erschien ein neuer Song, nun kommt via Instagram ein Lebenszeichen. Mit Verband im Gesicht. Und persönlicher Botschaft.
 
 ## Zeit
 
-- [06.11., 05:35] **Fußball-Nationalmannschaft: Gladbach-Hoffnungsträger und DFB-Neuling: Das ist Wael Mohya**
-- [06.11., 05:30] **Folge des KI-Booms: Studie warnt vor Wasserstress durch neue Mega-Rechenzentren**
-- [06.11., 05:30] **Winterdom eröffnet: Hamburger Dom startet – Preise bleiben stabil**
-- [06.11., 05:27] **Sexuelle Übergriffe: Bundeswehr meldet 724 Verdachtsfälle von sexuellen Übergriffen** — Zwischen 2023 und 2025 registrierte die Bundeswehr mehr als 700 Verdachtsfälle sexuellen Fehlverhaltens. Pistorius will nächste Woche eine Dunkelfeldstudie vorstellen.
-- [06.11., 05:19] **Papst Leo XIV.: Notfalls nimmt er den Hubschrauber** — Eben erst wurde der Papst an der Lunge operiert. Nun tritt er seine bislang größte Reise an: drei Länder, zwölf Tage, fast vierzig Reden.
-- [06.11., 05:17] **Börsen: Südkoreas Börse bricht wegen Sorgen um KI und Ölpreise ein**
-- [06.11., 05:15] **USA: Trump erklärt sein gold dekoriertes Oval Office zum Nationaldenkmal** — Gerade erst hatte Obama sich über Trumps Dekoration seines Arbeitszimmers lustig gemacht. Nun hat der Republikaner das mit Gold überfrachtete Büro zum Denkmal erklärt.
-- [06.11., 05:12] **Deutschland Cup: Eishockey-Nationalspieler zu Russland: «Kein Kommentar»**
-- [06.11., 05:09] **Gesetz geplant: Briten sollen künftig wissen: Wie viel Geld bringt der Job?**
-- [06.11., 05:07] **Europa League: Hoffenheim fliegt mit «Scheißgefühl» von London nach Hause**
-- [06.11., 05:00] **Freizeit: Handarbeitscafés in Thüringen: Viel Fleiß gefragt**
-- [06.11., 04:37] **Aktienmärkte: Südkoreas Börse bricht wegen Sorgen um KI und Ölpreise ein** — Anleger fürchten unter anderem ein Platzen der KI-Blase. Der südkoreanische Leitindex verlor mehr als acht Prozent. Die Börse in Seoul stoppte den Handel für 20 Minuten.
-- [06.11., 03:33] **Karibikinsel: USA verschärfen Sanktionen gegen Kuba** — Die US-Regierung schränkt mit neuen Strafmaßnahmen Kubas Öl- und Elektrohandel weiter ein. Sie will auf der kommunistisch regierten Insel einen Regimewechsel erzwingen.
-- [06.11., 03:20] **Kritik am Bundeskanzler: CDU-Außenpolitiker Kiesewetter spricht Merz Fingerspitzengefühl ab** — Kanzler Friedrich Merz stößt in der eigenen Partei zunehmend auf Kritik. Die Debatte um das Bundespräsidentenamt führe er dilettantisch, sagt Roderich Kiesewetter.
-- [06.11., 02:58] **Ukrainekrieg: Trump kündigt »großes Abkommen« für ganz Europa an** — Kurz vor Gesprächen der USA, Ukraine und Russlands zum Ukrainekrieg loten Diplomaten Positionen aus. Der US-Präsident sagt voraus, ein Deal werde ganz Europa betreffen.
+- [06.11., 06:37] **Aktienmärkte: Angst vor Platzen der KI-Blase trifft Asiens Börsen** — Anleger fürchten nach der US-Wahl Beschränkungen für Datenzentren. Südkoreas Leitindex verlor mehr als acht Prozent. Der Handel wurde für 20 Minuten ausgesetzt.
+- [06.11., 06:37] **Künstliche Intelligenz: Studie warnt vor hohem Wasserverbrauch durch Rechenzentren** — Bis 2030 könnte sich der Wasserbedarf von Rechenzentren in Deutschland fast verdoppeln, zeigt eine neue Studie. Sie widerspricht auch den Aussagen von Betreibern.
+- [06.11., 06:29] **Unfall auf der Bundesstraße: Zweijähriges Kind und Autofahrer bei Unfall schwer verletzt**
+- [06.11., 06:22] **USA: Trump erklärt sein goldgeschmücktes Oval Office zum Nationaldenkmal** — Gerade erst hatte Obama sich über die Einrichtung von Trumps Arbeitszimmer lustig gemacht. Nun hat der Republikaner das mit Gold überfrachtete Büro zum Denkmal erklärt.
+- [06.11., 06:21] **Wetter: Kalte Nächte und nur selten Sonne am Wochenende**
+- [06.11., 06:21] **Dreitägiges Festival: Hamburg: Anime-Figuren auf der Bühne, Barockoper im Kino**
+- [06.11., 06:06] **Basketball: Magic verlieren in Phoenix: Dritte NBA-Pleite in Serie**
+- [06.11., 06:00] **Israelische Regierungsbildung: Warum bei den Midterms auch Netanjahu verloren hat** — Die Regierungsbildung in Israel läuft wie erwartet mühsam – komplizierter macht alles noch die US-Wahl. Und: Nachbarschaft schlägt Pflegenotstand.
+- [06.11., 06:00] **Datenzentren in den USA: Die KI wurde abgewählt** — Auch die Sorge vor KI und die Ablehnung neuer Rechenzentren hat den Demokraten zum Sieg verholfen. Aber die US-Wirtschaft ist gefährlich abhängig von der Technologie.
+- [06.11., 06:00] **Elbvertiefung: Der tägliche Newsletter aus Hamburg: Vom Oktopus bitte nur sechs Tentakel!** — Die Elbvertiefung am Freitag – Mit Abzockereien bei der Wohnungssuche, breiteren Radwegen an der Alster und dem Start des Winterdoms
+- [06.11., 06:00] **Interviewpodcast: Sandra Richter, warum ist Rilke ein Popstar?** — Sie hütet das wichtigste Gedächtnis deutscher Literatur. Hier erzählt sie, welche zehn Bücher man gelesen haben sollte – und warum Lady Gaga sich Rilke tätowieren ließ.
+- [06.11., 06:00] **Fußball-Bundesliga: Ticket-Ärger bei Hoffenheims Heimspielen**
+- [06.11., 06:00] **Beliebtes Päuschen: Fast jeder zweite Erwachsene hält Mittagsschlaf**
+- [06.11., 05:53] **Wetter: Hochnebel, Sonne, Minusgrade**
+- [06.11., 05:50] **Fluten rund um Kuala Lumpur: Wasser bis an die Fenster: Überschwemmungen in Malaysia**
 
 ## NZZ
 
@@ -166,16 +166,16 @@ Status: Tagesschau: 25 · Deutschlandfunk: 13 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 ## Guardian World
 
-- [06.11., 05:35] **US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows** — <p>Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’</p><ul><li><p><a …
+- [06.11., 06:32] **US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows** — <p>Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’</p><ul><li><p><a …
+- [06.11., 06:17] **Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’** — <p>Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024</p><ul><li><p><a …
+- [06.11., 05:45] **Australia faces same issues that flipped control of US Congress in midterms, experts say** — <p>Anthony Albanese’s government has taken a blow due to Iran war but voter anxiety around cost of living and datacentres may hit harder</p><ul><li><p>Get our <a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl">daily …
 - [06.11., 05:11] **Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack** — <p>Eva Geller was shot on 14 December 2025 during Hanukah festival and she has been in and out of hospital since</p><ul><li><p>Get our <a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl">breaking news email</a>, <a …
 - [06.11., 03:30] **Beau Lamarre-Condon trial: prosecution begins cross-examination of double murder accused – as it happened** — <p>This blog has now closed</p><ul><li><p><a href="https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb">Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird …
 - [06.11., 03:28] **Liberal bus crashes into shop awning on its first outing of Victorian election campaign** — <p>Opposition leader Jess Wilson grimaced as the ‘Jess Express’, carrying Liberals and reporters, backs into the structure in suburban Melbourne</p><ul><li><p>Get our <a …
-- [06.11., 02:36] **Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’** — <p>Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024</p><ul><li><p><a …
 - [06.11., 02:22] **Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks** — <p>Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m</p><p>More than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities …
 - [06.11., 01:29] **Trump signs proclamation to try to prevent changes to gold-covered Oval Office** — <p>President seeks to make Oval Office a national monument to ensure designs are not ‘ripped down by stupid people’</p><p>Donald Trump signed a proclamation on Thursday that he says will prevent future administrations from changing his …
 - [06.11., 01:27] **Alabama, Florida and Indiana carry out executions on same day** — <p>Unusual instance of three states administering the death penalty on the same day previously happened in 2010</p><p>Alabama, Florida and Indiana all carried out executions on Thursday in an unusual instance of three states administering …
 - [06.11., 01:04] **Slashing number of police forces in England and Wales is only option, says Met chief** — <p>Mark Rowley calls for ‘revolution’ in policing as major review is expected to propose regional ‘super forces’</p><p>Police are heading for failure unless the number of forces in England and Wales is slashed, with their ability to catch …
-- [06.11., 00:00] **Powerhouse Parramatta opens this weekend – and it’s dazzling inside and out** — <p>Coups de théâtre abound in the $915m addition to western Sydney’s skyline, which opens on Saturday with five new exhibitions – and a 23-day festival</p><ul><li><p><a …
 - [05.11., 23:04] **Fox News suffers ratings drop on bleak election night for Republicans** — <p>News channel trailed NBC and ABC, but edged out CNN, MS Now and CBS in primetime hours on midterm election night</p><ul><li><p><a …
 - [05.11., 22:27] **Salon, internet’s oldest general interest publication, shuts down after 31 years** — <p>Website known for politics, arts and culture coverage announces closure just weeks before anniversary</p><p>Salon, one of the early internet’s pioneering publications, is closing after more than three decades, the outlet announced on …
 - [05.11., 21:30] **British Ebola patient evacuated from DR Congo arrives at London hospital** — <p>Doctor who was helping response to outbreak in Africa taken to specialist isolation unit at Royal Free hospital</p><p>A British doctor who tested positive for Ebola while working in the Democratic Republic of the Congo has returned to …
