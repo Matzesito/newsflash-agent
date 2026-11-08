@@ -1,6 +1,6 @@
 # Feed-Schnappschuss
 
-Erstellt: 08.11., 05:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
+Erstellt: 08.11., 06:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
 Automatisch erzeugt von .github/workflows/feeds.yml — nicht von Hand bearbeiten.
 Status: Tagesschau: 25 · Deutschlandfunk: 20 · FAZ: 25 · Spiegel: 25 · Zeit: 15 · NZZ: 16 · BBC World: 19 · Guardian World: 25
 
@@ -18,7 +18,7 @@ Status: Tagesschau: 25 · Deutschlandfunk: 20 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [07.11., 23:42] **Tote und Verletzte nach Schüssen in Krakau**
 - [07.11., 22:51] **Polen: Mindestens sechs Tote nach Schüssen in Krakau** — Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 16 Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden. In seinem Wohnhaus wurden weitere Tote entdeckt.
 - [07.11., 22:01] **Deutsche Eishockey-Frauen siegen zum WM-Start** — Die deutschen Eishockey-Frauen sind mit einem knappen Sieg gegen Österreich in die Weltmeisterschaft in Dänemark gestartet.
-- [07.11., 21:54] **Stuttgart zittert sich gegen Bremen zum Topspiel-Sieg** — Kein Füllkrug-Tor, keine Bremer Punkte: In Stuttgart haben die Werderaner erneut eine gute Leistung gezeigt, diesmal aber eine knappe Niederlage hinnehmen müssen.
+- [07.11., 21:54] **Stuttgart bezwingt starke Bremer - Füllkrugs Serie endet** — Kein Füllkrug-Tor, keine Bremer Punkte: In Stuttgart haben die Werderaner erneut eine gute Leistung gezeigt, diesmal aber eine knappe Niederlage hinnehmen müssen.
 - [07.11., 21:33] **Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten** — Nur einen Tag nach seiner Amtsenthebung muss sich Paraguays Ex-Präsident Peña wegen seiner Rolle im Bankenskandal vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.
 - [07.11., 21:31] **Oppositionsführer Eisenkot soll Israels neue Regierung bilden** — Endet die Ära Netanjahu in Israel? Staatspräsident Herzog beauftragt den Oppositionspolitiker Eisenkot mit der Regierungsbildung. In den kommenden 28 Tagen soll er versuchen, eine Koalition zu schmieden.
 - [07.11., 21:21] **Netanjahu-Rivale Gadi Eisenkot soll Regierung in Israel bilden**
@@ -34,31 +34,31 @@ Status: Tagesschau: 25 · Deutschlandfunk: 20 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 ## Deutschlandfunk
 
-- [08.11., 04:46] **Jerusalem - Israels Präsident Herzog beauftragt Oppositionspolitiker Eisenkot mit Regierungsbildung** — Der israelische Präsident Herzog wird den Oppositionspolitiker Eisenkot mit der Regierungsbildung beauftragen. Ein Sprecher des Präsidenten sagte, Eisenkot sei von Herzog für heute in dessen Amtssitz in Jerusalem eingeladen worden.
-- [08.11., 04:46] **Polen - Tödliche Schüsse in Krakau: Täter offenbar mit rechtsextremer Ideologie - auch Ausländer unter Opfern** — Nach den tödlichen Schüssen in der polnischen Großstadt Krakau hat die Regierung neue Details zu dem Vorfall bekanntgegeben. Premierminister Tusk teilte am Abend mit, dass an der Wohnadresse des Täters drei weitere Leichen gefunden worden …
-- [08.11., 04:46] **Polen - Schüsse in Krakau: Europäische Spitzenpolitiker senden Botschaften der Solidarität** — Politiker in Europa haben schockiert auf die tödlichen Schüsse in Krakau reagiert. EU-Kommissionspräsidentin von der Leyen übermittelte den Familien der Opfer ihr herzlichstes Beileid.
-- [08.11., 04:46] **146.000 demonstrieren - Frankreich: Erneut Ausschreitungen und Gewalt bei Protesten** — In mehreren französischen Städten ist es bei erneuten Protesten zu Gewalt gekommen.
-- [08.11., 04:46] **Asien - Erdbeben in Japan: Berichte über mindestens 22 Verletzte nach** — In Zentraljapan hat es ein Erdbeben gegeben.
-- [08.11., 04:46] **Steinmeier-Nachfolge - CDU-Präsidium berät in Berlin** — In Berlin kommt am Abend das CDU-Präsidium zu Beratungen über die Nachfolge von Bundespräsident Steinmeier zusammen.
-- [08.11., 04:46] **Digitaler Bundesparteitag - FDP will "modernste Partei Deutschlands" werden - Beratungen über Parteireform** — Die FDP berät heute über ihren weiteren politischen Kurs.
-- [08.11., 04:46] **Diskussion um SPD-Vorsitz - Klingbeil lässt erneute Kandidatur offen** — Der SPD-Vorsitzende Klingbeil hat offengelassen, ob er im Januar erneut als Parteichef antreten wird.
-- [08.11., 04:46] **Rassismusdebatte - "Inakzeptabel": Hessens Wirtschaftsminister Mansoori (SPD) kritisiert Europaminister Pentz (CDU) für Online-Kommentar** — In Hessen sorgt ein Online-Kommentar von Europaminister Pentz weiter für Kritik.
-- [08.11., 04:46] **UFC - Trump will Kampfsportverbandschef Dana White als Pressesprecher** — US-Präsident Trump hat dem Präsidenten des Kampfsportverbands UFC, White, den Posten des Pressesprechers im Weißen Haus angeboten.
-- [08.11., 04:46] **Pro-iranische Miliz - Huthis melden 27 Tote und 36 Verletzte nach Luftangriffen auf Dorf im Jemen** — Die Huthi-Miliz wirft der von Saudi-Arabien geführten Militärkoalition vor, im benachbarten Jemen zahlreiche Zivilisten getötet oder verletzt zu haben.
-- [08.11., 04:46] **Golf von Oman - US-Militär beschießt Handelsschiff** — Das US-Militär hat im Golf von Oman auf ein Handelsschiff geschossen und es außer Gefecht gesetzt.
-- [08.11., 04:46] **Auszeichnung - Ehemaliger US-General Ben Hodges erhält Point-Alpha-Preis 2026** — Der ehemalige Oberkommandierende der US-Landstreitkräfte in Europa, Ben Hodges, hat den Point-Alpha-Preis 2026 erhalten.
-- [08.11., 04:46] **Südamerika-Reise - Papst Leo XIV. feiert Messe in Paysandú** — Papst Leo XIV. hat bei der ersten Messe während seiner Südamerika-Reise dazu aufgerufen, Brücken zu bauen.
-- [08.11., 04:46] **Interview der Woche - Pistorius sieht Personalplanung der Bundeswehr auf gutem Weg - erstmal keine Wehrpflicht nötig** — Die Personalplanung der Bundeswehr ist nach den Worten von Verteidigungsminister Pistorius auf einem guten Weg. Zur Zeit ist eine Wiedereinführung der Wehrpflicht demnach nicht nötig. Pistorius sagte im Interview der Woche des …
-- [08.11., 04:46] **Skandal um Ueno-Bank - Staatsanwaltschaft in Paraguay erhebt Anklage - abgesetzter Präsident Peña in Untersuchungshaft** — In Paraguay hat die Staatsanwaltschaft Anklage gegen den abgesetzten Präsidenten Peña erhoben.
-- [08.11., 04:46] **Rechte Verlage - Besucherschlangen und Protest vor umstrittener Buchmesse "Seitenwechsel" in Halle** — In Halle läuft die zweite Ausgabe der umstrittenen Buchmesse "Seitenwechsel". Mehr als 140 Autoren und Verlage sind dabei, darunter bekannte Namen aus der rechtsextremen Szene. Für morgen ist Protest angekündigt.
-- [08.11., 04:46] **Fußball-Bundesliga - Siege für Stuttgart, Dortmund, Leipzig und Bayern** — In der Fußball-Bundesliga hat der VfB Stuttgart hat den Vormarsch des SV Werder Bremen vorerst gestoppt. Vier Tage nach dem frustrierenden 0:2 in der Champions League bei Galatasaray Istanbul siegten die Schwaben 1:0 und sprangen mit nun …
-- [08.11., 04:46] **Nach CAS-Urteil - Eishockey-WM in Deutschland mit Russland? Weltverband IIHF spielt auf Zeit** — Im Streit um eine Teilnahme Russlands an der Eishockey-Weltmeisterschaft im kommenden Jahr in Deutschland spielt der Weltverband IIHF auf Zeit. Die "International Ice Hockey Federation" kündigte in Zürich an, für das weitere Vorgehen - …
-- [08.11., 04:46] **Wetter - Am Sonntag bewölkt oder trüb, örtlich Regen, im Süden und Osten Aufheiterungen** — Das Wetter: Heute früh und am Vormittag stark bewölkt, oft trüb, im Osten teils dichter Nebel. Örtlich etwas Regen. Im Tagesverlauf vor allem im äußersten Süden und Südwesten sowie Richtung Oder und Neiße teils größere Aufheiterungen. …
+- [08.11., 06:18] **Jerusalem - Israels Präsident Herzog beauftragt Oppositionspolitiker Eisenkot mit Regierungsbildung** — Der israelische Präsident Herzog wird den Oppositionspolitiker Eisenkot mit der Regierungsbildung beauftragen. Ein Sprecher des Präsidenten sagte, Eisenkot sei von Herzog für heute in dessen Amtssitz in Jerusalem eingeladen worden.
+- [08.11., 06:18] **Polen - Tödliche Schüsse in Krakau: Täter offenbar mit rechtsextremer Ideologie - auch Ausländer unter Opfern** — Nach den tödlichen Schüssen in der polnischen Großstadt Krakau hat die Regierung neue Details zu dem Vorfall bekanntgegeben. Premierminister Tusk teilte am Abend mit, dass an der Wohnadresse des Täters drei weitere Leichen gefunden worden …
+- [08.11., 06:18] **Polen - Schüsse in Krakau: Europäische Spitzenpolitiker senden Botschaften der Solidarität** — Politiker in Europa haben schockiert auf die tödlichen Schüsse in Krakau reagiert. EU-Kommissionspräsidentin von der Leyen übermittelte den Familien der Opfer ihr herzlichstes Beileid.
+- [08.11., 06:18] **146.000 demonstrieren - Frankreich: Erneut Ausschreitungen und Gewalt bei Protesten** — In mehreren französischen Städten ist es bei erneuten Protesten zu Gewalt gekommen.
+- [08.11., 06:18] **Asien - Erdbeben in Japan: Berichte über mindestens 22 Verletzte nach** — In Zentraljapan hat es ein Erdbeben gegeben.
+- [08.11., 06:18] **Steinmeier-Nachfolge - CDU-Präsidium berät in Berlin** — In Berlin kommt am Abend das CDU-Präsidium zu Beratungen über die Nachfolge von Bundespräsident Steinmeier zusammen.
+- [08.11., 06:18] **Digitaler Bundesparteitag - FDP will "modernste Partei Deutschlands" werden - Beratungen über Parteireform** — Die FDP berät heute über ihren weiteren politischen Kurs.
+- [08.11., 06:18] **Diskussion um SPD-Vorsitz - Klingbeil lässt erneute Kandidatur offen** — Der SPD-Vorsitzende Klingbeil hat offengelassen, ob er im Januar erneut als Parteichef antreten wird.
+- [08.11., 06:18] **Rassismusdebatte - "Inakzeptabel": Hessens Wirtschaftsminister Mansoori (SPD) kritisiert Europaminister Pentz (CDU) für Online-Kommentar** — In Hessen sorgt ein Online-Kommentar von Europaminister Pentz weiter für Kritik.
+- [08.11., 06:18] **UFC - Trump will Kampfsportverbandschef Dana White als Pressesprecher** — US-Präsident Trump hat dem Präsidenten des Kampfsportverbands UFC, White, den Posten des Pressesprechers im Weißen Haus angeboten.
+- [08.11., 06:18] **Pro-iranische Miliz - Huthis melden 27 Tote und 36 Verletzte nach Luftangriffen auf Dorf im Jemen** — Die Huthi-Miliz wirft der von Saudi-Arabien geführten Militärkoalition vor, im benachbarten Jemen zahlreiche Zivilisten getötet oder verletzt zu haben.
+- [08.11., 06:18] **Golf von Oman - US-Militär beschießt Handelsschiff** — Das US-Militär hat im Golf von Oman auf ein Handelsschiff geschossen und es außer Gefecht gesetzt.
+- [08.11., 06:18] **Auszeichnung - Ehemaliger US-General Ben Hodges erhält Point-Alpha-Preis 2026** — Der ehemalige Oberkommandierende der US-Landstreitkräfte in Europa, Ben Hodges, hat den Point-Alpha-Preis 2026 erhalten.
+- [08.11., 06:18] **Südamerika-Reise - Papst Leo XIV. feiert Messe in Paysandú** — Papst Leo XIV. hat bei der ersten Messe während seiner Südamerika-Reise dazu aufgerufen, Brücken zu bauen.
+- [08.11., 06:18] **Interview der Woche - Pistorius sieht Personalplanung der Bundeswehr auf gutem Weg - erstmal keine Wehrpflicht nötig** — Die Personalplanung der Bundeswehr ist nach den Worten von Verteidigungsminister Pistorius auf einem guten Weg. Zur Zeit ist eine Wiedereinführung der Wehrpflicht demnach nicht nötig. Pistorius sagte im Interview der Woche des …
+- [08.11., 06:18] **Skandal um Ueno-Bank - Staatsanwaltschaft in Paraguay erhebt Anklage - abgesetzter Präsident Peña in Untersuchungshaft** — In Paraguay hat die Staatsanwaltschaft Anklage gegen den abgesetzten Präsidenten Peña erhoben.
+- [08.11., 06:18] **Rechte Verlage - Besucherschlangen und Protest vor umstrittener Buchmesse "Seitenwechsel" in Halle** — In Halle läuft die zweite Ausgabe der umstrittenen Buchmesse "Seitenwechsel". Mehr als 140 Autoren und Verlage sind dabei, darunter bekannte Namen aus der rechtsextremen Szene. Für morgen ist Protest angekündigt.
+- [08.11., 06:18] **Fußball-Bundesliga - Siege für Stuttgart, Dortmund, Leipzig und Bayern** — In der Fußball-Bundesliga hat der VfB Stuttgart hat den Vormarsch des SV Werder Bremen vorerst gestoppt. Vier Tage nach dem frustrierenden 0:2 in der Champions League bei Galatasaray Istanbul siegten die Schwaben 1:0 und sprangen mit nun …
+- [08.11., 06:18] **Nach CAS-Urteil - Eishockey-WM in Deutschland mit Russland? Weltverband IIHF spielt auf Zeit** — Im Streit um eine Teilnahme Russlands an der Eishockey-Weltmeisterschaft im kommenden Jahr in Deutschland spielt der Weltverband IIHF auf Zeit. Die "International Ice Hockey Federation" kündigte in Zürich an, für das weitere Vorgehen - …
+- [08.11., 06:18] **Wetter - Verbreitet stark bewölkt oder trüb, örtlich etwas Regen** — Der Wetterbericht, die Lage: Eine Hochdruckzone über Osteuropa bestimmt in weiten Teilen Deutschlands das Wetter. Im Südwesten macht sich schwacher Tiefdruckeinfluss mit feuchteren Luftmassen bemerkbar, die sich langsam nordwärts …
 
 ## FAZ
 
+- [08.11., 06:04] **USA unter Trump: Trump setzt das Justizministerium auf die Demokraten an** — Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ
 - [08.11., 05:22] **Digitalbranche: Preisschock zu Weihnachten: KI-Chips verteuern Elektronik** — Teure Speicherchips trüben das Festgeschäft: Weil gedrosselte Produktion auf den weltweiten KI-Boom trifft, steigen die Preise für Laptops, Handys und Hardware deutlich an – teils schon um bis zu 40 Prozent.
-- [08.11., 03:43] **USA unter Trump: Trump beauftragt Justizministerium mit Untersuchung gegen Demokraten** — Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ
 - [08.11., 03:07] **U-Haft: Staatsanwaltschaft in Paraguay erhebt Anklage gegen abgesetzten Präsidenten** — Die Staatsanwaltschaft wirft Santiago Peña im Zusammenhang mit einem Bankenskandal Misswirtschaft zum persönlichen Vorteil vor. Der am Freitag seines Amtes enthobene Präsident muss in Untersuchungshaft.
 - [08.11., 01:40] **Attentat in Polen: Nach Schüssen in Krakau: Drei weitere Leichen im Haus von mutmaßlichem Schützen gefunden** — In polnischen Stadt Krakau werden sechs Menschen durch Schüsse getötet. Mehrere Verletzte befinden sich in Lebensgefahr. Ministerpräsident Donald Tusk spricht von „Terrorismus“.
 - [08.11., 01:35] **Liveblog Nahost: Laut Iran brennen zwei Öltanker in der Straße von Hormus** — Teheran: Schiffe sind auf Minen aufgelaufen +++ Pistorius drängt auf Entscheidung über Einsatz in Straße von Hormus +++ USA bieten Millionen Dollar für Informationen über Irans Atomprogramm +++ alle Entwicklungen im Liveblog
@@ -85,6 +85,7 @@ Status: Tagesschau: 25 · Deutschlandfunk: 20 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 ## Spiegel
 
+- [08.11., 06:02] **Krakau, Polen: Was über die Todesschüsse bekannt ist** — Ein 24-jähriger Pole hat in Krakau wahllos auf Passanten geschossen und sechs Menschen getötet. Unter den 15 Verletzten ist auch eine Person aus Deutschland. Im Haus des Schützen entdeckten Ermittler drei weitere Leichen. Der Überblick.
 - [08.11., 05:30] **Beziehung: Wie Sie nach Enttäuschungen wieder lieben lernen** — Eine große Enttäuschung, Liebeskummer über Jahre, blind für Neuanfänge: Hier erklärt eine Psychologin, ob Liebe süchtig machen kann. Und wie Sie es schaffen, den Kopf wieder freizubekommen.
 - [08.11., 04:32] **Donald Trump bietet UFC-Chef Dana White Job als Sprecher an – der will nach Washington reisen** — Der bekennende Käfigkampf-Fan Donald Trump möchte Sportveranstalter Dana White zu seinem Pressesprecher machen: »Bitte nimm den Job an!« Der UFC-Chef spielt schon mal mit der Idee.
 - [08.11., 03:58] **Adam Driver: Schauspieler erteilt »Girls«-Revival und »Star Wars« Absage** — Mit der TV-Serie »Girls« wurde Schauspieler Adam Driver berühmt. Nun hat er sich erstmals zu der angekündigten Neuauflage geäußert. Außerdem erklärt er, warum er nicht mehr als Kylo Ren zu sehen sein wird.
@@ -109,28 +110,28 @@ Status: Tagesschau: 25 · Deutschlandfunk: 20 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [07.11., 17:49] **Berlin-Marzahn: Polizei sucht vermisste 13-Jährige, sieht Anhaltspunkte für Verbrechen** — In Berlin wird seit Tagen eine 13-jährige Schülerin vermisst. Zahlreiche Polizisten suchen nach dem Mädchen, teils mit Hubschraubern und Spürhunden.
 - [07.11., 17:48] **Fußball-Bundesliga: Bayern München und Borussia Dortmund siegen im Gleichschritt** — Der FC Bayern und Borussia Dortmund siegen in der Fußball-Bundesliga weiter und bleiben punktgleich an der Tabellenspitze. Einzig Manuel Neuer hatte bei den Münchnern einen gebrauchten Tag.
 - [07.11., 17:26] **Verletzt im Studium: Wenn der Lebensplan zu scheitern droht** — Eine Sehnenscheidenentzündung bremste Helena im Musikstudium aus, ein Handgelenksbruch stoppte Lena kurz vor dem Referendariat. Zwei Studentinnen erzählen, wie man weitermacht, wenn sich der vorgezeichnete Weg ändert.
-- [07.11., 16:52] **USA: Festnahme am Weißen Haus – Verdächtiger hörte Stimmen, die ihn aufforderten, Donald Trump zu töten** — Sicherheitskräfte haben in der Nähe des Weißen Hauses einen Mann festgenommen, der es auf Donald Trump abgesehen haben soll: Der Verdächtige hörte Stimmen, die ihn aufforderten, den US-Präsidenten zu töten, hieß es.
 
 ## Zeit
 
-- [08.11., 05:35] **2. Fußball-Bundesliga: Darmstadt-Frust im Abstiegskampf: «Beschissene Situation»**
-- [08.11., 05:30] **Landesparteitag: Gaza-Debatte der Grünen: Hamburg warnt vor Antisemitismus**
-- [08.11., 05:25] **Ungewöhnlich großes Parlament: Neuseeland steht nach Wahl vor wochenlangem Machtpoker**
+- [08.11., 06:30] **Premiere 2027 in Berlin: «Wind Of Change»: Scorpions würden Film gerne in Kiew zeigen**
+- [08.11., 06:30] **Tierisches Vergnügen: Eisbär zieht bald weiter - Hamburger Bärin schwanger?**
+- [08.11., 06:14] **Unser Personal Trainer: Das seitliche Balancieren mit Drehung** — Kennen Sie Ihren Vestibularapparat? Dann wird es Zeit. In unserer Übung der Woche balancieren wir, lernen unser Gleichgewichtsorgan kennen und stimulieren es.
+- [08.11., 06:14] **Unser Personal Trainer: Das seitliche Balancieren mit Drehung** — Kennen Sie Ihren Vestibularapparat? Dann wird es Zeit. In unserer Übung der Woche balancieren wir, lernen unser Gleichgewichtsorgan kennen und stimulieren es.
+- [08.11., 06:14] **Grundschullehrerin: »Ich finde es falsch, dass Lehrkräfte verbeamtet werden«** — Pia, 34, ist Lehrerin und hat sich aus Überzeugung gegen die Privilegien einer Verbeamtung entschieden. Finanziell kommt sie auch so gut zurecht. Der Kontoauszug
+- [08.11., 06:09] **Polen: Was wir über die Schüsse in Kraków wissen** — In der Innenstadt von Kraków hat ein Mann sechs Menschen erschossen, im Haus des Tatverdächtigen fand die Polizei drei weitere Tote. Was wir bisher wissen und was nicht.
+- [08.11., 06:06] **Ilse Aigner: Was Sie jetzt über Ilse Aigner wissen müssen** — Ilse Aigner soll Bundespräsidentin werden. Was bringt sie für das höchste Staatsamt mit? Und: Nach 35 Jahren endet die UN-Mission in der Westsahara – ohne Frieden.
+- [08.11., 06:05] **Fußball-Bundesliga: «Kurze Ecke hoch»: Bruder-Tipp hilft Stuttgarts Mittelstädt**
+- [08.11., 06:00] **DDR-Geschichte: Befehle aus dem Wald: Das ist der DDR-Bunker für einen Krieg**
+- [08.11., 06:00] **Hochschulen: Preise für Mensaessen im Nordosten bleiben stabil**
+- [08.11., 06:00] **Sparpläne: Kieler Uni kündigt deutlichen Personalabbau an**
+- [08.11., 06:00] **Invasiver Schädling: Gefräßiger Schädling aus Asien: Gut 1.600 Japankäfer im Land**
+- [08.11., 06:00] **Havelstadt Brandenburg: Theater sucht neue Leitung - Loos bleibt interessiert**
 - [08.11., 05:23] **Dana White: Donald Trump will UFC-Chef als nächsten Regierungssprecher** — Der US-Präsident hat Dana White den Posten als Sprecher seiner Regierung angeboten. Der Kampfsportunternehmer kündigte eine Reise zu Gesprächen nach Washington an.
-- [08.11., 05:22] **Fußball: «So oft nachgespielt»: Traum der Bellingham-Brüder wird wahr**
-- [08.11., 05:15] **Enkeltrick: Schaden durch Betrug an Senioren übersteigt 40 Millionen**
-- [08.11., 05:00] **Aigner vor der Nominierung: Was die Entscheidung in der P-Frage bedeutet**
-- [08.11., 05:00] **Prozessbeginn in Aachen: Prozess nach Sprengsatz-Angriff im ICE beginnt**
-- [08.11., 05:00] **Polarisierte Debatte: Entscheidung in Streit um Nationalpark Rothaarkamm steht an**
 - [08.11., 04:32] **Bankenskandal in Paraguay: Paraguays abgesetzter Präsident Peña muss in Untersuchungshaft** — Wegen möglicher Fluchtgefahr ist Ex-Präsident Santiago Peña in einer Kaserne untergebracht worden. Die Staatsanwaltschaft wirft ihm Untreue und Selbstbegünstigung vor.
-- [08.11., 04:14] **Polen: Was wir über die Schüsse in Kraków wissen** — In der Innenstadt von Kraków hat ein Mann sechs Menschen erschossen, unter den Verletzten ist auch eine Person aus Deutschland. Was wir bisher wissen und was nicht.
-- [08.11., 04:08] **Polen: Sechs Tote und mehrere Verletzte nach Schüssen in Kraków** — Ein Mann hat in Kraków sechs Menschen erschossen und 15 verletzt. Die polnische Regierung vermutet ein rechtsextremes Motiv und kündigt eine zweitägige Staatstrauer an.
-- [08.11., 03:51] **Midterms: Trump fordert Justizministerium zu Ermittlungen gegen Demokraten auf** — Nach der Wahlniederlage seiner Partei fordert Donald Trump erneut Untersuchungen gegen die Demokraten. Er schürt entgegen früherer Aussagen zudem Zweifel am Wahlergebnis.
-- [08.11., 03:10] **Union: CDU-Präsidium berät über nächstes Staatsoberhaupt** — Am Abend will das CDU-Präsidium über die Nachfolge von Frank-Walter Steinmeier diskutieren. Es wird erwartet, dass die Wahl auf die CSU-Politikerin Ilse Aigner fällt.
-- [08.11., 00:46] **Krieg im Jemen: Huthi-Miliz meldet mehr als 30 Tote bei Angriff auf Dorf im Jemen** — Bei einem Luftangriff nahe der jemenitischen Hauptstadt Sanaa sollen zahlreiche Menschen getötet worden sein. Die Huthi-Miliz macht Saudi-Arabien verantwortlich.
 
 ## NZZ
 
+- [08.11., 05:59] **Israels Präsident Herzog beauftragt Netanyahu-Gegner Eisenkot mit der Regierungsbildung** — Der Oppositionspolitiker Eisenkot erhält den Auftrag zur Regierungsbildung. Ihm stehen schwierige Koalitionsverhandlungen bevor.
 - [08.11., 05:30] **Kündigung vor dem ersten Arbeitstag: Der Mann, der beim Traditionskonzern Rieter beinahe CEO wurde** — Daniel Lippuner hätte diese Woche seine Stelle als Chef des Winterthurer Textilmaschinenherstellers antreten sollen. Stattdessen steht er nun als geldgieriger Industriemanager da.
 - [08.11., 05:30] **«Die Zölle sind nicht vom Tisch. Aber es gibt eine republikanische Mehrheit, die sie nicht mitträgt», sagt Joseph Stiglitz** — Für den Wirtschaftsnobelpreisträger ist klar: Der US-Präsident wird es mit dem Kongress schwerer haben. Auch weil viele Republikaner sagen: «Hör zu, wir wollen eine Chance haben, 2028 zu gewinnen.»
 - [08.11., 05:30] **Flüchtige Affäre, Liebesbeziehung oder «dauernde Lebensgemeinschaft»? Über die Mühe des Staates, das amouröse Treiben seiner Bürgerinnen und Bürger zu definieren** — Wann ist ein Paar ein richtiges Paar? Und gelten für Richter dabei strengere Regeln? Ein Streifzug durch die Untiefen der Beziehungslehre, die das Bundesgericht diese Woche teilweise neu definiert hat.
@@ -146,7 +147,6 @@ Status: Tagesschau: 25 · Deutschlandfunk: 20 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [08.11., 05:30] **Maga ist Geschichte – was kommt als Nächstes?** — Die Republikanische Partei steht nach den desaströsen Zwischenwahlen vor einem Neuanfang. Die ersten potenziellen Erben von Donald Trump bringen sich schon in Stellung.
 - [08.11., 05:30] **Autowunderland China? Mitnichten. Mit Überkapazitäten und staatlicher Förderung gräbt sich das Land sein eigenes Grab** — Rund 100 Automobilhersteller gibt es derzeit in China, doch die heimische Nachfrage sinkt rapid. Dem Staatschef Xi aber scheint die Kontrolle über die Wirtschaft wichtiger als deren Konsolidierung.
 - [08.11., 05:30] **Neue Zeiten am Golf: Während Trump wie gelähmt scheint, baut Iran an einer regionalen Ordnung – ohne die USA** — Die Islamische Republik sucht mit einem Mal Sicherheit mit ihren Nachbarn am Golf und die Unterstützung durch China und Russland. Alle vereint, dass sie keine Rolle mehr für die Amerikaner sehen.
-- [08.11., 05:30] **John Malkovich, Lars Eidinger und ein viel zu jung gestorbenes Jazz-Wunderkind. Die Kulturtipps der NZZ am Sonntag** — Das müssen Sie gesehen, gehört oder gelesen haben
 
 ## BBC World
 
@@ -192,7 +192,7 @@ Status: Tagesschau: 25 · Deutschlandfunk: 20 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [07.11., 16:00] **‘Life-changing’: parents welcome £10m UK play centre for disabled children** — <p>Gympanzees near Bristol will be the first UK site of its type, catering for children unable to use regular playgrounds</p><p>It has been over a decade since Stephanie Wheen set out to create the UK’s first play and leisure centre …
 - [07.11., 14:12] **New Zealand election coalition talks will likely take weeks – as it happened** — <ul><li><p>This blog is closed, you can <a href="https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count">read our report on the New Zealand election here</a></p></li></ul><p>Another update here with …
 - [07.11., 14:03] **Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid** — <p>Moscow used 172 drones and 36 ballistic missiles in attacks on electricity substations and bridge over the Dnipro</p><p>Volodymyr Zelenskyy <a href="https://x.com/ZelenskyyUa/status/2118984748332654705">has accused</a> Russia of trying …
-- [07.11., 14:00] **Trump’s elevation of Stephen Miller is a middle finger to millions of voters** — <p>Architect of Trump’s far-right immigration agenda is now most powerful unelected figure in government – it suggests White House is moving to a war footing</p><p>Donald Trump just gave the middle finger to millions of American …
+- [07.11., 14:00] **Trump’s elevation of Stephen Miller a middle finger to millions of voters** — <p>Architect of Trump’s far-right immigration agenda is now most powerful unelected figure in government – it suggests White House is moving to a war footing</p><p>Donald Trump just gave the middle finger to millions of American …
 - [07.11., 14:00] **Court rules against Home Office in asylum seeker kidnapping case** — <p>Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in Libya</p><p>The court of appeal has rejected claims by the Home Office that being kidnapped for ransom …
 - [07.11., 10:15] **Home Office sued after stripping almost 1,500 EU citizens of right to live in UK** — <p>Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’</p><p>The Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens …
 - [07.11., 08:00] **Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections** — <p>Trump still considering new assault on Iran nuclear sites – though threats less credible after Vance remarks</p><p>Qatar, the lead mediator in the US-Iran conflict, is seeking to persuade Tehran to allow UN nuclear weapons inspectors to …
