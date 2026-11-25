@@ -1,11 +1,14 @@
 # Feed-Schnappschuss
 
-Erstellt: 25.11., 05:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
+Erstellt: 25.11., 06:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
 Automatisch erzeugt von .github/workflows/feeds.yml — nicht von Hand bearbeiten.
 Status: Tagesschau: 25 · Deutschlandfunk: 22 · FAZ: 25 · Spiegel: 25 · Zeit: 15 · NZZ: 16 · BBC World: 25 · Guardian World: FEHLER (HTTP 403)
 
 ## Tagesschau
 
+- [25.11., 06:28] **Deutsche Industrie: Wo es hakt und wo es rund läuft** — Die Aussichten für die Wirtschaft haben sich zuletzt verbessert. Doch es gibt große Unterschiede: Während in manchen Branchen Firmen ums Überleben kämpfen, läuft das Geschäft anderswo prächtig. Ein Überblick von Axel John.
+- [25.11., 06:18] **Israel nach der Wahl: Schwierige Sondierungen zwischen Rivalen** — In Israel bleibt Gadi Eisenkot nicht mehr viel Zeit, eine Regierung zu bilden. Aktuell laufen die Gespräche mit Netanjahus Likud-Partei. Dabei gibt es große Differenzen - und kaum Alternativen. Von J. Segador.
+- [25.11., 06:12] **Theaterstück in Berlin: Wenn Spätis verschwinden** — Immer öfter müssen Spätis oder Kneipen schließen. Dabei sind sie essenziell für den sozialen Zusammenhalt. Was dieser Verlust für die Gesellschaft bedeutet, hinterfragen ein Bühnenstück und ein Soziologe. Von Regine Bruckmann.
 - [25.11., 05:08] **US-Medienberichte: Trump plant wohl neue Zölle - auch gegen die EU** — Die US-Regierung bereitet offenbar neue Zölle gegenüber China, der EU und weiteren Ländern vor. Der Schritt erfolgt, nachdem die Zölle vom Supreme Court als illegal eingestuft wurden.
 - [25.11., 05:06] **tagesschau in 100 Sekunden**
 - [25.11., 05:00] **Keine schnelle Lösung bei Gewalt gegen Frauen** — Der heutige Orange Day steht für eine Zukunft ohne Gewalt gegen Frauen. Doch die Realität sieht anders aus. Strafverschärfungen und Gesetzesänderungen sind angestoßen, aber schnelle Lösungen sind nicht in Sicht. Von A. Lagmöller.
@@ -28,9 +31,6 @@ Status: Tagesschau: 25 · Deutschlandfunk: 22 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [24.11., 19:47] **Berliner Linke schließt Emde aus Fraktion aus** — Wochenlang diskutierten Grüne, SPD und Linke in Berlin über die Personalie Emde. Die Abgeordnete steht wegen ihrer Positionen zu Israel in der Kritik. Nun hat die Fraktion mit der nötigen Mehrheit für ihren Ausschluss gestimmt.
 - [24.11., 19:39] **Polizei vermutet Destabilisierung als Ziel der Drohmails gegen Schulen** — Die per Mail verschickten Bombendrohungen haben am Montag deutlich mehr Schulen erreicht als zunächst angenommen. Die Polizei vermutet eine gezielte Aktion zur Verunsicherung.
 - [24.11., 19:21] **CAS-Urteil: Senegal erhält Afrika-Cup-Titel zurück** — Nächste Wende im Streit um den Afrika-Cup: Der Internationale Sportgerichtshof CAS hat dem sportlichen Sieger Senegal den Titel wieder zuerkannt und damit Marokko zum Verlierer erklärt.
-- [24.11., 18:36] **Erste Verhandlungsrunde bei VW endet ergebnislos** — Volkswagen will ein riesiges Sparpaket durchsetzen. Die erste Verhandlungsrunde ist beendet, beide Seiten sind im Tarifstreit nach wie vor weit voneinander entfernt. Mitte Dezember gehen die Gespräche weiter.
-- [24.11., 18:36] **Marktbericht: DAX fällt zurück, Tech-Aktien sinken** — Ist der Kurssprung der Nvidia-Aktie wegen der Rückkehr von Konzernchef Huang schon wieder abgehakt? Heute mehren sich jedenfalls die Zweifel. Und nicht nur das Papier des US-Chipkonzerns rutscht ab.
-- [24.11., 18:21] **Steinmeier appelliert an Wirtschaft: Chancen in Afrika nutzen** — Bisher gehen nur 1,8 Prozent der deutschen Exporte nach Afrika. Dabei leben auf dem Kontinent 1,6 Milliarden Menschen. Von "ungenutzten wirtschaftlichen Chancen" spricht Bundespräsident Steinmeier in Ghana.
 
 ## Deutschlandfunk
 
@@ -59,6 +59,13 @@ Status: Tagesschau: 25 · Deutschlandfunk: 22 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 ## FAZ
 
+- [25.11., 06:18] **Attacken in der Ostsee: Droht ein Angriff auf russische Schiffe vor der deutschen Küste?** — Vor Fehmarn patrouilliert eine russische Fregatte. Könnte sie zum Ziel werden? Fachleute halten Angriffe für möglich – sehen für Kiew aber große Risiken.
+- [25.11., 06:17] **Müll in der Stadt: Frankfurt beginnt neue Sauberkeitsoffensive** — Die Koalition aus CDU, Grünen, SPD und dem Kooperationspartner Volt will beim Thema Sauberkeit neue Wege gehen. Teams aus Stadtpolizei, FES und Sauberkeitslotsen gehen künftig gegen achtlos weggeworfenen Müll vor.
+- [25.11., 06:12] **„Blade Runner 2099“: Bist du ein Replikant oder tust du nur so?** — Der „Blade Runner“ als Serie, die Fragen nach Sein oder Nichtsein, nach Mensch und Maschine neu gestellt. Das klingt nach einem famosen Plan. Doch was hat die Showrunnerin Silka Luisa daraus bloß gemacht?
+- [25.11., 06:00] **Hilfe in Darmstadt: Wohnungen für Obdachlose ohne Vorbedingung** — In einem Pilotprojekt wird Obdachlosen in Darmstadt ein Zuhause vermittelt, begleitet von sozialer Betreuung. Die Wohnung soll ein selbständiges Leben ermöglichen.
+- [25.11., 05:57] **Kolumbien: Angreifer verschanzen sich mit 20 Geiseln in Supermarkt** — Nach einem versuchten Überfall auf einen Geldtransporter flüchten die bewaffneten Täter in einen Supermarkt. Sie nehmen Geiseln und stellen Forderungen.
+- [25.11., 05:45] **Vertretung geschlossen: Nordkorea weist offenbar Schweizer Gesandten aus** — Laut nordkoreanischem Außenministerium müsse er binnen 48 Stunden das Land verlassen. Anlass seien die Schweizer Sanktionen gegen das Kinderlager Songdowon.
+- [25.11., 05:33] **Streitfrage unter Eltern: Wer mehr Geld verdient, verdient mehr Freizeit?** — Unsere Autorin berät ein Paar mit ungleichen Gehältern: Während der Mann Sport treibt und Freunde trifft, kümmert sich die Frau ums Kind. Aber verdient der Mann durch sein höheres Gehalt wirklich auch mehr Freizeit?
 - [25.11., 05:04] **Liveblog Ukrainekrieg: Selenskyj: Lukaschenkos Begleitschutz-Angebot ist unseriös** — Lukaschenko möchte Selenskyj nach Moskau begleiten +++ Ukraine: Zwei Tote bei russischem Angriff auf Region Odessa +++ Papst Leo XIV. gratuliert russischem Patriarchen Kyrill I. +++ alle Neuigkeiten im Liveblog
 - [25.11., 04:36] **Business-Ticker: Huawei weist US-Urteil wegen Industriespionage zurück** — China Southern beschert Boeing größten China-Auftrag seit fast zehn Jahren +++ US-Präsident verdiente nach Huangs Rückkehr mehrere Millionen Dollar mit Nvidia-Aktien +++ alle Neuigkeiten im Unternehmen-Liveblog
 - [25.11., 04:25] **Künstliche Intelligenz: Deutschland hinkt beim Einkaufen mit KI hinterher** — Das Einkaufen verändert sich. Künstliche Intelligenz wird für viele zum festen Berater. Allerdings werden die Tools hierzulande noch vergleichsweise wenig genutzt. Warum eigentlich?
@@ -77,16 +84,13 @@ Status: Tagesschau: 25 · Deutschlandfunk: 22 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [24.11., 20:39] **Bayern-Coach Kompany: „Uns fehlen 130 Tore“** — Wer soll ohne Kane und Olise die Tore für den FC Bayern in Lille schießen? Auf die Rückkehrer Musiala und Díaz will Trainer Kompany keinen Druck aufbauen.
 - [24.11., 20:20] **Koalitionsverhandlungen: Was Emdes Ausschluss für Rot-Grün-Rot in Berlin bedeutet** — Für Linken-Bürgermeisterkandidatin Elif Eralp ist ein großes Hindernis aus dem Weg geräumt. Rot-Grün-Rot muss aber mit weiteren Unwägbarkeiten rechnen.
 - [24.11., 20:15] **Israelfeindliche Bands: Wer haftet für einen „unvereinbaren Widerspruch“?** — Klare Absage an Gewalt und Intoleranz, aber Hamas-Unterstützung auf der Bühne? Das Wiesbadener Kulturzentrum Schlachthof steht im Verdacht, beim Thema Antisemitismus zum Lippenbekenntnis zu tendieren.
-- [24.11., 19:58] **Wahlkampf in Spanien: Normalerweise geht es um Gaming – jetzt kommt der Regierungschef** — Spaniens Spitzenpolitiker lassen sich vor der Wahl vom erfolgreichsten Youtuber interviewen. Sie zielen auf junge Wähler – die zuletzt weit nach rechts gerückt sind.
-- [24.11., 19:54] **Rohstoffe für die Industrie: Mit dem Edeka-Modell von China unabhängiger werden** — Die deutsche Wirtschaft will mit einem eigenen Handelshaus ihre Position gegenüber China stärken. Doch die wichtigen Rohstoffe könnten auch für den Staat teuer werden.
-- [24.11., 19:52] **Rhein-Main-Liveblog: Bagger beschädigt Gasleitung in Mörfelden-Walldorf** — Was ist los in Frankfurt & Hessen? Lesen Sie aktuelle News & Nachrichten im News-Ticker von heute ► Was heute wichtig ist, erfahren Sie bei der F.A.Z.
-- [24.11., 19:32] **Preis für F.A.Z.-Fotograf: Sonnenanbeter zu bestem Pressefoto 2026 gekürt** — Die Aufnahme eines Naturschauspiels ist das Pressefoto des Jahres 2026. Dafür wird der F.A.Z.-Redaktionsfotograf Lucas Bäuml mit dem Hauptpreis des Wettbewerbs geehrt.
-- [24.11., 19:27] **Klimaresiliente Wälder: Die Finanzierung des Waldumbaus bleibt schwierig** — Der Waldumbau ist ökologisch erfolgreich, aber wirtschaftlich belastend. Das Thünen-Institut sieht ein „Ungleichgewicht“, weil vor allem die Waldeigentümer zahlen.
-- [24.11., 19:26] **Deutsche Arznei: Bayer probt den Medikamenten-Boykott** — Den Wirkstoff Finerenon hat Bayer in Deutschland entwickelt und produziert sein Medikament Kerendia auch hierzulande. Warum deutsche Patienten trotzdem darauf verzichten müssen.
-- [24.11., 19:24] **Deutschland Liveblog: Emde: Mediale Hetzkampagne hat Wirkung gezeigt** — Linkenfraktion in Berlin schließt Vanessa Emde aus +++ Berliner Grüne begrüßen Ausschluss – CDU spricht von „Bauernopfer auf dem Weg zur Macht“ +++ alle Entwicklungen im Liveblog
 
 ## Spiegel
 
+- [25.11., 06:00] **Gefährliche Bromance: Warum die Rückkehr von Nvidia-Chef Huang für Trump zum Problem werden könnte** — Der US-Präsident intervenierte, um Jensen Huang zurück an die Spitze von Nvidia zu manövrieren – und die Talfahrt an der Börse zu stoppen. Zuletzt brüstete sich Donald Trump mit dem Coup. Doch ausgestanden ist diese Affäre längst nicht.
+- [25.11., 05:43] **Klimapolitik: Neun Fakten, die für den Kampf gegen die Erderwärmung sprechen** — Scheitert der Kampf gegen die Erderwärmung? In dunklen Zeiten wie diesen könnte man darauf kommen. Aber die Liste der unglaublichen Erfolge ist lang. Hier ist eine aktuelle Shortlist.
+- [25.11., 05:40] **Der FC St. Pauli sucht eine neue Stadionhymne. Warum sind alle fünf Vorschläge so stumpf?**
+- [25.11., 05:38] **Wechseljahre: Mehr als jede zweite Frau in der Lebensmitte fühlt sich gesundheitlich nicht gut** — Mehr als die Hälfte der erwerbstätigen Frauen zwischen 35 und 55 fühlt sich gesundheitlich nicht gut. Die Arbeitswelt ist schlecht auf familiäre Belastung und Wechseljahre ausgerichtet. Ein Report zeigt das Ausmaß des Problems.
 - [25.11., 05:30] **Kfz-Versicherung: Wie ich in die Rabattschutz-Falle getappt bin** — Bis zum 30. November können Sie Ihre Autoversicherung wechseln. Aber es gibt einen Fehler, den Sie dabei nicht machen sollten. Ich hab ihn für Sie ausprobiert.
 - [25.11., 05:23] **News: Generaldebatte im Bundestag, mehr Anzeigen wegen Gewalt gegen Frauen, Tarifverhandlungen in der Metallindustrie** — Friedrich Merz tritt in der Generaldebatte des Bundestags ans Rednerpult. Die Polizei meldet mehr angezeigte Gewalt gegen Frauen. Und in der Metallindustrie wird nach Warnstreiks wieder verhandelt. Das ist die Lage am Mittwochmorgen.
 - [25.11., 05:05] **Nordkorea: Schweiz muss Vertretung in Pjöngjang schließen** — Die Schweiz ist eines der wenigen Länder, die eine diplomatische Vertretung in Pjöngjang unterhalten. Doch nun muss das Büro schließen. Auslöser des Eklats sind Sanktionen gegen ein umstrittenes Ferienlager.
@@ -103,33 +107,29 @@ Status: Tagesschau: 25 · Deutschlandfunk: 22 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [24.11., 22:17] **Rudy Giuliani: Trump zeichnet früheren New Yorker Bürgermeister Giuliani mit »Medal of Freedom« aus** — Er wurde am 11. September zum amerikanischen Helden und verbreitete später Trumps Lüge von der verlorenen Wahl 2020: New Yorks Ex-Bürgermeister Rudy Giuliani hat vom Präsidenten die höchste zivile Auszeichnung der USA bekommen.
 - [24.11., 21:27] **Vanessa Emde: Berliner Linke stimmt knapp für Ausschluss aus Fraktion** — Die Berliner Linkenabgeordnete Vanessa Emde wird aus ihrer Fraktion ausgeschlossen. Die angehenden Koalitionspartner atmen auf. Doch der Fall dürfte Rot-Grün-Rot auch in Zukunft belasten.
 - [24.11., 20:26] **Wladimir Putin wirft bekannten Regisseur Alexander Sokurow aus Menschenrechtsrat** — Alexander Sokurow kritisierte Repression und prangerte Zensur im russischen Kino an. Nun hat Kremlchef Wladimir Putin den Regisseur aus seinem Menschenrechtsrat ausgeschlossen.
-- [24.11., 20:21] **Weihnachten: Rostock streitet über den digitalen Beamer-Weihnachtsbaum** — Statt leuchtender Tanne nur eine Beamer-Projektion an einer Wand: Rostock spart sich dieses Jahr einen echten Baum auf dem Weihnachtsmarkt. Bei den Besuchern kommt das nicht gut an.
 - [24.11., 20:21] **»Wie ich so glücklich wurde«: So beschreibt Nele Pollatschek ihren Weg zum Glück** — Die Autorin Nele Pollatschek erzählt in ihrem Buch »Wie ich so glücklich wurde« von den Vorzügen eines positiven Blicks auf die Welt. Hilft der einem wirklich?
+- [24.11., 20:21] **Weihnachten: Rostock streitet über den digitalen Beamer-Weihnachtsbaum** — Statt leuchtender Tanne nur eine Beamer-Projektion an einer Wand: Rostock spart sich dieses Jahr einen echten Baum auf dem Weihnachtsmarkt. Bei den Besuchern kommt das nicht gut an.
 - [24.11., 20:19] **Vanessa Emde: SPD und Grüne begrüßen Fraktionsausschluss der Berliner Linkenpolitikerin** — Die möglichen Koalitionspartner der Berliner Linkspartei haben positiv auf den Ausschluss von Vanessa Emde aus der Linksfraktion reagiert. Die Berliner CDU sieht weiterhin ein Antisemitismusproblem bei der Linken.
-- [24.11., 20:17] **USA nach den Midterms: Können die Demokraten ihre Stärke nutzen?** — Der Triumph der US-Demokraten bei den Midterms legt auch alte Gräben frei: Progressive wie Abdul El-Sayed drängen nach links, Zentristen bremsen. Kann die Partei bis zur nächsten Präsidentenwahl zusammenfinden?
 - [24.11., 20:17] **Vergewaltigungsprozess gegen Marvin S. in Berlin: »Es ist eigentlich kein Leben mehr, das ich führe«** — Marvin S. hat mehrere Frauen vergewaltigt. Vor Gericht berichten drei Betroffene, wie sehr die abscheulichen Taten ihr Leben bis heute belasten. Eine von ihnen überlebte nur knapp.
-- [24.11., 19:28] **Schach-WM: Weltmeister Gukesh zieht gegen Sindarovs Angriffe die Berliner Verteidigung hoch** — In der ersten Partie zeigen beide, warum sie um den WM-Titel spielen: Schachweltmeister Gukesh und Herausforderer Sindarov liefern sich ein hochklassiges Duell. Trotz »beängstigenden« Zeitdrucks.
-- [24.11., 18:37] **Gewalt gegen Frauen: Diese Gesellschaft ist zu abgestumpft** — Die neuen Zahlen zu Straftaten gegen Frauen und häuslicher Gewalt sind dramatisch hoch. Doch der Aufschrei bleibt aus. Denn diese Gesellschaft ist längst abgestumpft.
-- [24.11., 18:36] **Die Linke und Vanessa Emde: Endlich eine rote Linie! - Kommentar** — Die Berliner Linksfraktion hat ihre Abgeordnete Vanessa Emde ausgeschlossen. Das ist ein gutes Vorzeichen für eine Koalition. Das Verhalten von Elif Eralp irritiert allerdings.
-- [24.11., 18:15] **Nicolas Sarkozy: Frankreichs Ex-Präsident wird wegen Zeugenmanipulation angeklagt** — Nicolas Sarkozy soll im Prozess um seine Libyenaffäre versucht haben, den Hauptbelastungszeugen mit Geld zu beeinflussen. Sarkozy und seine Frau Carla Bruni müssen deswegen Berichten zufolge vor Gericht.
+- [24.11., 20:17] **USA nach den Midterms: Können die Demokraten ihre Stärke nutzen?** — Der Triumph der US-Demokraten bei den Midterms legt auch alte Gräben frei: Progressive wie Abdul El-Sayed drängen nach links, Zentristen bremsen. Kann die Partei bis zur nächsten Präsidentenwahl zusammenfinden?
 
 ## Zeit
 
-- [25.11., 05:33] **China: Antikorruptionsbehörden in China ermitteln gegen Politbüro-Mitglied** — Chen Jining, Parteichef in Shanghai, ist das vierte Mitglied des Politbüros, gegen das seit Anfang 2025 ermittelt wird. Was ihm konkret vorgeworfen wird, blieb offen.
+- [25.11., 06:30] **Riesenballon-Parade: 100. Jubiläum: 10 Fakten zu New Yorks Thanksgiving-Parade**
+- [25.11., 06:15] **Champions League: Kompany auf Stürmersuche: Upamecano bietet sich an**
+- [25.11., 06:08] **Sex in Großbritannien: Sex? Och, na ja** — Laut einer neuen Studie haben Briten nur noch zweimal im Monat Sex – halb so oft wie in den Neunzigern. Warum die Flaute im Bett vielleicht sogar ein Fortschritt ist.
+- [25.11., 06:04] **Wetter: Bayern bleibt frostig – nachts drohen Schnee und Glätte**
+- [25.11., 06:02] **Filterkaffeemaschinen im Test: Welche Filterkaffeemaschine sich wirklich lohnt** — Wer braucht schon Siebträger? Es gibt auch Filterkaffee in höchster Qualität. Wir haben mit einer professionellen Barista fünf Maschinen von 200 bis 700 Euro getestet.
+- [25.11., 06:02] **Champions League: «Geile Aufgaben»: Chabot heiß auf Inters Stürmerstars**
+- [25.11., 06:00] **Elbvertiefung: Der tägliche Newsletter aus Hamburg: Wie man der Atmosphäre CO2 entzieht – eine DIY-Gebrauchsanleitung** — Die Elbvertiefung am Mittwoch – Mit herausragenden Persönlichkeiten, vielen gestohlenen Autos und einer Antwort auf die Frage, ob alles immer teurer wird
+- [25.11., 06:00] **NS-Frauenverbände: Kinder, Küche, Krieg: Frauen im Nationalsozialismus** — Erstmals macht die ZEIT Akten der NS-Frauenverbände durchsuchbar. War Oma dabei? Und: Die Ukraine weitet die Kampfzone aus. Eine neue Phase des Kriegs?
+- [25.11., 06:00] **Energiewende: Solarstrom knackt erstmals die Marke von 100 Terawattstunden**
+- [25.11., 05:56] **Nvidia: Der Zentralbank-Chef der KI** — Jensen Huang ist durch sein System persönlicher Abhängigkeiten zu wichtig, um gefeuert zu werden. Donald Trumps Eingreifen hat den KI-Crash womöglich aber nur verzögert.
+- [25.11., 05:50] **Unfall: Lkw bricht durch Mittelschutzplanke - A3 gesperrt**
+- [25.11., 05:44] **Nordkorea: Nordkorea weist Leiter der Schweizer Vertretung aus** — Die Regierung in Pjöngjang wirft der Schweiz wegen neuer Sanktionen einen »feindseligen Akt« vor. Das erst kürzlich eröffnete Verbindungsbüro soll geschlossen werden.
+- [25.11., 05:44] **Wetter: Wo Autofahrer wegen Glätte aufpassen müssen**
+- [25.11., 05:33] **China: Antikorruptionsbehörden in China ermitteln gegen Politbüromitglied** — Chen Jining, Parteichef in Shanghai, ist das vierte Mitglied des Politbüros, gegen das seit Anfang 2025 ermittelt wird. Was ihm konkret vorgeworfen wird, blieb offen.
 - [25.11., 05:30] **Altern in Würde: Lüneburger Demenz-WG: «Meine Mutter ist hier aufgeblüht»**
-- [25.11., 05:15] **Champions League: RB-Kapitän Raum: «Egal wie, Hauptsache gewonnen»**
-- [25.11., 05:03] **Jahrelanges Verfahren: US-Geschworene sprechen Huawei der Geldwäsche schuldig**
-- [25.11., 05:00] **Bahnverkehr: Eingeschränkter Zugverkehr zwischen Hannover und Hamburg**
-- [25.11., 05:00] **Haushalt: FDP fordert Eingreifen gegen kalte Progression**
-- [25.11., 05:00] **Möglicherweise Rekord: Goldener November: Warum viele bunte Blätter noch hängen**
-- [25.11., 05:00] **Nominierung: NRW-FDP schickt Kubicki zur Bundespräsidenten-Wahl**
-- [25.11., 05:00] **Strom und Energie: Vattenfall erhöht Strompreise zum Februar**
-- [25.11., 03:07] **US-Zölle: USA planen offenbar neue Zölle gegen die EU und China** — Die USA werfen mehreren Ländern vor, ihre Industrieproduktion künstlich zu erhöhen. Mehrere Medien berichten nun von neuen Zollplänen, die sich auch gegen Europa richten.
-- [25.11., 02:27] **Kolumbien: Autobombe verletzt in Kolumbien mindestens 25 Menschen** — Am Jahrestag des Friedensabkommens mit der Farc hat in Kolumbien eine Autobombe zahlreiche Menschen verletzt. Bewaffnete verschanzen sich mit Geiseln.
-- [25.11., 01:44] **Huawei-Prozess: US-Geschworene sprechen Huawei der Geldwäsche schuldig** — Der chinesische Technologiekonzern Huawei soll Banken betrogen und US-Firmengeheimnisse gestohlen haben. Das Unternehmen will gegen das Urteil in Berufung gehen.
-- [25.11., 00:32] **EGMR-Urteile: Menschenrechtsgerichtshof grenzt Schutz bei Zurückweisungen ein** — Staaten dürfen Migranten an Grenzen laut dem EGMR unter bestimmten Voraussetzungen ohne Prüfung zurückweisen. Polen, Lettland und Litauen wurden dennoch verurteilt.
-- [25.11., 00:30] **Haushaltspolitik: Pflegekassen warnen vor Milliardendefizit trotz Bundeskrediten** — Der Bund hat den Pflegekassen erst einen Kredit für 2027 zugesagt – der reicht laut ihren Vertretern aber nur für wenige Monate. Danach erwarten sie Milliardendefizite.
-- [25.11., 00:04] **Cyberangriffe: Hacker greifen offenbar die CIA an** — Der US-Auslandsgeheimdienst CIA ist laut Medienberichten von Hackern angegriffen worden. Sie erbeuteten dabei keine als geheim eingestuften Informationen.
 
 ## NZZ
 
@@ -152,7 +152,7 @@ Status: Tagesschau: 25 · Deutschlandfunk: 22 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 ## BBC World
 
-- [25.11., 04:54] **Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle** — His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.
+- [25.11., 05:49] **Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle** — His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.
 - [25.11., 04:44] **US attorney general dodges questions about Nvidia investigation** — Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.
 - [25.11., 04:28] **Moment Chinese space mission lifts off with first Pakistan astronaut aboard** — China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.
 - [25.11., 03:59] **Huawei found guilty of stealing trade secrets but acquitted of racketeering** — The verdict follows a months-long trial in New York.
