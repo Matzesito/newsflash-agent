@@ -1,12 +1,15 @@
 # Feed-Schnappschuss
 
-Erstellt: 27.11., 05:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
+Erstellt: 27.11., 06:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
 Automatisch erzeugt von .github/workflows/feeds.yml — nicht von Hand bearbeiten.
 Status: Tagesschau: 25 · Deutschlandfunk: 25 · FAZ: 25 · Spiegel: 25 · Zeit: 15 · NZZ: 16 · BBC World: 25 · Guardian World: FEHLER (HTTP 403)
 
 ## Tagesschau
 
-- [27.11., 05:13] **Rekordhohe Arbeitslosigkeit von Menschen mit Schwerbehinderung** — Menschen mit Schwerbehinderung bekommen die gesamtwirtschaftliche Lage besonders stark zu spüren. Die Arbeitslosenquote bei ihnen lag im Jahresdurchschnitt 2025 mit zwölf Prozent fast doppelt so hoch wie im gesamten Arbeitsmarkt.
+- [27.11., 06:31] **Podcast 15 Minuten: Anschlagspläne, Kitaschließungen, Skisaison** — Zwei Iraker sollen einen Anschlag auf die Kölner Synagoge geplant haben. Warum immer mehr Kitas schließen müssen. Und die Skisaison beginnt - wer kann sich Skifahren noch leisten? Die Themen im Podcast 15 Minuten.
+- [27.11., 06:13] **11KM-Podcast: Kommt es bei der Wahl in Spanien zum Rechtsruck?** — Umfragen sehen bei der Parlamentswahl in Spanien ein Bündnis aus Konservativen und Rechtspopulisten vorn. Der Podcast 11KM fragt: Was bedeutet die Wahl für Ministerpräsident Sánchez? Und steht Spanien vor einem Rechtsruck?
+- [27.11., 06:09] **Parlamentswahl in Neuseeland ohne klare Mehrheit** — Nach der Parlamentswahl zeichnete sich ein äußerst knappes Rennen ab. Nun ist klar: Neuseelands rechtsgerichtete Regierungskoalition unter Premierminister Luxon hat ihre Mehrheit verloren.
+- [27.11., 05:13] **Rekordhohe Arbeitslosigkeit bei Menschen mit Schwerbehinderung** — Menschen mit Schwerbehinderung bekommen die gesamtwirtschaftliche Lage besonders stark zu spüren. Die Arbeitslosenquote bei ihnen lag im Jahresdurchschnitt 2025 mit zwölf Prozent fast doppelt so hoch wie im gesamten Arbeitsmarkt.
 - [27.11., 05:11] **tagesschau in 100 Sekunden**
 - [27.11., 02:29] **Bosnien und Herzogowina: Dodik hebt Sohn auf den Thron** — Dodik hatte über 20 Jahre lang die Macht in der serbisch-dominierten Republika Srpska. 2025 musste er nach internationalem Druck zurücktreten, wegen seiner Separatismuspolitik. Nun macht er seinen Sohn zum Regierungschef. Von O. Soos.
 - [27.11., 01:02] **Merz verkündet vorzeitiges Ende des EU-Sondergipfels** — Die Vorstellungen unter den 27 Staats- und Regierungschefs lagen weit auseinander. So weit, dass sie laut Merz den zweiten angesetzten Tag des Gipfels ausfallen lassen. Es geht um viele Milliarden für den EU-Haushalt.
@@ -15,6 +18,7 @@ Status: Tagesschau: 25 · Deutschlandfunk: 25 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [26.11., 23:34] **EU-Mitgliedstaaten ringen um Kompromiss für künftigen Haushalt**
 - [26.11., 23:32] **Philipp Köster, Chefredakteur des Fußballmagazins 11FREUNDE, zur Diskussion nach Erkrankung von Musiala**
 - [26.11., 23:31] **Festnahmen wegen mutmaßlichen Anschlagsplänen auf Synagoge in Köln: Welche Rolle spielt der Iran?**
+- [26.11., 23:28] **Europa League: Randale und Unterbrechung bei Besiktas-Sieg über Hapoel Beer-Sheva** — Heftige Randale und eine lange Unterbrechung haben den Sieg von Besiktas Istanbul in der Europa League gegen den israelischen Club Hapoel Beer-Sheva überschattet.
 - [26.11., 23:25] **Conference League: SC Freiburg jubelt gegen Twente Enschede** — In einem temporeichen Europacup-Spiel zwischen dem SC Freiburg und Twente Enschede treffen beide Teams in der Halbzeit, die der Gegner dominiert. Am Ende jubelt der Bundesligist.
 - [26.11., 23:00] **Hoffenheim bekommt Graz mit Mühe in den Griff** — Am fünften Spieltag der Europa League hat die TSG Hoffenheim gegen Sturm Graz 3:1 gewonnen und damit den zweiten Sieg während der Ligaphase geholt.
 - [26.11., 22:54] **Wintereinbruch: Schneefall behindert Autoverkehr in Bayern** — In Oberbayern haben Schneefälle für zahlreiche Verkehrsunfälle und Sperrungen von Autobahnen gesorgt. Stellenweise fielen bis zu zehn Zentimeter Neuschnee. Laut Wetterdienst bleiben auch die kommenden Tage eher frostig.
@@ -27,10 +31,6 @@ Status: Tagesschau: 25 · Deutschlandfunk: 25 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [26.11., 20:16] **FAQ zur "Rente mit 63": Was wird gerade diskutiert?** — Die Debatte über die "Rente mit 63" wird zunehmend unübersichtlich: Welche Vorschläge werden aktuell diskutiert? Was deutet auf Bewegung innerhalb der Koalition hin? Und warum ist das Thema so umstritten? Ein Überblick.
 - [26.11., 20:15] **Deutsche Firmen forschen an Technik für Waffendepots im Weltraum** — Angesichts der globalen Bedrohungslage gewinnt der Weltraum beim Thema Verteidigung an Bedeutung. Eine neue Technologie aus Deutschland soll den schnellen Transport von Waffen aus dem Orbit auf die Erde ermöglichen. Von U. Gradwohl und …
 - [26.11., 20:07] **Tarifeinigung für die Metall- und Elektroindustrie in der vierten Verhandlungsrunde**
-- [26.11., 19:08] **Rheinmetall-Arbeiter bei Angriff in Kuwait getötet** — In Kuwait sind bei einem Drohnenangriff zwei Italiener getötet worden, die bei dem deutschen Rüstungskonzern Rheinmetall beschäftigt waren. Italien weist Iran die Verantwortung zu, doch Teheran dementiert den Angriff.
-- [26.11., 18:59] **Warum die Bundeswehr im Senegal trainiert** — Es ist die bislang größte Bundeswehr-Übung in Afrika: Im Senegal trainieren rund 1.000 Soldaten mit den dortigen Streitkräften die Evakuierung aus einem fiktiven Krisenstaat. Warum dort? Von Kai Küstner.
-- [26.11., 18:43] **Biathlon: Justus Strelow stürmt beim Biathlon-Auftakt auf Platz 2** — Justus Strelow hat den deutschen Biathleten einen nahezu perfekten Saisonstart beschert. Im finnischen Kontiolahti wurde der 29-Jährige nach 20 Kilometern Zweiter - hinter dem Amerikaner Campbell Wright.
-- [26.11., 18:28] **Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden** — EZB-Chefin Lagarde hatte angekündigt, ihren Posten im Februar aufzugeben. Nun ist die Nachfolge geklärt: Die EU-Spitzen einigten sich auf den Spanier Hernández de Cos. Ein Deutscher ist als Chefvolkswirt vorgesehen.
 
 ## Deutschlandfunk
 
@@ -62,6 +62,11 @@ Status: Tagesschau: 25 · Deutschlandfunk: 25 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 ## FAZ
 
+- [27.11., 06:33] **Volksabstimmung: Wie die Schweizer ihr Rentengeschenk finanzieren wollen** — Für die vom Volk bestellte 13. Monatsrente soll die Mehrwertsteuer angehoben werden. Falls die Eidgenossen am Sonntag dazu Nein sagen, droht der staatlichen Rentenkasse ein noch höheres Defizit.
+- [27.11., 06:28] **F.A.Z. Frühdenker: Zerbricht das BSW an der AfD?** — In Berlin endet das Ringen um den Haushalt, das BSW streitet über den Umgang mit Rechtsaußen. Und: Wählt Spanien einen Richtungswechsel? Der F.A.Z. Frühdenker.
+- [27.11., 06:17] **EU-Budget: Weihnachten wollen alle zuhause sein** — Mit einer Einigung auf den EU-Haushalt auf dem Sondergipfel hatte kaum jemand gerechnet. Wie der gescheitert ist, wirft aber Fragen auf.
+- [27.11., 06:00] **Nordmainische S-Bahn: Mehr als 8000 Bäume zum Ausgleich** — Weil der Waldrand für die neue Bahnlinie zwischen Frankfurt und Hanau gerodet worden ist, forstet die Bahn auf. Aber auch Eidechsen und Vögel sollen keinen Schaden nehmen.
+- [27.11., 05:54] **Growth Mindset: „Man kann die Intelligenz durch besondere Förderung erhöhen“** — Caroline von St. Ange ist Lerncoach und „Sinnfluencerin“. Im Interview spricht sie darüber, welche Rolle die richtige Einstellung für unseren Erfolg spielt. Und wie man schon früh lernt, Fehler als Chancen zu betrachten.
 - [27.11., 04:19] **Neuseeland: Wahl macht Newcomerin zur Königsmacherin** — Ein Sitz fehlt zur Mehrheit: Neuseelands Ministerpräsident Luxon muss nach der Parlamentswahl verhandeln. Eine 38-jährige Quereinsteigerin hält die Schlüssel zur Macht in der Hand. Drohen Neuwahlen?
 - [27.11., 03:37] **Business-Ticker: SAP: Haben „verdächtige Aktivitäten identifiziert“** — Gericht stoppt Übernahme der irischen Bank PTSB durch Bawag +++ Chinesischer Online-Händler Temu sagt EU mehr Verbraucherschutz zu +++ Nvidia stoppt offenbar Export in vier südostasiatische Länder +++ alle Neuigkeiten im …
 - [27.11., 03:16] **Liveblog Ukrainekrieg: Libyen und Italien kritisieren ukrainischen Angriff auf russische Schiffe** — Nach Drohnenangriffen: Ukraine will Libyen nicht in Krieg hineinziehen +++ Merz: Artikel-5-ähnliche Sicherheitsgarantien für Ukraine +++ alle Neuigkeiten im Liveblog
@@ -82,20 +87,20 @@ Status: Tagesschau: 25 · Deutschlandfunk: 25 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [26.11., 20:00] **Verjüngte Eizellen: Ein künstlicher Kleber soll den Kinderwunsch retten** — Müssen Frauen im fortgeschrittenen Alter irgendwann keine Angst mehr haben vor immer neuen, vergeblichen künstlichen Befruchtungsversuchen? In Göttingen wurde eine Verjüngungskur für Eizellen erfolgreich ausprobiert.
 - [26.11., 19:46] **Frau iM Marine-Kommando: „Es erfüllt mich mit Riesenstolz“** — Lydia Knaak wird als erste Frau einen deutschen Marinestützpunkt führen. Sie will Frauen motivieren und warnt gleichzeitig vor Bedrohungen.
 - [26.11., 19:42] **Fusionen und Übernahmen: 2026 kratzt am Rekordjahr** — Fusionen und Übernahmen erleben in diesem Jahr global wahrscheinlich das zweitstärkste Jahr der Geschichte, rechnet Goldman Sachs vor. Große Projekte und US-Transaktionen bestimmen das Bild. Und was kommt 2027?
-- [26.11., 19:34] **Geld für Nahverkehr: Vorrang für Bus und Bahn** — Der Ausbau des Nahverkehrs stößt in Frankfurt manchmal auf kaum beeinflussbare Hindernisse. Ob ausreichend Geld bereitsteht, ist allerdings eine politische Entscheidung.
-- [26.11., 19:33] **Rente mit 63: Die Union steht dem Umverteilungsstreben der SPD hilflos gegenüber** — Die Sprüche von der Rentenreform als Gesamtkunstwerk sind wohl Geschwätz von gestern. Schade, dass die Union nicht energischer auftritt.
-- [26.11., 19:33] **Abschlagsfrei in den Ruhestand?: Welche Chancen hat die „Respekt-Rente“?** — Öffentlich streiten Union und SPD über die wichtigste sozialpolitische Reform dieser Legislaturperiode. Was passiert hinter den geschlossenen Türen?
-- [26.11., 19:19] **Rhein-Main-Liveblog: Weniger Erstsemester an Hochschulen in Hessen** — Was ist los in Frankfurt & Hessen? Lesen Sie aktuelle News & Nachrichten im News-Ticker von heute ► Was heute wichtig ist, erfahren Sie bei der F.A.Z.
-- [26.11., 19:14] **in europäische Hand: Weimer sieht viel Unterstützung für seinen Tiktok-Plan** — Der Kulturstaatsminister will Tiktok zwingen, sein Europageschäft in ein Joint Venture zu übertragen. An Unterstützern und Investoren mangele es nicht.
 
 ## Spiegel
 
+- [27.11., 06:12] **Österreich: Fiaker vor dem Aus? Wien streitet über Pferdekutschen** — »Kulturgut« oder »tickende Zeitbombe«? Nach zwei Unfällen gibt es Streit über die traditionellen Kutschen. Sogar die Kaulitz-Brüder schalten sich ein.
+- [27.11., 06:03] **Kohl kochen: Neue Ideen, um Wintergemüse lecker zuzubereiten** — Kohl muss nicht labbrig sein: Wie Sie aus Wintergemüse wie Weißkohl, Rotkohl und Wirsing ungeahnte Aromen herausholen, verrät hier Sternekoch Ricky Saward.
+- [27.11., 05:59] **Gen-Z-regelt-Demonstrationen: Wer randalierte nach den friedlichen Protesten?** — Am Halloween-Abend eskalierte in einigen deutschen Städten die Gewalt. Interne Behördenberichte, die dem SPIEGEL vorliegen, zeichnen ein erstes Bild der Randalierer.
+- [27.11., 05:57] **Nordische Kombiniererin Nathalie Armbruster: So plant sie nach dem Olympia-Aus ihrer Sportart** — Nathalie Armbruster wollte als Nordische Kombiniererin zu Olympia. Dann strich das IOC ihre Sportart aus dem Programm. Jetzt steht sie vor einer ungewissen Zukunft – wie ihre ganze Sportart. Gibt es Hoffnung?
+- [27.11., 05:44] **News: Bundestag stimmt über umstrittenen Haushalt 2027 ab, Black Friday, Tech-Bros** — Der Bundestag stimmt über den umstrittenen Etat für 2027 ab. Ein Vordenker der US-Demokraten will die Macht der Techmilliardäre brechen. Der Black Friday lockt Schnäppchenjäger – und alarmiert Gewerkschaften. Das ist die Lage am …
 - [27.11., 05:30] **Smorrebrod: Dänemarks Nationalspeise leicht und luxuriös belegen** — Dänemarks Nationalspeise Smørrebrød kombiniert Roggenbrot mit Remoulade und köstlichen Türmen aus dem, was sich im Kühlschrank findet. Koch Magnus Rasmussen legt eine Schippe drauf – und erklärt, wie das Familienessen zu Hause gelingt.
-- [27.11., 05:30] **Kohl kochen: Neue Ideen, um Wintergemüse lecker zuzubereiten** — Kohl muss nicht labbrig sein: Wie Sie aus Wintergemüse wie Weißkohl, Rotkohl und Wirsing ungeahnte Aromen herausholen, verrät hier Sternekoch Ricky Saward.
 - [27.11., 03:48] **Neuseeland: Konservatives Bündnis verpasst Mehrheit um einen Sitz** — Um einen Sitz verpasst: Christopher Luxon kann in Neuseeland nicht so einfach als Regierungschef weitermachen. Dafür braucht er die Opportunity-Partei. Und deren Chefin hat so gar keine Lust auf rechte Populisten.
 - [27.11., 03:08] **EU-Gipfel: Wie der Milliarden-Streit über das Budget im Chaos versank** — Im Streit über das EU-Budget gingen die Staats- und Regierungschefs ergebnislos auseinander. Ein Faktor: Deutschland und Frankreich finden bisher nicht zueinander. Chronologie eines chaotischen Abends.
 - [27.11., 02:39] **Libyen: Libyen und Italien kritisieren ukrainischen Angriff auf russische Schiffe** — Die Attacken auf russische Schiffe im Mittelmeer haben Anrainerstaaten aufgeschreckt. Nun versichert die ukrainische Regierung: Kyjiw will den Krieg nicht ausweiten. Scharfe Kritik gibt es trotzdem, unter anderem aus Rom.
 - [27.11., 01:05] **Midterms: Donald Trump verbreitet Verschwörungsmythen zu Wirtschaftsdaten** — Zum Erntedankfest in den USA verbreitet Donald Trump Verschwörungsmythen über angebliche Beeinflussung bei den Midterms. Im Mittelpunkt: die Wachstumszahlen aus dem Ministerium von Howard Lutnick.
+- [26.11., 23:54] **Quentin Tarantino: Warum »The Further Mis-Adventures of Cliff Booth« misslungen ist**
 - [26.11., 22:28] **EU-Gipfel: Merz kündigt vorzeitiges Ende der Haushaltsberatungen an** — Die Staats- und Regierungschefs der EU beenden ihre Beratungen über den künftigen Haushalt laut Kanzler Merz bereits am Donnerstag. Die Mitgliedstaaten liegen mit ihren Forderungen weiterhin auseinander.
 - [26.11., 22:08] **USA – Nato: Entscheidung über US-Truppenabzug verschiebt sich offenbar** — Das Pentagon stellt seine Truppenpräsenz in Europa auf den Prüfstand. Jetzt dauert es aber möglicherweise bis ins neue Jahr mit der Überprüfung. Berichten zufolge weckt das Hoffnungen.
 - [26.11., 21:47] **Thanksgiving: Sturm legt Ostküste lahm – Parade in New York verschoben** — Ein heftiger Sturm hat in den USA rund 770.000 Kunden von der Energieversorgung abgeschnitten. Während Hunderte Flüge ausfallen, musste New Yorks traditionelle Parade erstmals wetterbedingt verschoben werden.
@@ -110,32 +115,28 @@ Status: Tagesschau: 25 · Deutschlandfunk: 25 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [26.11., 20:14] **SAP wird Opfer von Hackerangriff** — Die Serie spektakulärer Hackerangriffe reißt nicht ab: Nach SPIEGEL-Informationen kämpft nun der Softwarehersteller SAP mit einem Vorfall. Womöglich haben die Täter sich von KI-Systemen helfen lassen.
 - [26.11., 19:58] **Koalitionsverhandlungen in Israel: Beendet Gadi Eisenkot die Ära Benjamin Netanyahu?** — Nach den Knessetwahlen schien eine Regierungsbildung in Israel fast unmöglich. Nun zeichnet sich ein Ausweg ab.
 - [26.11., 19:57] **Hamburg: Vermeintliche Leichenteile im Kanal stammen von Puppe** — Der Fund mutmaßlicher menschlicher Überreste hat in Hamburg einen Großeinsatz der Polizei ausgelöst. Mittlerweile geben die Ermittler Entwarnung. Es habe sich nur um Teile einer Puppe gehandelt.
-- [26.11., 19:27] **Prostitution: Warum ein Sexkaufverbot den Frauen nicht helfen würde** — Wie kann man Prostituierte tatsächlich besser schützen? Eine Kommission hat Empfehlungen vorgelegt. Wenn Familienministerin Prien sich daran hält, könnte sie wirklich etwas für die Frauen bewegen.
-- [26.11., 19:13] **Lydia Knaak – Eckernförde: Erste Frau an der Spitze eines Marinestützpunkts** — Wegen ihrer Qualifikation und nicht weil sie eine Frau ist – das war Lydia Knaak wichtig zu betonen. Sie wird Chefin eines wichtigen Marinestützpunkts. Ein Vorbild möchte sie aber doch sein.
-- [26.11., 18:32] **Horb: Gondel stürzte 55 Meter ungebremst in die Tiefe, drei Männer starben – Kranführer verurteilt** — Im Mai 2025 kam es auf einer Baustelle an einer Hochbrücke im Nordschwarzwald zu einem schweren Kranunglück, drei Männer waren sofort tot. Nun hat ein Gericht über die Verantwortung des Kranführers entschieden.
-- [26.11., 18:29] **Rente mit 63: Überblick über Vorteile und Fallstricke der Reformideen** — Wie geht’s weiter mit der abschlagsfreien Frührente? Die Union setzt auf Kürzungen für Besserverdiener, die SPD will Zeiten der Arbeitslosigkeit streichen. Ein Überblick über Vorteile und Fallstricke der Reformideen.
-- [26.11., 18:16] **EU-Gipfel: Agrarsubventionen treiben Merz, Macron und Meloni auseinander** — In der Debatte über das künftige EU-Budget drohen sich Kanzler Merz, Frankreichs Präsident Macron und Italiens Ministerpräsidentin Meloni weiter voneinander zu entfernen, statt sich anzunähern. Streitpunkt sind die Agrarsubventionen.
 
 ## Zeit
 
-- [27.11., 05:30] **Wohnkrise: Ein alter Mietvertrag? Kann heute schon mal 76.000 Euro wert sein** — Eine günstige Wohnung lässt niemand freiwillig los. Für den Einzelnen ist das rational. Doch kollektiv verschärft es die Wohnkrise. Was hilft: ausgerechnet höhere Mieten
-- [27.11., 05:30] **Nahverkehr: Bauarbeiten: Hamburger S-Bahnlinie S1 unterbrochen**
-- [27.11., 05:30] **Krebsvorsorgetag: Hautkrebs-Screenings in MV bleiben unter Bundesschnitt**
-- [27.11., 05:26] **Krieg gegen die Ukraine: Ukraine verteidigt Angriffe auf russische Schiffe vor Libyen** — Die Ukraine habe nicht die Absicht, den Krieg auf ein anderes Land auszuweiten, sagt Außenminister Sybiha. Russland verhaftet einen Luftwaffenkommandeur. Das Liveblog
-- [27.11., 05:21] **Fotografie: Bilder des Tages**
-- [27.11., 05:15] **Neue Ausstellung in Wolfsburg: Autostadt zeigt Zukunft der Mobilität**
-- [27.11., 05:15] **Conference League: «Glatt Rot ziehen»: SC-Kapitän Günter will neue Elfer-Regel**
-- [27.11., 05:15] **Fußball: Frauen-Bundesliga mit Playoffs? HSV kontra FC Bayern**
-- [27.11., 05:11] **Extremwetter: Stürme an Thanksgiving führen zu Chaos in den USA** — Überschwemmungen, entwurzelte Bäume, gesperrte Brücken: Schwere Unwetter haben mehr als 900.000 US-Haushalte vom Stromnetz abgeschnitten. Hunderte Flüge fallen aus.
-- [27.11., 05:00] **Kampf gegen Cybergrooming: LKA Sachsen-Anhalt prüft Einsatz von falschen Kinderprofilen**
-- [27.11., 05:00] **Buden und Bollwerk: Wie sicher sind Weihnachtsmärkte in Rheinland-Pfalz?**
-- [27.11., 04:30] **Parlamentswahl: Regierungsbündnis in Neuseeland verliert Mehrheit** — Wochen nach dem knappen Wahlausgang in Neuseeland steht das Endergebnis fest. Demnach hat keine Partei eine Mehrheit erzielt. Die Regierungsbildung könnte Monate dauern.
-- [27.11., 03:40] **EU-Gipfel: Meloni sieht Haushaltseinigung noch »Lichtjahre« entfernt** — Bundeskanzler Friedrich Merz zeigt sich nach dem EU-Gipfel trotz Differenzen zuversichtlich. Italiens Regierungschefin Giorgia Meloni sieht eine Einigung in weiter Ferne.
-- [27.11., 02:31] **Rente mit 63: Frei verteidigt Kompromissangebot im Rentenstreit** — Unionsfraktionschef Thorsten Frei sieht den Vorstoß zu einer abschlagsfreien Frührente für Geringverdiener als Gesprächsangebot an die SPD. Diese bleibt skeptisch.
-- [27.11., 01:39] **Geldpolitik: Argentinien verbietet Notenbank das Gelddrucken zum Schuldenausgleich** — Die Inflation in Argentinien ist extrem, Präsident Javier Milei will deshalb mehr Haushaltsdisziplin. Ein neues Gesetz schränkt nun das Handeln der Zentralbank ein.
+- [27.11., 06:32] **Wettervorhersage: Weiter frostig in Sachsen - nachts drohen bis zu -10 Grad**
+- [27.11., 06:25] **Inklusionsbarometer Arbeit: Arbeitslosigkeit bei Menschen mit Behinderung steigt auf Höchstwert** — Die schwache Konjunktur trifft Menschen mit Schwerbehinderung besonders stark. Ihre Arbeitslosenquote lag 2025 fast doppelt so hoch wie in der Gesamtwirtschaft.
+- [27.11., 06:14] **Wetter: Bis zu minus sechs Grad - frostiges Wochenende erwartet**
+- [27.11., 06:12] **Wettervorhersage: Etwas Sonne und Kälte: So wird das Wetter am Wochenende**
+- [27.11., 06:11] **Wettervorhersage: Verbreitet leichter Dauerfrost in Sachsen-Anhalt**
+- [27.11., 06:11] **Parlamentswahl: Regierungsbündnis in Neuseeland verliert Mehrheit** — Wochen nach dem knappen Wahlausgang in Neuseeland steht das Endergebnis fest. Demnach hat keine Partei eine Mehrheit erzielt. Die Regierungsbildung könnte Monate dauern.
+- [27.11., 06:10] **Nukleardrohung: Und wieder mal drohen sie mit dem Atomkrieg** — Die Forderung, mit Russland müsse man reden, hört man in Deutschland häufig. Zwei BSW-Abgeordnete haben es probiert. Und: Links auf die 1? Wer ist Jean-Luc Mélenchon?
+- [27.11., 06:05] **US-Vizepräsident: Wenn Trump nicht durchhält, was würde JD Vance als Präsident tun?** — Müsste Europa auch einen JD Vance als Präsidenten fürchten? Ein Thema der Bonusfolge des US-Podcasts. Und wir beantworten Fragen zu AOC und unseren Lieblingspräsidenten.
+- [27.11., 06:00] **Martin Suter: »Ich habe die besten Ideen, wenn ich Ideen haben muss«** — Martin Suter erzählt von seinem sonntäglichen Drei-Generationen-Stammtisch für Schriftsteller. Und von einem Pyjama, den er erfunden hat, um nicht zu schnarchen.
+- [27.11., 06:00] **Bildungskrise: Sind wir auf dem Weg in die Superdummheit?** — Deutschland steckt in einer tiefen Bildungskrise. Was das mit Social Media und KI zu tun hat – und was geschehen müsste, um das Land wieder nach vorn zu bringen.
+- [27.11., 06:00] **Elbvertiefung: Der tägliche Newsletter aus Hamburg: Champagner mit einem Hauch Vanille: Das gibt es nur im Eppendorfer Weg** — Die Elbvertiefung am Freitag – mit neuen Unterkünften für Geflüchtete, einer Rückkehr beim HSV und dem Mann, der den Hauptbahnhof managt.
+- [27.11., 06:00] **Parteivorsitz: SPD Brandenburg: Kein klares Signal für Heil oder Klingbeil**
+- [27.11., 06:00] **International besinnlich: Malerisch, pompös, unterirdisch: Weihnachtsmärkte mal anders**
+- [27.11., 06:00] **Schauspielerei: Elena Uhlig: Frauen über 50 sind kaum gefragt**
+- [27.11., 06:00] **Edelmetall: Warum Gold trotz Kursrutsch für Anleger interessant bleibt**
 
 ## NZZ
 
+- [27.11., 06:32] **«Können kein Bancomat für die EU sein»: Die Unterstützer der Ukraine kritisieren ostmitteleuropäische Abweichler scharf** — Beim letzten Milliardenkredit beteiligten sich Ungarn, Tschechien und die Slowakei nicht, obwohl sie selbst stark von der EU-Solidarität profitieren. Das dürfe sich nicht wiederholen, hiess es am EU-Gipfel.
 - [27.11., 05:31] **November, es regnet – und trotzdem geht Dörfern das Wasser aus. Wie viel ist wirklich kaputt im Wasserschloss Schweiz?** — Reise zu denen, die in Tanklastwagen rechnen. Und solchen, die von Wasserautobahnen träumen.
 - [27.11., 05:30] **KOMMENTAR - Die Wahl des Spaniers Pablo Hernández de Cos zum EZB-Chef zeigt: Die Notenbank ist fest in den Händen des «Club Med»** — Erneut wird ein Südeuropäer Präsident der EZB, ein Deutscher wird Chefökonom. Für Berlin könnte sich das als Pyrrhussieg erweisen.
 - [27.11., 05:30] **Im Nationalteam ausgebootet, im Klub treffsicher – Noah Okafor überzeugt in Leeds mit starken Leistungen** — Nach einem Zerwürfnis mit dem Trainer Murat Yakin an der WM ist der 26-Jährige aus der Nationalmannschaft zurückgetreten. Im Klub scheint Okafor dieser Entscheid zu beflügeln.
@@ -151,12 +152,11 @@ Status: Tagesschau: 25 · Deutschlandfunk: 25 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [27.11., 05:30] **DER ANDERE BLICK - Was die Welt wirklich verändert. Spoiler: Trump, Putin und Xi sind es nicht** — Die Machtspiele der Grossmächte werden überschätzt. Andere Entwicklungen sind bedeutsamer. Eine kleine Geschichte der Menschheit von der Dampfmaschine bis zu Chat-GPT.
 - [27.11., 05:30] **Ein Mann aus der Deutschschweiz folgt auf Guy Parmelin – das weckt Sorgen in der Westschweiz** — Die Romandie stellt bald nur noch eine Bundesrätin. Die Sorge reicht aber über eine reine Vertretung in der Regierung hinaus.
 - [27.11., 05:30] **ERKLÄRT - Nachtzug fahren bleibt in Europa ein teures Geduldsspiel** — Hohe Kosten und komplizierte Buchungen schrecken viele Bahnkunden ab. Ein neues EU-Paket soll die Hürden abbauen.
-- [27.11., 05:30] **PODCAST «NZZ QUANTENSPRUNG» - Feststoffbatterie: endlich 1000 Kilometer Reichweite im E-Auto** — Eine Batterie, die viel Energie speichern kann, die nicht brennt, die langlebig und erschwinglich ist. Daran forscht Europa. Aus China kommt eine Technologie, die fast alle diese Eigenschaften erfüllt – aber ganz anders aussieht als …
 
 ## BBC World
 
+- [27.11., 06:15] **Major Thanksgiving storm brings flooding, flight delays across US** — Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.
 - [27.11., 04:28] **New Zealand's ruling coalition falls short of parliamentary majority by one seat** — The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.
-- [27.11., 01:52] **Major Thanksgiving storm brings flooding, flight delays across US** — Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.
 - [27.11., 01:48] **Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple** — Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.
 - [27.11., 01:47] **Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind** — The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.
 - [27.11., 00:03] **My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire** — The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.
