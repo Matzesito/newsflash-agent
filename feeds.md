@@ -1,17 +1,18 @@
 # Feed-Schnappschuss
 
-Erstellt: 28.11., 05:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
+Erstellt: 28.11., 06:40 (Europe/Berlin) · Meldungen der letzten 36 Stunden, je Quelle max. 25, neueste zuerst.
 Automatisch erzeugt von .github/workflows/feeds.yml — nicht von Hand bearbeiten.
 Status: Tagesschau: 25 · Deutschlandfunk: 20 · FAZ: 25 · Spiegel: 25 · Zeit: 15 · NZZ: 16 · BBC World: 20 · Guardian World: FEHLER (HTTP 403)
 
 ## Tagesschau
 
+- [28.11., 05:58] **Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer** — Der Vorschlag des Arbeitsministers zur Reform der Rente liegt auf dem Tisch - und der Gegenwind aus der Union ist recht rau. Dem Koalitionspartner stößt auf, dass die "Rente mit 63" im Kern erhalten bleibt. Doch nicht nur das.
 - [28.11., 05:06] **tagesschau in 100 Sekunden**
 - [28.11., 04:34] **Treibstoffkrise in Malawi: Kaum Geld - und dann der Iran-Krieg** — Malawi leidet unter einer extremen Treibstoffkrise. Die fragile Wirtschaft hängt vom Tabakexport ab - zu schwachen Deviseneinnahmen kommt die Lage an der Straße von Hormus hinzu. Die Krise wirkt sich auf alle Lebensbereiche aus. Von C. …
 - [28.11., 04:27] **US-Militär beschießt Frachter im Golf von Oman** — Im Golf von Oman hat das US-Militär nach eigenen Angaben ein Handelsschiff beschossen. Die Besatzung habe versucht, die US-Blockade iranischer Häfen zu durchbrechen. Das Schiff sei manövrierunfähig, die Crew unverletzt.
 - [28.11., 02:41] **Durchsuchung bei Le Pens früherem Bürochef** — Er soll vertrauliche Informationen aus dem Innenministerium erhalten haben: In Frankreich sind die Parteizentrale des Rassemblement National und die Wohnung des früheren Bürochefs von Präsidentschaftskandidatin Le Pen durchsucht worden.
 - [28.11., 00:35] **Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch** — Ein werktags berechneter Höchstpreis, Bußgeld bei Nichteinhaltung und Ausnahmen an Autobahnen: Der Spritpreisdeckel soll ab Januar gelten. Ein Entwurf ist nun in der Abstimmung. Das Kabinett könnte darüber am Mittwoch entscheiden.
-- [27.11., 23:37] **Gladbach und Bremen mit spektakulärem Remis** — Werder Bremen und Borussia Mönchengladbach liefern sich ein rasantes und hoch emotionales Bundesligaspiel, in dem die Fohlen eine Zwei-Tore-Führung verspielen.
+- [27.11., 23:37] **Natürlich Füllkrug - Mönchengladbach verspielt Sieg in Bremen** — Werder Bremen und Borussia Mönchengladbach liefern sich in der Fußball-Bundesliga ein rasantes und hoch emotionales Spiel, in dem die Fohlen eine Zwei-Tore-Führung verspielen.
 - [27.11., 23:10] **Schweitzer zu Plänen für Rentenreform: "Wir können zusammenkommen"** — In den tagesthemen hat Bundesarbeitsminister Schweitzer seine Rentenpläne als Grundlage für einen Konsens bezeichnet. Man stabilisiere damit die Beiträge und tue etwas "für die Fleißigen, die lange gearbeitet haben".
 - [27.11., 22:38] **Unterschiedliche Reaktionen auf Kompromiss zur vorgeschlagenen Rentenreform**
 - [27.11., 22:23] **tagesthemen**
@@ -30,33 +31,33 @@ Status: Tagesschau: 25 · Deutschlandfunk: 20 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [27.11., 17:26] **Kommentar zu Schweitzers Rentenplänen: Die politische Irrfahrt geht weiter** — Die "Rente mit 63" ist eine Umverteilung von unten nach oben, meint Dagmar Pepping. Arbeitsminister Schweitzer hätte ihr ein Ende setzen müssen. Stattdessen geht die Irrfahrt weiter - und der Streit in der Koalition wohl ebenso.
 - [27.11., 17:18] **Abschlagsfreie Rente nach 45 Beitragsjahren soll im Wesentlichen bleiben**
 - [27.11., 17:09] **Beschlüsse im Bundestag - Stromsteuer sinkt, Zuckersteuer kommt** — Der Bundestag hat die Senkung der Stromsteuer für ein Jahr und eine Zuckersteuer bei Getränken beschlossen. Außerdem steigt die Abgabe auf hochprozentigen Alkohol. Auch Alkopops könnten teurer werden.
-- [27.11., 16:23] **Helge Schneider sagt Tschüss - vielleicht** — Helge Schneider verbindet avancierten Jazz mit anarchischem Humor. 2027 geht der selbsternannte Klimperclown auf Abschiedstournee. Fragt sich nur: Meint er das ernst? Von Christoph Ohrem.
 
 ## Deutschlandfunk
 
-- [28.11., 04:43] **Frankreich - Durchsuchung in Parteizentrale des Rassemblement National** — In Frankreich ist in der Parteizentrale des Rassemblement National das Büro des Wahlprogramm-Koordinators von Präsidentschaftskandidatin Le Pen durchsucht worden. Nach Informationen der Nachrichtenagentur AFP fand die Aktion bereits am 9. …
-- [28.11., 04:43] **Sozialpolitik - Bundesarbeitsminister Schweitzer verteidigt Entwurf für Rentenreform** — Bundesarbeitsminister Schweitzer hat seinen Entwurf für eine Rentenreform verteidigt. Der SPD-Politiker sprach in der ARD von einem tragfähigen Kompromissvorschlag. Auch seien die Gemeinsamkeiten in der schwarz-roten Koalition größer als …
-- [28.11., 04:43] **Bundesagentur für Arbeit - Nahles: "Berufseinstieg fällt vielen Jugendlichen offenbar schwer"** — Die Bundesagentur für Arbeit registriert bei Jugendlichen ein Zögern bei der Entscheidung für einen Berufseinstieg.
-- [28.11., 04:43] **Bundeskongress - Juso-Chef wirft SPD Orientierungs- und Mutlosigkeit vor** — Juso-Chef Türmer hat der SPD Orientierungs- und Mutlosigkeit vorgeworfen.
-- [28.11., 04:43] **Erderwärmung - Umweltminister Schneider für Umbau an Rheins** — Bundesumweltminister Schneider plädiert angesichts des voranschreitenden Klimawandels für Änderungen am Rhein.
-- [28.11., 04:43] **Interview der Woche - Verbraucherzentrale Bundesverband: Vorständin Pop für weitere Entlastungen bei Energiekosten** — Der Verbraucherzentrale Bundesverband fordert weitergehende Maßnahmen zur Entlastung der Bürger bei den Energiekosten. Die Vorständin des Bundesverbands, Pop, sagte im "Interview der Woche" des Deutschlandfunks, die von der Regierung …
-- [28.11., 04:43] **Sicherheit - Flugbetrieb in Köln-Bonn nach Drohnensichtung gestoppt** — Eine Drohne hat den Betrieb am Flughafen Köln/Bonn für über zwei Stunden lahmgelegt.
-- [28.11., 04:43] **Gazastreifen - Unterschiedliche Angaben über durch israelische Armee Getötete** — Nach der Tötung zweier Mitarbeiter der Hilfsorganisation Ärzte ohne Grenzen im Gazastreifen durch das israelische Militär gibt es unterschiedliche Darstellungen über die Hintergründe.
-- [28.11., 04:43] **Militär - Russland stellt U-Boot mit Hyperschallraketen offiziell in Dienst** — Der russische Präsident Putin hat ein neues U-Boot mit Hyperschallraketen an Bord offiziell in Dienst gestellt.
-- [28.11., 04:43] **Iran-Konflikt - US-Militär meldet Angriff auf Handelsschiff im Golf von Oman** — Das US-Militär hat nach eigenen Angaben ein Handelsschiff im Golf von Oman angegriffen.
-- [28.11., 04:43] **Parteien - BSW-Parteitag in Dresden: Streit über Umgang mit der AfD** — Auf dem BSW-Bundesparteitag ringen die Delegierten über den künftigen Kurs.
-- [28.11., 04:43] **Spanien - Gekenterter Tanker soll in Hafen von Cartagena geschleppt werden** — Der gestern vor der spanischen Insel Ibiza gekenterte Tanker soll in den Hafen von Cartagena geschleppt werden.
-- [28.11., 04:43] **Fußball-Bundesliga - Werder Bremen - Borussia Mönchengladbach: 3:3** — Werder Bremen und Borussia Mönchengladbach haben sich im Freitagsspiel der Fußball-Bundesliga unentschieden getrennt. Die Partie endete 3:3. Damit bleibt Mönchengladbach Tabellenletzter.
-- [28.11., 04:43] **Sicherheit - "Spiegel": Proiranische Gruppe plante auch Anschlag auf Synagoge in Schweden** — Im Fall der mutmaßlichen Terrorgruppe, die einen Anschlag auf eine Kölner Synagoge geplant haben soll, gibt es offenbar auch eine Spur nach Schweden.
-- [28.11., 04:43] **Sicherheit - Ukraine ⁠will Waffenruhe im Schwarzen Meer zur Sicherung des Lebensmittelexports** — Die Ukraine ⁠strebt nach eigenen Angaben eine Waffenruhe im Schwarzen Meer zur Sicherung des Lebensmittelexports an.
-- [28.11., 04:43] **Neues Bündnis - Türkei ratifiziert Verteidigungspakt mit Saudi-Arabien und Pakistan** — Durch die Zustimmung des türkischen Präsidenten Erdogan ist das neue Verteidigungsabkommen des Landes mit Saudi-Arabien und Pakistan in Kraft getreten.
-- [28.11., 04:43] **Hamburg - Sadistisches Online-Netzwerk: Höchststrafe für "White Tiger" beantragt** — Die Hamburger Staatsanwaltschaft fordert die Höchststrafe für den heute 22-Jährigen, der unter dem Namen "White Tiger" führendes Mitglied eines sadistischen Online-Netzwerks gewesen sein soll.
-- [28.11., 04:43] **Zeitgenössische Kunst - Köln soll für 100 Millionen Euro ein neues Museum bekommen** — In Köln soll einem Bericht zufolge ein neues, privat finanziertes Museum für zeitgenössische Kunst entstehen.
-- [28.11., 04:43] **Basketball - Titelverteidiger Deutschland qualifiziert sich für WM in Katar** — Die deutsche Basketball-Nationalmannschaft der Männer hat sich für die Weltmeisterschaft im kommenden Jahr qualifiziert. Durch den 78:76-Sieg gegen Lettland in Riga kann die DBB-Auswahl in den letzten drei Spielen nicht mehr von einem …
-- [28.11., 04:43] **Wetter - In der Nacht trocken, 0 bis -9 Grad** — Das Wetter: Nachts im Westen und Nordwesten teils klar, sonst vielerorts hochnebelartig bedeckt oder neblig-trüb. Temperaturrückgang auf 0 bis -9 Grad. Am Tage sonnige Abschnitte vor allem im Westen, am Alpenrand, in Teilen der Osthälfte. …
+- [28.11., 06:24] **Frankreich - Durchsuchung in Parteizentrale des Rassemblement National** — In Frankreich ist in der Parteizentrale des Rassemblement National das Büro des Wahlprogramm-Koordinators von Präsidentschaftskandidatin Le Pen durchsucht worden. Nach Informationen der Nachrichtenagentur AFP fand die Aktion bereits am 9. …
+- [28.11., 06:24] **Sozialpolitik - Bundesarbeitsminister Schweitzer verteidigt Entwurf für Rentenreform** — Bundesarbeitsminister Schweitzer hat seinen Entwurf für eine Rentenreform verteidigt. Der SPD-Politiker sprach in der ARD von einem tragfähigen Kompromissvorschlag. Auch seien die Gemeinsamkeiten in der schwarz-roten Koalition größer als …
+- [28.11., 06:24] **Bundesagentur für Arbeit - Nahles: "Berufseinstieg fällt vielen Jugendlichen offenbar schwer"** — Die Bundesagentur für Arbeit registriert bei Jugendlichen ein Zögern bei der Entscheidung für einen Berufseinstieg.
+- [28.11., 06:24] **Bundeskongress - Juso-Chef wirft SPD Orientierungs- und Mutlosigkeit vor** — Juso-Chef Türmer hat der SPD Orientierungs- und Mutlosigkeit vorgeworfen.
+- [28.11., 06:24] **Erderwärmung - Umweltminister Schneider für Umbau an Rheins** — Bundesumweltminister Schneider plädiert angesichts des voranschreitenden Klimawandels für Änderungen am Rhein.
+- [28.11., 06:24] **Interview der Woche - Verbraucherzentrale Bundesverband: Vorständin Pop für weitere Entlastungen bei Energiekosten** — Der Verbraucherzentrale Bundesverband fordert weitergehende Maßnahmen zur Entlastung der Bürger bei den Energiekosten. Die Vorständin des Bundesverbands, Pop, sagte im "Interview der Woche" des Deutschlandfunks, die von der Regierung …
+- [28.11., 06:24] **Sicherheit - Flugbetrieb in Köln-Bonn nach Drohnensichtung gestoppt** — Eine Drohne hat den Betrieb am Flughafen Köln/Bonn für über zwei Stunden lahmgelegt.
+- [28.11., 06:24] **Gazastreifen - Unterschiedliche Angaben über durch israelische Armee Getötete** — Nach der Tötung zweier Mitarbeiter der Hilfsorganisation Ärzte ohne Grenzen im Gazastreifen durch das israelische Militär gibt es unterschiedliche Darstellungen über die Hintergründe.
+- [28.11., 06:24] **Militär - Russland stellt U-Boot mit Hyperschallraketen offiziell in Dienst** — Der russische Präsident Putin hat ein neues U-Boot mit Hyperschallraketen an Bord offiziell in Dienst gestellt.
+- [28.11., 06:24] **Iran-Konflikt - US-Militär meldet Angriff auf Handelsschiff im Golf von Oman** — Das US-Militär hat nach eigenen Angaben ein Handelsschiff im Golf von Oman angegriffen.
+- [28.11., 06:24] **Parteien - BSW-Parteitag in Dresden: Streit über Umgang mit der AfD** — Auf dem BSW-Bundesparteitag ringen die Delegierten über den künftigen Kurs.
+- [28.11., 06:24] **Spanien - Gekenterter Tanker soll in Hafen von Cartagena geschleppt werden** — Der gestern vor der spanischen Insel Ibiza gekenterte Tanker soll in den Hafen von Cartagena geschleppt werden.
+- [28.11., 06:24] **Fußball-Bundesliga - Werder Bremen - Borussia Mönchengladbach: 3:3** — Werder Bremen und Borussia Mönchengladbach haben sich im Freitagsspiel der Fußball-Bundesliga unentschieden getrennt. Die Partie endete 3:3. Damit bleibt Mönchengladbach Tabellenletzter.
+- [28.11., 06:24] **Sicherheit - "Spiegel": Proiranische Gruppe plante auch Anschlag auf Synagoge in Schweden** — Im Fall der mutmaßlichen Terrorgruppe, die einen Anschlag auf eine Kölner Synagoge geplant haben soll, gibt es offenbar auch eine Spur nach Schweden.
+- [28.11., 06:24] **Sicherheit - Ukraine ⁠will Waffenruhe im Schwarzen Meer zur Sicherung des Lebensmittelexports** — Die Ukraine ⁠strebt nach eigenen Angaben eine Waffenruhe im Schwarzen Meer zur Sicherung des Lebensmittelexports an.
+- [28.11., 06:24] **Neues Bündnis - Türkei ratifiziert Verteidigungspakt mit Saudi-Arabien und Pakistan** — Durch die Zustimmung des türkischen Präsidenten Erdogan ist das neue Verteidigungsabkommen des Landes mit Saudi-Arabien und Pakistan in Kraft getreten.
+- [28.11., 06:24] **Hamburg - Sadistisches Online-Netzwerk: Höchststrafe für "White Tiger" beantragt** — Die Hamburger Staatsanwaltschaft fordert die Höchststrafe für den heute 22-Jährigen, der unter dem Namen "White Tiger" führendes Mitglied eines sadistischen Online-Netzwerks gewesen sein soll.
+- [28.11., 06:24] **Zeitgenössische Kunst - Köln soll für 100 Millionen Euro ein neues Museum bekommen** — In Köln soll einem Bericht zufolge ein neues, privat finanziertes Museum für zeitgenössische Kunst entstehen.
+- [28.11., 06:24] **Basketball - Titelverteidiger Deutschland qualifiziert sich für WM in Katar** — Die deutsche Basketball-Nationalmannschaft der Männer hat sich für die Weltmeisterschaft im kommenden Jahr qualifiziert. Durch den 78:76-Sieg gegen Lettland in Riga kann die DBB-Auswahl in den letzten drei Spielen nicht mehr von einem …
+- [28.11., 06:24] **Wetter - In der Nacht trocken, 0 bis -9 Grad** — Das Wetter: Sonnige Abschnitte vor allem im Westen, am Alpenrand und in Teilen der Osthälfte. Sonst gebietsweise ganztägig trüb durch Hochnebel. Höchstwerte -2 bis +3 Grad. Morgen in der Südosthälfte abseits von Nebelfeldern heiter, von …
 
 ## FAZ
 
+- [28.11., 05:48] **Deutschland Liveblog: Reaktionen auf Schweitzers Pläne: Ringen um Rente geht weiter** — Union reagiert reserviert auf die Rentenpläne des Arbeitsministers +++ Schweitzer bezeichnet seine Rentenpläne als einen „guten Kompromiss“ +++ Linken-Fraktionsvorsitzende Reichinnek kritisiert Pläne als „einziges Kürzungsprogramm“ +++ …
 - [28.11., 05:00] **F.A.Z. MACHTPROBE: Kampf um das höchste Gericht: Wer hat die Macht in Polen?** — Der Kampf um das polnische Verfassungsgericht eskaliert. Das Land versinkt in der politischen Blockade, während im Osten russische Marschflugkörper einschlagen.
 - [28.11., 04:48] **Liveblog Nahost: Ärzte ohne Grenzen: Zwei Mitarbeiter in Gaza getötet** — Israels Armee spricht von Angriff auf „Terroristen“ der islamistischen Hamas +++ Eisenkot wirft Likud vor, Koalitionsverhandlungen in die Länge zu ziehen +++ Syrien: Al-Scharaa ernennt kurdische Politikerin zur Abgeordneten +++ alle …
 - [28.11., 03:04] **Grand Prix in Katar: Formel-1-Pilot fährt Mechaniker an** — Red-Bull-Fahrer Isack Hadjar fährt bei einem Boxenstopp überhastet los und sorgt für ein schmerzhaftes Malheur. Das ruft auch die Rennkommissare auf den Plan.
@@ -69,7 +70,6 @@ Status: Tagesschau: 25 · Deutschlandfunk: 20 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [27.11., 21:37] **Afd und Erinnerungskultur: Ist die Schoa-Erinnerung zur nationalen Selbstentlastung geworden?** — Wenn die Erinnerungskultur nur noch als Beweis deutscher Läuterung dient, verliert das Gedenken seine selbstkritische Kraft. So wird es anfällig für eine völkische Geschichtspolitik, die die NS-Verbrechen relativiert.
 - [27.11., 21:34] **Der Sternhimmel im Dezember: Alle Planeten angetreten!** — Showtime am Himmel: In einer Nacht kann man Anfang Dezember alle hellen Planeten sehen. Und auch die Bedingungen für die Geminiden sind in diesem Jahr ideal.
 - [27.11., 21:27] **Zugang zu Kitas: Unwürdiges Feilschen um die frühe Bildung** — Kinder ohne Deutschkenntnisse finden oft keinen Kita-Platz. Währenddessen verrennen sich Bund und Länder im Feilschen um das Qualitätsgesetz.
-- [27.11., 21:02] **Deutschland Liveblog: Schweitzer bezeichnet seine Rentenpläne als einen „guten Kompromiss“** — SPD-Arbeitsminister will „Rente mit 65“ statt „Rente mit 63“ +++ Linken-Fraktionsvorsitzende Reichinnek kritisiert Pläne als „einziges Kürzungsprogramm“ +++ Juso-Chef Türmer wirft seiner Partei diffuse Mitte-Strategie vor +++ alle …
 - [27.11., 20:44] **nukleare Bedrohung: Russlands Bombe im All** — Atomwaffen im Weltraum können in die Apokalypse führen. Gerade deshalb glauben manche Fachleute, dass es sie nie geben wird.
 - [27.11., 20:32] **Zweite Liga: „Club“ patzt abermals im Aufstiegsrennen** — Miroslav Klose und sein 1. FC Nürnberg kassieren in Heidenheim die zweite Niederlage hintereinander, bleiben in der Tabelle aber vorerst Zweiter.
 - [27.11., 20:26] **KI-Flut bei Gerichten: Was ist dran am „Agentic Flooding“?** — Die KI sorgt für Unmut bei Gerichte, der Ruf nach Gebühren oder Beschränkungen wird lauter. Doch Kritiker warnen vor neuen Hürden.
@@ -85,6 +85,8 @@ Status: Tagesschau: 25 · Deutschlandfunk: 20 · FAZ: 25 · Spiegel: 25 · Zeit:
 
 ## Spiegel
 
+- [28.11., 06:34] **News: Pedro Sánchez unter Druck, Welthungerkrise, Streit um Arbeitsminister Schweitzer** — In Spanien muss der Linke Pedro Sánchez seine Abwahl fürchten. Die Weltgemeinschaft versagt im Kampf gegen den Hunger. Und Arbeitsminister Alexander Schweitzer bringt die Union gegen sich auf. Das ist die Lage am Samstagmorgen.
+- [28.11., 05:58] **Washington, D.C.: Flugzeug streift Flügel anderer Maschine auf Flughafen** — Über Thanksgiving sind in den USA Millionen Menschen unterwegs zu Freunden und Familie, der Luftverkehr läuft dabei eng getaktet. In der Hauptstadt Washington kommt es dabei zu einem Zwischenfall.
 - [28.11., 05:30] **Wie Sie Ihrem Baby helfen, gut zu schlafen** — Es gibt so viele Durchschlaftipps wie Babys auf der Welt. Welche helfen wirklich? Und welche sollten Eltern schnell vergessen? Eine Kinderärztin und zwei Entwicklungspsychologinnen wissen Rat.
 - [28.11., 05:30] **ADHS: Wie Sascha Lobo mit vier Kindern seinen Alltag meistert** — Ich habe ADHS. Und vier Kinder. Wie ich in meinem chaotischen Familienalltag klarkomme – und meine Familie mit mir.
 - [28.11., 05:05] **KNDS: 100.000 Bewerbungen beim Panzerbauer in Deutschland** — Bewerber stehen Schlange, und der Konzern hinter Boxer und Leopard will bis Ende des Jahrzehnts Personal aufbauen. Offen ist, wie KNDS die Produktion tatsächlich hochfährt.
@@ -108,26 +110,24 @@ Status: Tagesschau: 25 · Deutschlandfunk: 20 · FAZ: 25 · Spiegel: 25 · Zeit:
 - [27.11., 17:13] **»Wetten, dass..?«: Nina Chuba und Herbert Grönemeyer kommen zu, ein Bagger vielleicht auch** — Im Dezember wird es die erste »Wetten, dass..?«-Ausgabe nach der Ära von Thomas Gottschalk geben. Das ZDF hat weitere Gäste der Kaulitz-Zwillinge bekannt gegeben und erste Andeutungen zu den Wetten gemacht.
 - [27.11., 17:06] **Bilanz der Klimakonferenz in Antalya: War das ein Scheitern?** — Eine gemeinsame politische Abschlusserklärung aller Staaten kam auf der COP31 nicht zustande. Das ist nicht unbedingt ein schlechtes Ergebnis.
 - [27.11., 17:01] **Costa Rica verweigert Francesca Albanese die Einreise** — Terrorverdacht oder politische Abrechnung? Costa Rica verbietet einer israelkritischen Uno-Sonderberichterstatterin die Einreise und verweist auf »Verbindungen zu terroristischen Handlungen«. Es laufen mehrere Beschwerden.
-- [27.11., 16:39] **Schmetterling des Jahres 2027: Gelbwürfeliger Dickkopffalter** — Sein Zuhause sind ungemähte Waldränder, Waldwege und Lichtungen: Der Gelbwürfelige Dickkopffalter ist Schmetterling des Jahres 2027. Mit der Wahl wollen Naturschützer auf den Verlust seines Lebensraums aufmerksam machen.
-- [27.11., 16:29] **René Benko: Gericht korrigiert Strafe nach oben – nun drei Jahre Haft** — Die Prozessserie rund um den österreichischen Investor René Benko geht weiter. Nun hat das Oberlandesgericht Innsbruck die Strafe für ein Verfahren angepasst. Das sind schlechte Nachrichten für Benko.
 
 ## Zeit
 
-- [28.11., 05:30] **Weihnachten: Internationales Weihnachtstreffen in Uelzen**
-- [28.11., 05:23] **Reaktion auf Rentenpläne: Leiter der Rentenkommission kritisiert Reformentwurf** — Aus der Rentenkommission kommt Lob und Tadel. Linke und Gewerkschaften warnen vor einer Kündigungswelle. Ein CDU-Politiker stellt die Koalitionstreue der SPD infrage.
-- [28.11., 05:15] **Terrorismus: Rund 16,5 Millionen Euro für Betroffene von Anschlägen**
-- [28.11., 05:15] **Treffen in Dresden: BSW-Parteitag entscheidet: Wie weiter mit der AfD?**
-- [28.11., 05:05] **Zukunft der Altersvorsorge: Kein Reformkompromiss in Sicht: Ringen um Rente geht weiter**
-- [28.11., 05:00] **Alkoholexzesse junger Menschen: Extremes Trinken: Mehr junge Schleswig-Holsteiner behandelt**
-- [28.11., 05:00] **Künstliche Intelligenz: Bürgerbeauftragter: KI droht uns zu überlasten**
-- [28.11., 05:00] **Trotz Iran-Krieg: Mittelstand blickt wieder optimistischer auf die Geschäfte**
-- [28.11., 05:00] **«Für was?»: Thomas Anders schimpft über private Silvesterböllerei**
-- [28.11., 04:36] **Mittelmeer: Spanien lässt gekenterten Tanker nach Cartagena schleppen** — Die Tanks der vor der Insel Ibiza havarierten »Med Emre« sind laut Behörden intakt. Das Schiff soll nun in einen spanischen Küstenhafen gebracht und entladen werden.
-- [28.11., 04:28] **Künstliche Intelligenz: OpenAI reicht im KI-Wettkampf Gegenklage gegen Apple ein** — Der ChatGPT-Entwickler soll Geheimwissen von Apple abgezapft haben, um neuartige Geräte zu entwickeln. Apple hatte dagegen geklagt. Nun erhebt OpenAI ähnliche Vorwürfe.
-- [28.11., 03:13] **Frankreich: Polizei durchsucht Büro und Wohnung von Marine Le Pens Ex-Büroleiter** — Die Partei der französischen Rechtspopulistin steht unter Verdacht, EU-Gelder veruntreut zu haben. Ermittler fanden bei Razzien laut Berichten eine verdächtige E-Mail.
-- [28.11., 02:30] **Rhein: Umweltminister setzt sich für Umbau des Rheins ein** — Carsten Schneider will dem Rhein mehr Platz geben, statt ihn zu vertiefen. Mit Blick auf die Kosten erinnert der Umweltminister an hitzebedingte Wirtschaftseinbußen.
-- [27.11., 23:05] **Bundesliga, 11. Spieltag – Freitag: Schlusslicht Mönchengladbach verpasst Sieg bei Werder Bremen** — Der Tabellenletzte Mönchengladbach führt in Bremen bis kurz vor Schluss – und verpasst dennoch den Sieg. Gleich zwei Spielern gelingt ein Doppelpack. Der Spielbericht
-- [27.11., 22:58] **Michael Hatzius: Puppenspieler Michael Hatzius ist tot** — Der Comedian Michael Hatzius ist nach schwerer Erkrankung im Alter von 44 Jahren gestorben. Mit der Figur »Echse« war der Ostberliner Puppenspieler bekannt geworden.
+- [28.11., 06:25] **Zusammenstoß: Fußgänger nahe Reeperbahn von Auto erfasst - Lebensgefahr**
+- [28.11., 06:14] **Spitzbuben: Nennt sie nicht KEKS!** — Die Spitzbuben ihrer Mama reisen von Bayern aus in die weite Welt. Für uns hat unsere Autorin die geliebten Plätzchen – nicht Kekse – nachgebacken.
+- [28.11., 06:10] **Grippe: Sachsen hat genug Grippeimpfstoff – Saison verläuft moderat**
+- [28.11., 06:09] **Verkehr: 82-Jährige von E-Scooter angefahren und schwer verletzt**
+- [28.11., 06:05] **Bahn-Pünktlichkeit: Weniger Züge könnten laut Verkehrsminister gegen Verspätungen wirken** — Das Bahnnetz ist überlastet. Um die Pünktlichkeit zu erhöhen, kann sich Verkehrsminister Steffen Bilger als »letztes Mittel« vorstellen, den Zugverkehr zu reduzieren.
+- [28.11., 06:03] **Fußball-Bundesliga: So emotional reagiert Bremens Dinkçi nach seinem Doppelpack**
+- [28.11., 06:02] **Mario Vušković: Betrüger oder Betrogener?** — Nach vier Jahren Doping-Sperre soll es ein Comeback des Mario Vušković beim HSV geben. Unser Kolumnist sieht eine Herzschmerz-Geschichte. Darf man sie gut finden?
+- [28.11., 06:00] **Bundesparteitag des BSW: Wie viel AfD will das BSW?** — Das BSW will beim Parteitag über den Umgang mit der AfD diskutieren. Droht der Partei die Spaltung? Und: Warum finden fast eine Million junger Briten keinen Job?
+- [28.11., 06:00] **Falklandinseln: Wem gehört das Öl vor den Falklandinseln?** — Großbritannien will vor den Falklandinseln Öl fördern – Argentinien will das verhindern. Nun urteilt der Seegerichtshof. Was hinter dem Konflikt um das Archipel steckt.
+- [28.11., 06:00] **Georges Manolescu: Adel und Hochstapelei: Der Fürst der Diebe** — Was die Geschichte des selbst ernannten Fürsten Lahovary über den Niedergang des europäischen Adels verrät – und wie Thomas Mann diesen Hochstapler unsterblich machte.
+- [28.11., 06:00] **Südtirol: Keine Häufchen-Kontrolle: Hunde-Datenbank gescheitert**
+- [28.11., 06:00] **Amtsende naht: Was kommt für Elke Büdenbender nach Bellevue?**
+- [28.11., 05:59] **Altersvorsorgedepot: Weiter Riestern – oder doch Vorsorgedepot?** — Das Altersvorsorgedepot löst ab Januar die Riester-Rente ab. Diese drei Fälle zeigen, wann ein Wechsel sinnvoll ist – und wann man besser schön im Riester-Vertrag bleibt.
+- [28.11., 05:58] **Markus Reisner: »Russland erdrückt die Ukraine langsam, wie eine Würgeschlange«** — Putin kann den Krieg noch lange durchhalten, warnt Oberst Markus Reisner. Er erklärt, warum die Front ein »gläsernes Gefechtsfeld« ist und er Europa für wehrlos hält.
+- [28.11., 05:56] **Fußball-Bundesliga: Viel Lob, aber nur ein Punkt: Gladbach kommt nicht vom Fleck**
 
 ## NZZ
 
